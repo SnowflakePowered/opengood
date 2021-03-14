@@ -1,0 +1,302 @@
+ You have 300 of 300 known Atari Lynx ROMS (V2.01)
+
+256 Color Demo by Bastian Schick (1997) (PD) [a1]
+256 Color Demo by Bastian Schick (1997) (PD)
+256 Color Mandelbrot Demo by Bastian Schick (1998) (PD) [a1]
+256 Color Mandelbrot Demo by Bastian Schick (1998) (PD)
+Alien Vs Predator (Prototype) (1993) [!]
+APB - All Points Bulletin (1990) [b1]
+APB - All Points Bulletin (1990)
+Awesome Golf (1991) [b1]
+Awesome Golf (1991)
+Baseball Heroes (1991) [b1]
+Baseball Heroes (1991)
+Basketbrawl (1992) [a1]
+Basketbrawl (1992) [b1]
+Basketbrawl (1992)
+Batman Returns (1992) [b1]
+Batman Returns (1992)
+Battle Wheels (1993) (Beyond Games) [o1]
+Battle Wheels (1993)
+Battlezone 2000 (1996)
+Bill & Ted's Excellent Adventure (1991) [b1]
+Bill & Ted's Excellent Adventure (1991)
+Block Out (1990) [o1]
+Block Out (1990)
+Blue Lightning (1989) [a1]
+Blue Lightning (1989)
+Blue Lightning Demo (1989) [o1]
+Blue Lightning Demo (1989)
+Boing Demo (199x) (PD) [a1]
+Boing Demo (199x) (PD) [a2]
+Boing Demo (199x) (PD) [a3]
+Boing Demo (199x) (PD)
+BRK Server Installer by Bastian Schick (1996) (PD) [a1]
+BRK Server Installer by Bastian Schick (1996) (PD)
+Bubble Bobble V.2 Demo (199x) (PD)
+Bubble Trouble (1997) (Telegames)
+C65 - Demo0 (1998) (PD) [a1]
+C65 - Demo0 (1998) (PD)
+C65 - Demo1 (1998) (PD) [a1]
+C65 - Demo1 (1998) (PD)
+C65 - Demo2 (1998) (PD) [a1]
+C65 - Demo2 (1998) (PD)
+C65 - Demo3 (1998) (PD) [a1]
+C65 - Demo3 (1998) (PD)
+C65 - Gfxtest (1998) (PD) [a1]
+C65 - GFXTest (1998) (PD)
+C65 - Mandelbrot (1998) (PD) [a1]
+C65 - Mandelbrot (1998) (PD)
+C65 - Mazedemo (1998) (PD) [a1]
+C65 - Mazedemo (1998) (PD)
+C65 - Minimal (1998) (PD) [a1]
+C65 - Minimal (1998) (PD)
+C65 - Sprite (1998) (PD) [a1]
+C65 - Sprite (1998) (PD)
+California Games (1991) [o1]
+California Games (1991)
+Cartshow by Matthias Domin (1998) (PD)
+Centipede (Prototype) (1987) (Shadowsoft)
+Check EEPROM by Bastian Schick (1996) (PD) [a1]
+Check EEPROM by Bastian Schick (1996) (PD)
+Checkered Flag (1991) [b1]
+Checkered Flag (1991)
+Chip's Challenge (1989) [o1]
+Chip's Challenge (1989)
+Chip8 Emulator Release 1 (2004) (PD)
+Chip8 Emulator Release 2 (2004) (PD)
+Chip8 Emulator Release 3 (2004) (PD)
+Chip8 Emulator Release 4 (2004) (PD)
+Chip8 Emulator Release 5 (2004) (PD)
+Chip8 Emulator Release 6 (2004) (PD)
+Circle and Tunnel Demo (199x) (PD)
+Circle Draw Test (199x) (PD)
+Circle Tunnel by Bastian Schick (1996) (PD)
+Clicks! by Matthias Domin (2001) (PD)
+Clicks! Demo V6 by Matthias Domin (2001) (PD)
+Conquest of Zow (1996)
+Crystal Mines II (1990) [o1]
+Crystal Mines II (1990)
+Demo 1 by Bastian Schick (1996) (PD)
+Demo 2 by Bastian Schick (1996) (PD)
+Demo 3 by Bastian Schick (1996) (PD)
+Demo 4 by Bastian Schick (1996) (PD)
+Demo 5 by Bastian Schick (1996) (PD)
+Demo 6 by Bastian Schick (1996) (PD) [a1]
+Demo 6 by Bastian Schick (1996) (PD)
+Desert Strike - Return to the Gulf (1993) (Telegames) [b1]
+Desert Strike - Return to the Gulf (1993) (Telegames)
+Digidemo (199x) (PD)
+Digidemo 2 (199x) (PD)
+Dinolympics (1992) [b1]
+Dinolympics (1992)
+Dirty Larry - Renegade Cop (1992) [b1]
+Dirty Larry - Renegade Cop (1992)
+Double Dragon (1993) (Telegames) [b1]
+Double Dragon (1993) (Telegames)
+Dracula - The Undead (1991) [b1]
+Dracula - The Undead (1991)
+Dragnet (1995)
+Drawtest by Bastian Schick (199x) (PD)
+Dungeon, The V.0x by Matthias Domin (1997) (PD)
+Dungeon, The V.11 by Matthias Domin (1998) (PD)
+Dungeon, The V.12 by Matthias Domin (1998) (PD)
+EEPROM Test I2C (199x) (PD)
+Electrocop (1989) [o1]
+Electrocop (1989)
+European Soccer Challenge (1993) (Telegames) [o1]
+European Soccer Challenge (1993) (Telegames)
+Eye of the Beholder (Prototype) (1990) (NuFX)
+Fat Bobby (1997) (Telegames)
+Fidelity Ultimate Chess Challenge (1991) (Telegames) [o1]
+Fidelity Ultimate Chess Challenge (1991) (Telegames)
+Fighter V.2 Demo (2000) (PD)
+Fire (Fever) Demo by Bastian Schick (1997) (PD)
+Font Test 2 by Bastian Schick (199x) (PD) [a1]
+Font Test 2 by Bastian Schick (199x) (PD)
+Gates of Zendocon, The (1989) [o1]
+Gates of Zendocon, The (1989)
+Gauntlet - The Third Encounter (1990) [o1]
+Gauntlet - The Third Encounter (1990)
+Ghouls 'n' Ghosts Plus V.2 Demo (199x) (PD)
+Gordo 106 - The Mutated Lab Monkey (1993) [b1]
+Gordo 106 - The Mutated Lab Monkey (1993) [b2]
+Gordo 106 - The Mutated Lab Monkey (1993)
+Hard Drivin' (1993) [o1]
+Hard Drivin' (1993)
+Hockey (1992) [b1]
+Hockey (1992)
+Hydra (1992) [b1]
+Hydra (1992)
+I2C EEPROM Test by Bastian Schick (1996) (PD)
+Insert Game Screen by Bastian Schick (199x) (PD)
+IRQ Test by Bastian Schick (1998) (PD) [a1]
+IRQ Test by Bastian Schick (1998) (PD)
+Ishido - The Way of the Stones (1991) [o1]
+Ishido - The Way of the Stones (1991)
+Jimmy Conners Tennis (1991) [b1]
+Jimmy Conners Tennis (1991) [b2]
+Jimmy Conners Tennis (1991)
+Joust (1993) (Williams) [o1]
+Joust (1993) (Williams)
+Klax (1990) [b1]
+Klax (1990)
+Krazy Ace Minature Golf (1997) (Telegames) [b1]
+Krazy Ace Minature Golf (1997) (Telegames) [b2]
+Krazy Ace Minature Golf (1997) (Telegames) [b3]
+Krazy Ace Minature Golf (1997) (Telegames)
+Kung Food (1992) [b1]
+Kung Food (1992)
+Lemmings (1993) [b1]
+Lemmings (1993)
+Lexis (1999) (Songbird)
+Lite (Fever) by Bastian Schick (1997) (PD)
+Lode Runner (1996) (Kurt Olsen)
+Logon by Bastian Schick (1996) (PD) [a1]
+Logon by Bastian Schick (1996) (PD)
+Loopz (Prototype) (1992) (Handmade Software)
+Lynx Casino (1992) [b1]
+Lynx Casino (1992)
+Lynx Diagnostic Cart V0.02 (1989)
+Lynx Lib Test Program by Matthias Domin (1997) (PD)
+Malibu Bikini Volleyball (1993) [b1]
+Malibu Bikini Volleyball (1993)
+MandelBrot Demo by Bastian Schick (1996) (PD) [a1]
+MandelBrot Demo by Bastian Schick (1996) (PD)
+Marble Madness by Matthias Domin (1997) (PD)
+Marble Madness by Matthias Domin (1999) (PD)
+Mario Plus Demo (199x) (PD)
+Marlboro Go! (Prototype) (1993) (Digital Image)
+Mega Man Plus Demo (199x) (PD)
+Micro Font Data by Bastian Schick (1999) (PD)
+Micro Font Dumper by Bastian Schick (199x) (PD)
+Mines 2 by Bastian Schick (1996) (PD)
+Mini Demo 01 by Bastian Schick (1998) (PD)
+Mini Demo 02 by Bastian Schick (1998) (PD)
+Mini Demo 03 by Bastian Schick (1998) (PD)
+Mini Demo 04 by Bastian Schick (1998) (PD)
+Mini Demo 05 by Bastian Schick (1998) (PD)
+Mini Demo 06 by Bastian Schick (1998) (PD)
+Ms. Pac-Man (1990) [a1]
+Ms. Pac-Man (1990) [b1]
+Ms. Pac-Man (1990)
+NFL Football (1990) [b1]
+NFL Football (1990)
+Ninja Gaiden (1990) [b1]
+Ninja Gaiden (1990)
+Ninja Gaiden III - The Ancient Ship of Doom (1993) [b1]
+Ninja Gaiden III - The Ancient Ship of Doom (1993) [b2]
+Ninja Gaiden III - The Ancient Ship of Doom (1993)
+Pac-Land (1991) [o1]
+Pac-Land (1991)
+Paperboy (1990) [o1]
+Paperboy (1990)
+Para Lemi! v001 (1997) (PD)
+Para Lemi! v002 (1997) (PD)
+Para Lemi! v003 (1997) (PD)
+Para Lemi! v004 (1997) (PD)
+Para Lemi! v005 (1997) (PD)
+Pinball Jam (1992) [b1]
+Pinball Jam (1992)
+Pit Fighter - The Ultimate Competition (1992) [b1]
+Pit Fighter - The Ultimate Competition (1992)
+Play Sound Sample by Bastian Schick (1996) (PD)
+Pong5 by Carl Forhan (1997) (PD) [a1]
+Pong5 by Carl Forhan (1997) (PD)
+Power Factor (1992) [b1]
+Power Factor (1992)
+Puzzler 2000 (Air BGM) (1998) (PD)
+Puzzler 2000 (Entertainer BGM) (1998) (PD)
+Puzzler 2000 (Invent13 BGM) (1998) (PD)
+Puzzler 2000 V.43 (Aug 26) (1998) (PD)
+Puzzler 2000 V.4x (Aug 15) (1998) (PD)
+Puzzler 2000 V0.2 Demo (1998) (PD)
+Qix (1991) (Telegames) [o1]
+Qix (1991) (Telegames)
+Raiden (1997) (Telegames)
+Rampage (1991) [b1]
+Rampage (1991)
+Rampart (1991) [b1]
+Rampart (1991)
+Raw by Bastian Schick (1997) (PD) [a1]
+Raw by Bastian Schick (1997) (PD) [a2]
+Raw by Bastian Schick (1997) (PD)
+Raycast Corridor by Matthias Domin (1998) (PD)
+Remnant Planar Wars 3D Beta (2000) (PD)
+Road Riot 4WD (Beta) (1994)
+RoadBlasters (1990) [b1]
+RoadBlasters (1990)
+Robo-Squash (1990) [o1]
+Robo-Squash (1990)
+Robotron 2084 (1991) (Williams)
+Rygar - Legendary Warrior (1990) [b1]
+Rygar - Legendary Warrior (1990)
+S.T.U.N. Runner (1991) [b1]
+S.T.U.N. Runner (1991)
+Scrapyard Dog (1991) [b1]
+Scrapyard Dog (1991)
+Shadow of the Beast (1992) [b1]
+Shadow of the Beast (1992)
+Shanghai (1990) [o1]
+Shanghai (1990)
+Show King Tut by Bastian Schick (1996) (PD) [a1]
+Show King Tut by Bastian Schick (1996) (PD)
+Snakebyte by Matthias Domin (1998) (PD)
+Sound Demo by Bastian Schick (1997) (PD) [a1]
+Sound Demo by Bastian Schick (1997) (PD)
+Sprite Ed by Bastian Schick (1996) (PD) [a1]
+Sprite Ed by Bastian Schick (1996) (PD)
+Sprite-Demo 1 by Matthias Domin (2000) (PD)
+Sprite-Demo 2 by Matthias Domin (2000) (PD)
+Sprite-Demo 3 by Matthias Domin (2000) (PD)
+Sprite-Demo 4 by Matthias Domin (2000) (PD) [a1]
+Sprite-Demo 4 by Matthias Domin (2000) (PD)
+Sprite-Demo 5 by Matthias Domin (2000) (PD)
+Stardreamer (2000) (PD)
+StarDreamer - Cutscene (2002) (PD)
+StarDreamer - Docked (2002) (PD)
+StarDreamer - Flying (2002) (PD)
+StarDreamer - Full Game (2002) (PD)
+StarDreamer - Intro (2002) (PD)
+Steel Talons (1991) [b1]
+Steel Talons (1991)
+Super Asteroids & Missile Command (1995) [o1]
+Super Asteroids & Missile Command (1995)
+Super Off-Road (1996) (Telegames)
+Super Skweek (1991) [b1]
+Super Skweek (1991)
+Super Sprint Title Screen Demo (2000) (PD)
+Switchblade II (1992) [b1]
+Switchblade II (1992)
+T-Tris (1996) by Bastian Schick [a1]
+T-Tris (1996) by Bastian Schick
+Tetris (1996) [b1]
+Tetris (1996) [b2]
+Tetris (1996) [b3]
+TextOut Test Program 2 by Matthias Domin (1998) (PD)
+Todd's Adventure in Slime World (1990) [o1]
+Todd's Adventure in Slime World (1990)
+Toki (1990) [b1]
+Toki (1990)
+Tournament Cyberball 2072 (1991) [b1]
+Tournament Cyberball 2072 (1991)
+Turbo Sub (1991) [a1]
+Turbo Sub (1991)
+Unknown Game 'T-RES' (199x) [b1]
+Viking Child (1991) [b1]
+Viking Child (1991)
+Warbirds (1990) [o1]
+Warbirds (1990)
+World Class Soccer (1992) [b1]
+World Class Soccer (1992) [b2]
+World Class Soccer (1992)
+Wuerfel 3 Demo (199x) (PD)
+Xenophobe (1990) [a1]
+Xenophobe (1990) [a2]
+Xenophobe (1990) [a3]
+Xenophobe (1990)
+Xybots (1991) [b1]
+Xybots (1991)
+Zarlor Mercenary (1990) [b1]
+Zarlor Mercenary (1990) [o1]
+Zarlor Mercenary (1990)

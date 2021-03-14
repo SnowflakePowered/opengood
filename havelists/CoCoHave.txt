@@ -1,0 +1,170 @@
+ You have 168 of 184 known Radio Shack Color Computer ROMS (V3.27)
+
+7 Card Stud (1983) (26-3074) (Intelligent Software LTD)
+A Mazing World of Malcom Mortar (1987) (26-3160) (ZCT Systems) (CoCo3) [a1]
+A Mazing World of Malcom Mortar (1987) (26-3160) (ZCT Systems) (CoCo3)
+Alldream (1984) (Grosvenor Software)
+Androne (1983) (26-3096) (Robert Arnstein) [!]
+Applicance and Light Controller (1984) (26-3142) (Pico Electronics LTD)
+Arkanoid (1987) (26-3043) (Taito) [b1]
+Arkanoid (1987) (26-3043) (Taito)
+Art Gallery (1981) (26-3061) (Robert G. Kilgus) [!]
+Astroblast (1982) (Dragon Data)
+Atom (1983) (26-3149) (Tandy) [o1]
+Atom (1983) (26-3149) (Tandy)
+Audio Spectrum Analyzer (1981) (26-3156) (Steve Bjork) [!]
+Berserk (1982) (Mark Data Products)
+Bingo Math (1980) (26-3150) (Tandy) [!]
+Bridge Master (1983) (Dragon Data)
+Bridge Tutor I (1982) (26-3158) (Philidor Software) [!]
+Canyon Climber (1982) (26-3089) (DataSoft) [!]
+Canyon Climber (1982) (26-3089) (DataSoft) [a1]
+Canyon Climber (1982) (26-3089) (DataSoft) [a2]
+Cash Planner (1983) (FarmFax)
+Castle Guard (1981) (26-3079) (The Image Producers) [!]
+Castle of Tharoggad (1988) (26-3159) (Tandy) (CoCo3) [!]
+Cave Hunter (1982) (Mark Data Products)
+Checker King (1980) (26-3055) (Personal Software)
+Clowns & Balloons (1982) (26-3087) (Steve Bjork) [!]
+CoCo II Color BASIC V1.0 (1984) (Prologica-Brazilian)
+CoCo3 Extended Color BASIC V2.0 (1982) (Tandy) (PAL)
+CoCo3 Extended Color BASIC V2.0 (1982) (Tandy) [b1]
+Color Backgammon (1980) (26-3059) (Tandy)
+Color Baseball (1980) (26-3095) (Dale A. Lear) [!]
+Color BASIC V1.0 (1980) (Tandy)
+Color BASIC V1.1 (1980) (Tandy)
+Color BASIC V1.2 (1982) (Tandy)
+Color BASIC V1.3 (1982) (Tandy)
+Color Computer Disk BASIC for FD502 (1982) (26-3131) (Tandy)
+Color Computer Disk BASIC V1.1 (1982) (26-3022) (Tandy)
+Color Cubes (1981) (26-3075) (Robert G. Kilgus) [!]
+Color File (1981) (26-3103) (Tandy) [!]
+Color File II (1986) (26-3110) (Tandy)
+Color Forth (1981) (Microworks) [!]
+Color Logo (1983) (26-2722) (Larry Kheriaty & George Gerhold) [!]
+Color Logo (French Release) (1983) (26-8722) (Larry Kheriaty & George Gerhold) [!]
+Color Robot Battle (1981) (26-3070) (The Image Producers)
+Color Scripsit (1981) (26-3105) (Robert G. Kilgus) [!]
+Color Scripsit (1981) (26-3105) (Robert G. Kilgus) [a1][!]
+Color Scripsit II (1986) (26-3109) (Dale A. Lear)
+Cosmic Invaders (1982) (Spectral Associates)
+Crosswords (1981) (26-3082) (The Image Producers)
+Cumana DOS v2.0 (1985) (Cumana)
+Cyrus Chess (1982) (Dragon Data)
+Cyrus World Class Chess (1983) (26-3064) (Tandy)
+Dairy Prediction (1983) (FarmFax)
+DASM-Demon (1983) (Compusense)
+DeltaDOS (1983) (Premier Microsystems)
+Deluxe RS-232 Program Pak (1983) (26-2226) (Tandy)
+Demolition Derby (1984) (26-3044) (Spectral Associates) [!]
+Demon Attack (1984) (26-3099) (Activision) [b1]
+Demon Attack (1984) (26-3099) (Activision)
+Diagnostics (1980) (26-3019) (Tandy) [!]
+Diagnostics V2.0 (1982) (26-3019) (Tandy)
+Dino Wars (1981) (26-3057) (Robert G. Kilgus) [!]
+Direct Connect Modem Pak (1985) (26-2228) (Tandy)
+DON-PAN (1984) (26-3097) (Tandy)
+Doodle Bug (1982) (Computerware) (Beta) [b1]
+Doodle Bug (1982) (Computerware) [a1]
+Doodle Bug (1982) (Computerware)
+Doodle Bug (1982) (Dragon Data)
+DOS-Dream (1986) (Dragon Data)
+DOSPlus v4.8 (1989) (3S)
+DOSPlus v4.9B (1989) (3S) [o1]
+DOSPlus v4.9B (1989) (3S)
+Doubleback (1982) (26-3091) (Dale A. Lear) [!]
+Downland V1.0 (1983) (26-3046) (Tandy) [!]
+Downland V1.1 (1983) (26-3046) (Tandy) [a1]
+Dragon Fire (1984) (26-3098) (Tandy)
+DragonDOS V1.0 (1983) (Dragon Data)
+DragonDOS V1.0 - Pre-Release 1 (1983) (Dragon Data)
+DragonDOS V1.0 - Pre-Release 3 (1983) (Dragon Data)
+DragonDOS V4.0 (1985) (Eurohard S.A.)
+DragonDOS V4.0_Spanish (1985) (Eurohard S.A.)
+DragonDOS V4.1 (1985) (Eurohard S.A.)
+Dungeons of Daggorath (1982) (26-3093) (DynaMicro) [!]
+Edit+ (1983) (Compusense)
+EDTASM+ (1982) (26-3250) (Tandy) [!]
+Encoder 09 (1984) (Premier Microsystems)
+Extended Color BASIC V1.0 (1981) (Tandy)
+Extended Color BASIC V1.1 (1982) (Tandy) [b1]
+Extended Color BASIC V1.1 (1982) (Tandy)
+Facemaker (1984) (26-3166) (Spinnaker) [!]
+Football (1980) (26-3053) (Tandy) [!]
+Fraction Fever (1984) (26-3169) (Spinnaker) [!]
+Galactic Attack (1982) (26-3066) (The Image Producers) [!]
+GFL Championship Football II (1988) (26-3172) (ZCT Systems) (CoCo3) [!]
+GFL Championship Football II (1988) (26-3172) (ZCT Systems) (CoCo3) [b1]
+Ghost Attack (1982) (Computerware)
+Gin Champion (1982) (26-3083) (Philidor Software) [!]
+Gomoku-Renju (1983) (26-3069) (Intelligent Software Ltd) [!]
+Graphic Pak (1982) (26-3157) (Tandy)
+Handyman (1981) (26-3154) (Tandy)
+JDOS V1.08 (1983) (J&M Systems)
+JDOS V1.10 (1983) (J&M Systems)
+JDOS V1.23 (1985) (J&M Systems) [o1]
+JDOS V1.23 (1985) (J&M Systems)
+Kids on Keys (1984) (26-3167) (Spinnaker) [!]
+Kindercomp (1984) (26-3168) (Spinnaker) [!]
+Math Tutor (1988) (26-3148) (ZCT Systems)
+Mega-Bug (1982) (26-3076) (Steve Bjork) [!]
+Meteors (1982) (Spectral Associates)
+Micro Chess V2.0 (1980) (26-3050) (Personal Software) [!]
+Micro Chess V2.0 (1980) (26-3050) (Personal Software) [a1]
+Micro Painter (1982) (26-3077) (DataSoft) [!]
+Microbes (1981) (26-3085) (Spectral Associates) [!]
+Mind-Roll (1988) (26-3100) (EPYX) (CoCo3) [!]
+Mind-Roll (1988) (26-3100) (EPYX) (CoCo3) [b1]
+Monster Maze (1983) (26-3081) (Tandy)
+Orchestra 90-CC (1984) (26-3143) (Tandy)
+Panic Button (1983) (26-3147) (Tandy)
+Personal Finance (1980) (26-3101) (Tandy) [!]
+Personal Finance II (1983) (26-3106) (Tandy) [!]
+Pinball (1980) (26-3052) (Tandy) [!]
+Polaris (1981) (26-3065) (Tandy) [!]
+Poltergeist (1982) (26-3073) (Tandy) [!]
+Popcorn (1981) (26-3090) (Steve Bjork) [!]
+Popcorn (1981) (26-3090) (Steve Bjork) [o1]
+Prestel for Dragon Alpha (198x) (Dragon Data)
+Project Nebula (1981) (26-3063) (Tandy) [!]
+Quasar Commander (1980) (26-3051) (Robert G. Kilgus) [!]
+Quick Diagnostic Rom (1982) (Dragon Data)
+RAD Warrior (1987) (26-3162) (Tandy) (CoCo3)
+Rail Runner (1982) (Computerware)
+Rampage! (1989) (26-3174) (Activision)
+Reactoid (1983) (26-3092) (Robert Arnstein) [!]
+RoboCop (1988) (26-3164) (Data East) (CoCo3)
+Roman Checkers (1981) (26-3071) (The Image Producers)
+Rotation Formulation Dairy (1983) (FarmFax)
+Shanghai (1987) (26-3084) (Activision) (CoCo3) [!]
+Shanghai (1987) (26-3084) (Activision) (CoCo3) [b1]
+Shooting Gallery (1982) (26-3088) (DataSoft)
+Silpheed (1988) (26-3054) (Sierra) (CoCo3) [b1]
+Silpheed (1988) (26-3054) (Sierra) (CoCo3)
+Silpheed (1988) (26-3054) (Sierra)
+Skiing (1981) (26-3058) (Robert G. Kilgus) [!]
+Slay the Nereis (1983) (26-3086) (Spectral Associates) [!]
+Soko-Ban (1988) (26-3161) (Spectral Associates)
+Space Assault (1981) (26-3060) (Tandy) [!]
+Spectaculator (1983) (26-3104) (Tandy) [o1]
+Spectaculator (1983) (26-3104) (Tandy)
+Spidercide (1983) (26-3049) (Tandy)
+Springster (1987) (26-3078) (Spectral Associates)
+Starblaze (1983) (26-3094) (Greg Zumwalt) [!]
+Starship Chameleon (1982) (Computerware)
+Stellar Life Line (1983) (26-3047) (Tandy)
+Super Bustout (1980) (26-3056) (Tandy) [b1]
+Super Bustout (1981) (26-3056) (Tandy) [!]
+Super Pitfall (1988) (26-3171) (Activision) (CoCo3)
+SuperDOS e6 (198x) (PNP)
+Temple of ROM (1984) (26-3045) (Rick Adams) [!]
+Tennis (1981) (26-3080) (Tandy) [!]
+Tetris (1987) (26-3163) (Greg Zumwalt)
+Thexder (1987) (26-3072) (Sierra) (CoCo3)
+Toolkit (1983) (Premier Microsystems)
+TypeMate (1988) (26-3155) (ZCT Systems)
+Typing Tutor (1980) (26-3152) (Leah R. O'Connor) [!]
+Videotex V1.1 (1981) (26-2222) (Tandy)
+Videotex V1.2 (1981) (26-2222) (Tandy) [!]
+Wildcatting (1982) (26-3067) (Harlow B. Staley) [!]
+Zaxxon (1983) (26-3062) (Tandy)

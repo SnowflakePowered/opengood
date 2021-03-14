@@ -1,0 +1,9 @@
+ You are missing 7 of 932 known Atari 7800 ROMS (V3.28)
+
+Diagnostic Cartridge Temp ROM by John K Harvey (PD)
+Pac-Man 7800 by Bob DeCrescenzo (V0.1unsigned)
+Pac-Man 7800 by Bob DeCrescenzo (V0.2unsigned)
+Pac-Man 7800 by Bob DeCrescenzo (V0.3unsigned)
+Pac-Man 7800 by Bob DeCrescenzo (V0.4unsigned)
+Pac-Man 7800 by Bob DeCrescenzo (V0.5(unsigned))
+Pac-Man 7800 by Bob DeCrescenzo (V0.6unsigned)

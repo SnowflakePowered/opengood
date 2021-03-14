@@ -1,0 +1,181 @@
+ You have 179 of 179 known Nintendo Virtual Boy ROMS (V3.1415)
+
+3D Tetris (U) [!]
+Affine Mode Demo 1 v0.9 by David Tucker (PD)
+Affine Mode Demo 2 v0.9 by David Tucker (PD)
+BitString Demo by Dan Bergman (PD)
+Blox 2 Demo Version by KR155E (PD)
+Blox V1.0 by KR155E (PD)
+Blox V1.1 by KR155E (PD)
+Chrono Trigger Run Demo 1 by MrSparkle (PD)
+Chrono Trigger Run Demo 2 by MrSparkle (PD)
+Croach, The (PD)
+Etch-A-Sketch by Pat Daderko (PD)
+Framebuffer Drawing Demo by Pat Daderko (PD)
+Galactic Pinball (JU) [!]
+GLOW Demo by KR155E (PD) [a1]
+GLOW Demo by KR155E (PD)
+Golf (U) [!]
+GoSub v1.0 by Chris Read (PD)
+GoSub v2009-04-10 by Chris Read (PD)
+GoSub v2009-04-11d by Chris Read (PD)
+GoSub v2009-04-11v1 by Chris Read (PD)
+GoSub v2009-04-11v2 by Chris Read (PD)
+GoSub v2009-04-11v3 by Chris Read (PD)
+GoSub v2009-04-12v1 by Chris Read (PD)
+GoSub v2009-04-12v2 by Chris Read (PD)
+GoSub v2009-04-13 by Chris Read (PD)
+GoSub v2009-04-14v1 by Chris Read (PD)
+GoSub v2009-04-14v2 by Chris Read (PD)
+GoSub v2009-04-14v3 by Chris Read (PD)
+GoSub v2009-04-15v1 by Chris Read (PD)
+GoSub v2009-04-15v2 by Chris Read (PD)
+GoSub v2009-04-16 by Chris Read (PD)
+GoSub v2009-04-17 by Chris Read (PD)
+GoSub v2009-04-17i by Chris Read (PD)
+GoSub v2009-04-18 by Chris Read (PD)
+GoSub v2009-04-19 by Chris Read (PD)
+GoSub v2009-04-20 by Chris Read (PD)
+GoSub v2009-04-22 by Chris Read (PD)
+GoSub v2009-04-23 by Chris Read (PD)
+GoSub v2009-04-24 by Chris Read (PD)
+GoSub v2009-04-27 by Chris Read (PD)
+GoSub v2009-04-29 by Chris Read (PD)
+GoSub v2009-05-02 by Chris Read (PD)
+GoSub v2009-05-05 by Chris Read (PD)
+GoSub v2009-07-15 by Chris Read (PD)
+GoSub v2009-07-18 by Chris Read (PD)
+GoSub v2009-07-25 by Chris Read (PD)
+GoSub v2009-07-26 by Chris Read (PD)
+GoSub v2009-07-27 by Chris Read (PD)
+GoSub v2009-07-28 by Chris Read (PD)
+GoSub v2009-07-31 by Chris Read (PD)
+GoSub v2009-08-05 by Chris Read (PD)
+GoSub v2009-08-06 by Chris Read (PD)
+GoSub v2009-08-27 by Chris Read (PD)
+GoSub v2009-10-05 by Chris Read (PD)
+GoSub v2009-10-06v1 by Chris Read (PD)
+GoSub v2009-10-06v2 by Chris Read (PD)
+GoSub v2009-10-09 by Chris Read (PD)
+GoSub v2009-10-18 by Chris Read (PD)
+GoSub v2009-10-19 by Chris Read (PD)
+GoSub v2009-10-23 by Chris Read (PD)
+GoSub v2009-10-28 by Chris Read (PD)
+GoSub v2009-11-01 by Chris Read (PD)
+GoSub v2009-11-02 by Chris Read (PD)
+GoSub v2009-11-06 by Chris Read (PD)
+GoSub v2009-11-06Test1 by Chris Read (PD)
+GoSub v2009-11-07 by Chris Read (PD)
+GoSub v2009-11-16 by Chris Read (PD)
+GoSub v2009-11-18 by Chris Read (PD)
+Hello, World! Demo V1.0 by Amos Bieler (PD)
+Hello, World! Demo V1.1 by Amos Bieler (PD)
+Hover Demo 01 by RunnerPack (PD)
+Hover Demo 01a by RunnerPack (PD)
+Insmouse no Yakata (J) [!]
+Jack Bros. (J) [!]
+Jack Bros. (U) (Enable Cheats Hack)
+Jack Bros. (U) [!]
+Jack Bros. (U) [b1] (Enable Cheats Hack)
+Jack Bros. (U) [b1]
+Jack Bros. (U) [T+Ger1.0_KR155E]
+Mario Clash (JU) [!]
+Mario Clash (JU) [b1]
+Mario Flying Demo by Frostgiant (PD)
+Mario Kart - Virtual Cup by DogP (PD)
+Mario VB by Jorgeche (V01-10-2008) (PD)
+Mario VB by Jorgeche (V05-09-2008) (PD)
+Mario VB by Jorgeche (V13-09-2008demo1) (PD)
+Mario VB by Jorgeche (V13-09-2008demo2) (PD)
+Mario VB by Jorgeche (V22-09-2008) (PD)
+Mario VB by Jorgeche (V27-10-2008) (PD)
+Mario VB by Jorgeche (V30-09-2008) (PD)
+Mario's Tennis (JU) [!]
+Mario's Tennis (JU) [a1]
+Matrix, The by Cooler (PD)
+Metroid April Fools Demo (PD)
+MIDIplayer by DanB (PD)
+Mode7 Demo (PD)
+Mode7 Example (PD)
+Nester's Funky Bowling (U) [a1]
+Nester's Funky Bowling (U) [b1]
+Nester's Funky Bowling (U) [b2]
+Nester's Funky Bowling (U) [b3]
+Nester's Funky Bowling (U)
+OBJ Pointer Demo by Dan Bergman (PD)
+Pacman Demo (PD)
+Panic Bomber (U) [!]
+Panic Bomber (U) [b1]
+Panic Bomber (U) [h1]
+Panic Bomber (U) [h2]
+Polygon Demo (PD)
+Project5 (V2006-04-26) (PD)
+Reality Boy Demo 1 by David Tucker (PD)
+Reality Boy Demo 2 by David Tucker (PD)
+Reality Boy Demo 3 by David Tucker (PD)
+Red Alarm (J) [!]
+Red Alarm (U) [!]
+Red Alarm (U) [b1]
+RG2009 Masken (VUE Snake) (PD)
+Scaling Demo by Parasyte (PD)
+SD Gundam Dimension War (J)
+Simon by Pat Daderko (PD)
+SnowBall Wars Demo1 by Jorgeche (PD)
+SnowBall Wars Demo2 by Jorgeche (PD)
+SnowBall Wars Demo3 by Jorgeche (PD)
+Space Invaders Virtual Collection (J)
+Space Squash (J) [!]
+Space Squash (J) [o1]
+Space Squash (J) [T+Eng]
+Super Fighter Demo by KR155E (PD)
+T&E Virtual Golf (J) [!]
+T&E Virtual Golf (J) [b1]
+Teleroboxer (JU) [!]
+Teleroboxer (JU) [T+Ger1.0_KR155E]
+Teleroboxer (JU) [T-Ger.4b_KR155E]
+This Demo Owes ALOT to RunnerPack HelloWorld SpriteExam 1 (PD)
+This Demo Owes ALOT to RunnerPack HelloWorld SpriteExam 3 (PD)
+Tic Tac Toe by Pat Daderko (PD)
+Tobidase! Panibomb (J) [!]
+Tron by Alberto Covarrubias (V2008-05-01) (PD)
+Tron by Alberto Covarrubias (V2008-09-27) (PD)
+Tron VB by Pat Daderko (PD)
+V-Tetris (J) [!]
+VB Racing (Padded Version) (PD)
+VB Racing (PD)
+VB Racing (Reality Boy Version) (PD)
+VB Rocks! Demo by KR155E (PD)
+VB Screen Test Demo by David Tucker (PD)
+VB Water Demo by RunnerPack (PD)
+VB Water Demo for FlashBoy by RunnerPack (PD)
+VBJaEngine Demo2 (PD)
+VBJaEngine Demo3 (PD)
+VBJaEngine Demo4 (PD)
+VBJaEngine Demo5 (PD)
+VBJaEngine Demo6 (PD)
+VeeBee Cursor Demo by David Williamson (PD)
+Vertical Force (J) [!]
+Vertical Force (J) [b1]
+Vertical Force (U) [!]
+Vertical Force (U) [h1]
+Virtual Bowling (J) (Debug Menu Hack)
+Virtual Bowling (J)
+Virtual Boy Programming Intro Demo by KR155E (2008) (PD)
+Virtual Boy Wario Land (JU) [!]
+Virtual Fishing (J) [!]
+Virtual Fishing (J) [b1]
+Virtual Lab (J)
+Virtual League Baseball (U) [a1][b1]
+Virtual League Baseball (U) [a1]
+Virtual League Baseball (U)
+Virtual Pong (PD)
+Virtual Pro Yakyuu '95 (J) [!]
+Virtual-E Cursor Demo (PD) [a1]
+Virtual-E Cursor Demo (PD)
+Virtual-E GL Demo 0.5 (PD)
+VUE Snake (V1.0) (PD)
+VUE Snake (V1.1) (PD)
+Wario Gonna Win Demo (PD)
+Waterworld (U) [!]
+Waterworld (U) [b1]
+Wavs (PD)

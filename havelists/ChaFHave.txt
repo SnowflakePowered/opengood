@@ -1,0 +1,90 @@
+ You have 88 of 88 known Fairchild/Zircon Channel F ROMS (V3.1415)
+
+256K Channel F Multigame ROM (Final Version) by Sean Riddle (2004)
+256K Channel F Multigame ROM by Sean Riddle (2004)
+Alien Invasion (1978) (Zircon-26)
+Backgammon & Acey-Ducey (1977) (Fairchild-11)
+Baseball (1977) (Fairchild-12)
+Boogie 2 Music Demo by Warlord (2008) (PD)
+Bowling (1978) (Fairchild-21)
+Casino Poker (1978) (Zircon-25)
+Checkers (1978) (Zircon-19)
+Color Organ (1977) (Prototype) [b1]
+Color Organ (1977) (Prototype) [f1]
+Colortest-Multi (2007) (PD)
+Demonstration Cart (1977) (Fairchild) [b1]
+Demonstration Cart (1977) (Fairchild)
+Demonstration Cart 2 (197x) (Fairchild)
+Desert Fox & Shooting Gallery (1976) (Fairchild-02)
+Dodge It (1978) (Fairchild-16)
+Drag Race (1977) (Fairchild-09)
+Draw Poker (197x) (Prototype)
+F8 of Nations B&W by nycurt (2006) (PD)
+F8 of Nations Color by nycurt (2006) (PD)
+Fairchild Channel F BIOS (With Hockey+Tennis)
+Fairchild Channel F BIOS SL31253 (1976) (Fairchild)
+Fairchild Channel F BIOS SL31254 (1976) (Fairchild)
+FNiNJA by Baron Knoxburry (2008) (PD)
+Football (197x) (Prototype)
+Galactic Space Wars & Luna Lander (1978) (Zircon-23)
+Galactic Space Wars (1978) (Zircon-23) (Prototype)
+Hangman (1978) (Fairchild-18) (Extended Wordlist Hack)
+Hangman (1978) (Fairchild-18)
+Hockey & Tennis (1976) (Fairchild) (BIOS Game Hack)
+International Karate Beta2 by Fredric Blaoholtz (2008) (PD)
+International Karate Beta3 by Fredric Blaoholtz (2008) (PD)
+International Karate Beta5 by Fredric Blaoholtz (2008) (PD)
+Kurt Woloch's Picture (Finished) (2006) (PD)
+Large Multicolor Pictures by e5frog (2007) (PD)
+Lights Out by Sean Riddle (2004) [a1]
+Lights Out by Sean Riddle (2004) [a2]
+Lights Out by Sean Riddle (2004)
+Luxor Channel F BIOS SL90025 (1976) (Luxor)
+Magic Numbers & Mind Reader & Nim (1977) (Fairchild-08)
+Math Quiz I - Addition & Subtraction (1976) (Fairchild-06)
+Math Quiz II - Multiplication & Division (1977) (Fairchild-07)
+Maze & Jailbreak & Blind Man's bluff & Trailblazer (1977) (Fairchild-10) (Multi-Cart Hack) [b1]
+Maze & Jailbreak & Blind Man's bluff & Trailblazer (1977) (Fairchild-10) (Multi-Cart Hack)
+Maze & Jailbreak & Blind-man's-bluff & Trailblazer (1977) (Fairchild-10)
+Maze & Jailbreak & Blind-man's-bluff & Trailblazer (newer) (1977) (Fairchild-10)
+Memory Match 1 & 2 (1978) (Fairchild-15)
+Multi-Cart Menu (older) by Sean Riddle (2004) (PD)
+Multi-Cart Menu by Sean Riddle (2004) (PD)
+MultiBlitGraphic-Routine Test by Fredric Blaoholtz (2008) (PD)
+NWNPNPNW Demo Song by B00daW (2008) (PD)
+Ordtaevling (1978) (Luxor-18)
+Pac-Man (Final Build) by Blackbird (2006) (PD)
+Pac-Man by Blackbird (2006) (PD) [a1]
+Pac-Man by Blackbird (2006) (PD) [a2]
+Pac-Man by Blackbird (2006) (PD) [a3]
+Pac-Man by Blackbird (2006) (PD)
+Pac-Man Graphics Demo v10292004 by Blackbird (2004) (PD)
+Pac-Man Graphics Demo v10292004-b14 by Blackbird (2004) (PD)
+Pac-Man Graphics Demo v11052004-b11 by Blackbird (2004) (PD)
+Pac-Man Graphics Demo v11122004-b14h by Blackbird (2004) (PD)
+Pac-Man v2004-b29b by Blackbird (2004) (PD)
+Pinball Challenge (1978) (Fairchild-17) [a1]
+Pinball Challenge (1978) (Fairchild-17)
+Pro Football (1978) (Zircon-24)
+Rat' Mal (1978) (SABA-16)
+RG09 Demo by e5frogg (2009) (PD)
+Robot War & Torpedo Alley (1977) (Fairchild-13)
+Robot War (1977) (Fairchild) (Prototype) [b1]
+Robot War (1977) (Fairchild) (Prototype) [f1]
+Schach (1979) (SABA-20) [b1]
+Schach (1979) (SABA-20) [b2]
+Schach (1979) (SABA-20)
+Scroll Mountains Demo (2006) (PD)
+Slot Machine (1978) (Zircon-22)
+Sonar Search (1977) (Fairchild-14)
+Space War (1977) (Fairchild-05)
+Spitfire (1976) (Fairchild-04)
+Spitfire (1976) (Prototype) [b1]
+Spitfire (1976) (Prototype) [f1]
+Test Controls by e5frog (2007) (PD)
+Tetris by Peter Trauner (2004) [a1]
+Tetris by Peter Trauner (2004)
+Tic-Tac-Toe & Shooting Gallery & Doodle & Quadra-Doodle (1976) (Fairchild-01)
+Video Blackjack (1976) (Fairchild-03)
+Video Whizball (1978) (Fairchild-20)
+Wuestenfuchs & Tontaubenschiessen (1978) (SABA-02)

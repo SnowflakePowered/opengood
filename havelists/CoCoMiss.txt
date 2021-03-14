@@ -1,0 +1,6 @@
+ You are missing 4 of 172 known Radio Shack Color Computer ROMS (V3.27)
+
+Alphabet Zoo (1984) (26-3170) (Spinnaker)
+Doodle Bug (1982) (Computerware) (Beta)
+Dragon Fire (1984) (26-3098) (Tandy) [a1]
+Predator (1989) (26-3165) (Activision) (CoCo3)

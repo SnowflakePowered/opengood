@@ -1,0 +1,14 @@
+ You are missing 12 of 7216 known Atari 2600 ROMS (V3.14)
+
+Berzerk (Voice Enhanced) (Berzerk Hack) [a1]
+Cubis (SuperCharger) (1997) (Eckhard Stolberg)
+Decathlon (1983) (HES) (PAL)
+Ghost Manor (1983) (Xonox) (PAL) [a2][!]
+Rocky & Bullwinkle (SuperCharger) (Prototype)
+SCRPG 20060317 (SuperCharger)
+SCTest (SuperCharger)
+Spike's Peak (1983) (Xonox) (PAL) [a2][!]
+Stampede (SuperCharger Conversion) (1981) (Activision) [t1]
+Thrust (V0.01) (2000) (TJ)
+Thrust (V1.27) (2000) (TJ) [a1]
+Ultra SCSIcide (Joe Grand) [a1]

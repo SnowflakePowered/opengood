@@ -1,0 +1,854 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>OpenGBA.MB</name>
+		<description>OpenGood - Nintendo Game Boy Advance (Multi-boot)</description>
+		<version>3.27</version>
+		<date>2021-03-12</date>
+		<author>OpenGood</author>
+		<homepage>OpenGood</homepage>
+		<url>https://github.com/SnowflakePowered/opengood</url>
+		<comment>210 of 210</comment>
+	</header>
+	<game name="1 Bit Ball Wall by JustBurn (V1.0f) (PD) (MB)">
+		<description>1 Bit Ball Wall by JustBurn (V1.0f) (PD) (MB)</description>
+		<rom name="1 Bit Ball Wall by JustBurn (V1.0f) (PD) (MB).mb" size="4096" crc="a4ee205e" md5="6dc181c3850c710de024d3fe7dc3feed" sha1="8320241171af7150d55ec8608c6e09c61faf78cb"/>
+	</game>
+	<game name="1 Bit Ball Wall by JustBurn (V1.0f) (PD) (MB) [a1]">
+		<description>1 Bit Ball Wall by JustBurn (V1.0f) (PD) (MB) [a1]</description>
+		<rom name="1 Bit Ball Wall by JustBurn (V1.0f) (PD) (MB) [a1].mb" size="4096" crc="1c9cf268" md5="50a76196ebdfc8885760125483ba09cc" sha1="928192b170ebab64a6f16faf085754cada1eb922"/>
+	</game>
+	<game name="3D Cube Demo by Pete Dooby (V1) (PD) (MB)">
+		<description>3D Cube Demo by Pete Dooby (V1) (PD) (MB)</description>
+		<rom name="3D Cube Demo by Pete Dooby (V1) (PD) (MB).mb" size="26676" crc="1c23e8e8" md5="cff3d4e0578eb0e4e2a8df6ab952bca7" sha1="7e58351189b26032d83ef92bc898c33fd69cb4ad"/>
+	</game>
+	<game name="@rkanoid by Ducker (V2.00Beta) (PD) (MB)">
+		<description>@rkanoid by Ducker (V2.00Beta) (PD) (MB)</description>
+		<rom name="@rkanoid by Ducker (V2.00Beta) (PD) (MB).mb" size="179316" crc="707ffceb" md5="7e90cd9b498ec67b005725453640edbf" sha1="8e7c19d0626a10b7102ba8d3a624680f0c45cc3e"/>
+	</game>
+	<game name="@rkanoid by Ducker (V2.50Beta) (PD) (MB)">
+		<description>@rkanoid by Ducker (V2.50Beta) (PD) (MB)</description>
+		<rom name="@rkanoid by Ducker (V2.50Beta) (PD) (MB).mb" size="182932" crc="61bb88aa" md5="7635bdabae123ae2036f10fa18743b47" sha1="991ebe85d336bf4cdfab184ca3f7852acf79487d"/>
+	</game>
+	<game name="Animal Crossing - Animal Island (MB)">
+		<description>Animal Crossing - Animal Island (MB)</description>
+		<rom name="Animal Crossing - Animal Island (MB).mb" size="262144" crc="8701f0f9" md5="8ee5ccbd1c9bbd26f80b11abcdf7fae7" sha1="a84670e82ab9ee31c63ee0353ea20fed05e05c89"/>
+	</game>
+	<game name="Animal Crossing - Balloon Fight (MB)">
+		<description>Animal Crossing - Balloon Fight (MB)</description>
+		<rom name="Animal Crossing - Balloon Fight (MB).mb" size="34788" crc="47b69e33" md5="c889ba64a69a7cc4dcd47ec409f682a7" sha1="78f6ee2bec50b1ca5193b4b4f8c062debfb50f7b"/>
+	</game>
+	<game name="Animal Crossing - Baseball (MB)">
+		<description>Animal Crossing - Baseball (MB)</description>
+		<rom name="Animal Crossing - Baseball (MB).mb" size="35780" crc="3e0c9f77" md5="26d883cdd2eac7ee9697fd7fa8579d37" sha1="8f5375bffd5f16af15f533f3ad70e0d9bc346675"/>
+	</game>
+	<game name="Animal Crossing - Clu Clu Land (MB)">
+		<description>Animal Crossing - Clu Clu Land (MB)</description>
+		<rom name="Animal Crossing - Clu Clu Land (MB).mb" size="52420" crc="6fd1624f" md5="bc654512aa7a73cb9d9d7fff7772e628" sha1="dc021b4f094969b9af89720637188e489091388d"/>
+	</game>
+	<game name="Animal Crossing - Donkey Kong (MB)">
+		<description>Animal Crossing - Donkey Kong (MB)</description>
+		<rom name="Animal Crossing - Donkey Kong (MB).mb" size="34916" crc="0a81efbb" md5="5e0c04869db38b2bd2b30162823c6994" sha1="b65d356f0b97c76278d9e7eec9fce5d630f13fcd"/>
+	</game>
+	<game name="Animal Crossing - Donkey Kong 3 (MB)">
+		<description>Animal Crossing - Donkey Kong 3 (MB)</description>
+		<rom name="Animal Crossing - Donkey Kong 3 (MB).mb" size="35780" crc="6fecea22" md5="4212c1c8f696809b1de78bdde1e500d6" sha1="4380b3c18ae39f683cd47c0c0f55a04d23efbde2"/>
+	</game>
+	<game name="Animal Crossing - Donkey Kong Jr (MB)">
+		<description>Animal Crossing - Donkey Kong Jr (MB)</description>
+		<rom name="Animal Crossing - Donkey Kong Jr (MB).mb" size="35652" crc="33da94dd" md5="cab5be151a85e99fcf8bee9a7cccd7b0" sha1="fae3bc8a2487e82578fdc8c43f2184f9caa96cd8"/>
+	</game>
+	<game name="Animal Crossing - Donkey Kong Jr Math (MB)">
+		<description>Animal Crossing - Donkey Kong Jr Math (MB)</description>
+		<rom name="Animal Crossing - Donkey Kong Jr Math (MB).mb" size="37060" crc="309ed751" md5="dd1ca32b17c48cc7e9ecb8453fb5ce8e" sha1="e31ebd9d2c9beeafa3e0eae86af7ae09172f6bf1"/>
+	</game>
+	<game name="Animal Crossing - Dr. Mario (MB)">
+		<description>Animal Crossing - Dr. Mario (MB)</description>
+		<rom name="Animal Crossing - Dr. Mario (MB).mb" size="50092" crc="9e54f585" md5="30beee2eccdc1278726c374d2984f596" sha1="349fa0a7b32f57210c9087d942af7689dfc27629"/>
+	</game>
+	<game name="Animal Crossing - Excitebike (MB)">
+		<description>Animal Crossing - Excitebike (MB)</description>
+		<rom name="Animal Crossing - Excitebike (MB).mb" size="52420" crc="112f3346" md5="03714d7625d23927c09c1c4de8c8c283" sha1="5e20550b7b17043c74b525ec8db603613a843981"/>
+	</game>
+	<game name="Animal Crossing - Golf (MB)">
+		<description>Animal Crossing - Golf (MB)</description>
+		<rom name="Animal Crossing - Golf (MB).mb" size="35108" crc="516bfa1e" md5="be3e59dc6f6e39292149bf11b6b4ff46" sha1="1bc5308bc86bc8bded6a5b6e0394583be3a07469"/>
+	</game>
+	<game name="Animal Crossing - Ice Climber (MB)">
+		<description>Animal Crossing - Ice Climber (MB)</description>
+		<rom name="Animal Crossing - Ice Climber (MB).mb" size="37060" crc="4bb67d12" md5="79448d09ae79289009aac6ad19d26726" sha1="bfe5a1271fe8658afe43257caeb195aea7aa93b4"/>
+	</game>
+	<game name="Animal Crossing - Mario Bros (MB)">
+		<description>Animal Crossing - Mario Bros (MB)</description>
+		<rom name="Animal Crossing - Mario Bros (MB).mb" size="35428" crc="ae481a32" md5="5320cb0a4702a298e72dd52cedc1c0c9" sha1="912c145b113168f04b0a4a2ff5d898eef03da646"/>
+	</game>
+	<game name="Animal Crossing - Pinball (MB)">
+		<description>Animal Crossing - Pinball (MB)</description>
+		<rom name="Animal Crossing - Pinball (MB).mb" size="52420" crc="5d40188d" md5="ebd5a5a470cca10f7f9b3777d4121274" sha1="3de221a41e9fc78d65dfb0ddb9b2b8b2d3198715"/>
+	</game>
+	<game name="Animal Crossing - Soccer (MB)">
+		<description>Animal Crossing - Soccer (MB)</description>
+		<rom name="Animal Crossing - Soccer (MB).mb" size="52420" crc="bb14a7f8" md5="5c5f4be734be74f425e67a6f0f6fbcb8" sha1="698c6aaecfa0f391675770e19fa847e371dadae2"/>
+	</game>
+	<game name="Animal Crossing - Super Mario Bros. (MB)">
+		<description>Animal Crossing - Super Mario Bros. (MB)</description>
+		<rom name="Animal Crossing - Super Mario Bros. (MB).mb" size="52420" crc="ad52cca8" md5="ae07346df142199e512ce8ae28634c0d" sha1="4a6feef599e4d35f7a32f8be749650a8f941572b"/>
+	</game>
+	<game name="Animal Crossing - Tennis (J) (MB)">
+		<description>Animal Crossing - Tennis (J) (MB)</description>
+		<rom name="Animal Crossing - Tennis (J) (MB).mb" size="35460" crc="7c33b480" md5="a279b8850d59cffb482f487d4869ee2f" sha1="5ccd3e7a34985e5c1019331106361b4d23b8b754"/>
+	</game>
+	<game name="Animal Crossing - Texture Reader (MB)">
+		<description>Animal Crossing - Texture Reader (MB)</description>
+		<rom name="Animal Crossing - Texture Reader (MB).mb" size="52420" crc="367cb78e" md5="4c6b9d84623b19e96a245491f2011c48" sha1="5c1956b10a0dc7d0645295f9d83495e9bfa2ab12"/>
+	</game>
+	<game name="Animal Crossing - Yoshi's Cookie (MB)">
+		<description>Animal Crossing - Yoshi's Cookie (MB)</description>
+		<rom name="Animal Crossing - Yoshi's Cookie (MB).mb" size="100144" crc="7662d781" md5="f5fc4246e0019064c3a625b58a057479" sha1="74651fff0bfe50a51a70e5902a7caa0dcae804e7"/>
+	</game>
+	<game name="Battle Picross by Sean Reid (V1.0) (PD) (MB)">
+		<description>Battle Picross by Sean Reid (V1.0) (PD) (MB)</description>
+		<rom name="Battle Picross by Sean Reid (V1.0) (PD) (MB).mb" size="194268" crc="ae873cf5" md5="6d170577fffda9451d09d79be7faa55b" sha1="49e82a06a73de30506786097bc0ea7f7c73a808b"/>
+	</game>
+	<game name="Bernard Demo by Johan Jansen (V20031226) (PD) (MB)">
+		<description>Bernard Demo by Johan Jansen (V20031226) (PD) (MB)</description>
+		<rom name="Bernard Demo by Johan Jansen (V20031226) (PD) (MB).mb" size="69864" crc="d3adaa4b" md5="ad19cd67b9c5c9dc62a08c75add5ae23" sha1="5ce47b8ac59e67b1298f5fa22a2d77675646a262"/>
+	</game>
+	<game name="Berzerk by Oscar BraindeaD (V1.0) (PD) (MB)">
+		<description>Berzerk by Oscar BraindeaD (V1.0) (PD) (MB)</description>
+		<rom name="Berzerk by Oscar BraindeaD (V1.0) (PD) (MB).mb" size="242964" crc="29cdfcc2" md5="717eaac4bbdf52d0be0a5863109b18d1" sha1="6a75ffc5bcb48fdc58f77e7c3ef5efc4d91a8f96"/>
+	</game>
+	<game name="BFiso by The Black Frog (PD) (MB)">
+		<description>BFiso by The Black Frog (PD) (MB)</description>
+		<rom name="BFiso by The Black Frog (PD) (MB).mb" size="94832" crc="099a315a" md5="1162a084c783356761cecf0dcc06b9d4" sha1="a6f0786c9484407d0033ce29d9272ac984428607"/>
+	</game>
+	<game name="Billy Hatcher - Chu Chu Rocket Challenge (MB)">
+		<description>Billy Hatcher - Chu Chu Rocket Challenge (MB)</description>
+		<rom name="Billy Hatcher - Chu Chu Rocket Challenge (MB).mb" size="226196" crc="2fc718bc" md5="35d070a505ef5693781e801b69f4b4b3" sha1="4ba462d9a1d379a3fd45b27a5d662bc83e83273d"/>
+	</game>
+	<game name="Billy Hatcher - Endless Puyo Pop (MB)">
+		<description>Billy Hatcher - Endless Puyo Pop (MB)</description>
+		<rom name="Billy Hatcher - Endless Puyo Pop (MB).mb" size="255556" crc="7f65e75d" md5="4fa6e159d521768fe3a193ef146f1973" sha1="ef0e875a5dcafd4abbedb98743bbcf579e09809a"/>
+	</game>
+	<game name="Billy Hatcher - Hyper Shoot (easy) (MB)">
+		<description>Billy Hatcher - Hyper Shoot (easy) (MB)</description>
+		<rom name="Billy Hatcher - Hyper Shoot (easy) (MB).mb" size="255556" crc="108b545b" md5="446a26596b7f8c97a2016a3b5aeeb8bc" sha1="8eab8c9c76f980b1e36e3fc5ee8a7835e923d2e4"/>
+	</game>
+	<game name="Billy Hatcher - Hyper Shoot (MB)">
+		<description>Billy Hatcher - Hyper Shoot (MB)</description>
+		<rom name="Billy Hatcher - Hyper Shoot (MB).mb" size="255556" crc="8f751376" md5="d89bb283138dc5b6dac4f18b134ed052" sha1="330684435e8504a3066f1feda6a1e7c7ff1e7cb5"/>
+	</game>
+	<game name="Billy Hatcher - NiGHTS into Dreams - Score Attack (U) (MB)">
+		<description>Billy Hatcher - NiGHTS into Dreams - Score Attack (U) (MB)</description>
+		<rom name="Billy Hatcher - NiGHTS into Dreams - Score Attack (U) (MB).mb" size="255557" crc="b89d4b82" md5="cd156086a1e0fab3ef36b7cb29745799" sha1="4bdb925acb9d7588e7ca2d62c497082b2bbd1d44"/>
+	</game>
+	<game name="Billy Hatcher - NiGHTS into Dreams - Score Attack (U) (MB) [a1]">
+		<description>Billy Hatcher - NiGHTS into Dreams - Score Attack (U) (MB) [a1]</description>
+		<rom name="Billy Hatcher - NiGHTS into Dreams - Score Attack (U) (MB) [a1].mb" size="255556" crc="670adf19" md5="e0fee0d1acb2c38e3a3ca58b3341ba08" sha1="21b31a946f701459d1e03478a619071a97f850e0"/>
+	</game>
+	<game name="Burning Screen - Fire Demo (PD) (MB)">
+		<description>Burning Screen - Fire Demo (PD) (MB)</description>
+		<rom name="Burning Screen - Fire Demo (PD) (MB).mb" size="920" crc="e238582d" md5="0d55d13bd0f11a46986bb485c8039caf" sha1="1a09eef34915c7c8827f8949c027a8948b86a6f0"/>
+	</game>
+	<game name="Chao Garden (U) (SADX Rip) (MB)">
+		<description>Chao Garden (U) (SADX Rip) (MB)</description>
+		<rom name="Chao Garden (U) (SADX Rip) (MB).mb" size="217032" crc="84158d94" md5="f3e392cd691a189446f0ef4b3298c7d6" sha1="5790fdc2614fc267ca2db6c928e7a5196993b3b6"/>
+	</game>
+	<game name="Chao Garden GC (A) (MainMemory) (MB)">
+		<description>Chao Garden GC (A) (MainMemory) (MB)</description>
+		<rom name="Chao Garden GC (A) (MainMemory) (MB).mb" size="218108" crc="4f01a389" md5="881670a30070969b8c4bd2e593903a04" sha1="a617016f87c49c976467b527af4c0fc4da921bdb"/>
+	</game>
+	<game name="Chao Garden GC (K) (MainMemory) (MB)">
+		<description>Chao Garden GC (K) (MainMemory) (MB)</description>
+		<rom name="Chao Garden GC (K) (MainMemory) (MB).mb" size="218108" crc="049be736" md5="90acf9d0eb5f8d18a3e2eec2d2cccdd6" sha1="43a7ad4f86ff088a7c9aae1e740de80fe38cd480"/>
+	</game>
+	<game name="Chao Garden GC (MainMemory) (MB)">
+		<description>Chao Garden GC (MainMemory) (MB)</description>
+		<rom name="Chao Garden GC (MainMemory) (MB).mb" size="218108" crc="dfe887a9" md5="994e827673b6daab9838153e4436f8e8" sha1="606159aec12e8feda1e3dbbbf8c754484a67199c"/>
+	</game>
+	<game name="Chao Garden GC (T) (MainMemory) (MB)">
+		<description>Chao Garden GC (T) (MainMemory) (MB)</description>
+		<rom name="Chao Garden GC (T) (MainMemory) (MB).mb" size="218108" crc="ea2e3e55" md5="650a9edc73ca7f04d1d1803362ae4554" sha1="11578ceec38cf02c8d7fc6da4449c6b097015e19"/>
+	</game>
+	<game name="Chao no Petit Garden (J) (MB)">
+		<description>Chao no Petit Garden (J) (MB)</description>
+		<rom name="Chao no Petit Garden (J) (MB).mb" size="182840" crc="c523504f" md5="2fc01f93093666ebc8f88a26c5b2786e" sha1="55c9812e2164a618575c6dcd669fd993b60585f5"/>
+	</game>
+	<game name="Croutons by Clafou (PD) (MB)">
+		<description>Croutons by Clafou (PD) (MB)</description>
+		<rom name="Croutons by Clafou (PD) (MB).mb" size="4080" crc="62898f0d" md5="a3d4bae145069a2e7b4d702f035393ae" sha1="5456a36330ba98fd5fa3f87d8c4df05f72f9d297"/>
+	</game>
+	<game name="Dakar 2 - Racing Game 01 (MB)">
+		<description>Dakar 2 - Racing Game 01 (MB)</description>
+		<rom name="Dakar 2 - Racing Game 01 (MB).mb" size="259356" crc="0d113d4c" md5="00fd58f9cfb5f6a222cab0d85b53b04b" sha1="ee7d12906110d2cf45d84ddb8c99883bfd354ccc"/>
+	</game>
+	<game name="Dakar 2 - Racing Game 02 (MB)">
+		<description>Dakar 2 - Racing Game 02 (MB)</description>
+		<rom name="Dakar 2 - Racing Game 02 (MB).mb" size="257308" crc="97927fd1" md5="f656762789e8a1c172f39dbeaa71d0f6" sha1="dc4c9d05787ea88e53a28b1b06557ad335ef1542"/>
+	</game>
+	<game name="Dakar 2 - Racing Game 03 (MB)">
+		<description>Dakar 2 - Racing Game 03 (MB)</description>
+		<rom name="Dakar 2 - Racing Game 03 (MB).mb" size="247820" crc="cea48617" md5="ed1c2afc24a6e86b6f35a479bc119eb0" sha1="ca61f0e79da8ac83b877bf7116e9116ca4d33887"/>
+	</game>
+	<game name="Dakar 2 - Racing Game 04 (MB)">
+		<description>Dakar 2 - Racing Game 04 (MB)</description>
+		<rom name="Dakar 2 - Racing Game 04 (MB).mb" size="260748" crc="70814443" md5="351e511238ff7d706de3758a076569e9" sha1="c108402d614cd084e9f7934c7fd5a48ba1b3005e"/>
+	</game>
+	<game name="Dakar 2 - Racing Game 05 (MB)">
+		<description>Dakar 2 - Racing Game 05 (MB)</description>
+		<rom name="Dakar 2 - Racing Game 05 (MB).mb" size="252860" crc="bde9853d" md5="ce1b418b8b2971e57f4c9ddf4525e3c1" sha1="5eafaca48bc2742c8448bc09f1ce51033d95d992"/>
+	</game>
+	<game name="Dakar 2 - Racing Game 06 (MB)">
+		<description>Dakar 2 - Racing Game 06 (MB)</description>
+		<rom name="Dakar 2 - Racing Game 06 (MB).mb" size="259156" crc="dd69c861" md5="f92d40aebe598fb92672cd9b357bee1b" sha1="ef54a8b7152f173449db038f3780f8b827ccd043"/>
+	</game>
+	<game name="Dakar 2 - Racing Game 07 (MB)">
+		<description>Dakar 2 - Racing Game 07 (MB)</description>
+		<rom name="Dakar 2 - Racing Game 07 (MB).mb" size="249596" crc="bf75293c" md5="54e034c8dad897f12407e58e7d925b51" sha1="987144e98193d77559cab08cb54ca2040e4eb302"/>
+	</game>
+	<game name="Dakar 2 - Racing Game 09 (MB)">
+		<description>Dakar 2 - Racing Game 09 (MB)</description>
+		<rom name="Dakar 2 - Racing Game 09 (MB).mb" size="254788" crc="4703626c" md5="8d1f67944db61cdccfc2494a27b9ff17" sha1="02e8c7d0e3ca2e7d22953bb4f905efd9807c199f"/>
+	</game>
+	<game name="Dakar 2 - Racing Game 10 (MB)">
+		<description>Dakar 2 - Racing Game 10 (MB)</description>
+		<rom name="Dakar 2 - Racing Game 10 (MB).mb" size="243524" crc="248e8891" md5="e4a23b6b8070b4581f49bb34a5eff5d0" sha1="edc2bb27ac07937e4517719c1748b6439d21fd69"/>
+	</game>
+	<game name="Dakar 2 - Racing Game 11 (MB)">
+		<description>Dakar 2 - Racing Game 11 (MB)</description>
+		<rom name="Dakar 2 - Racing Game 11 (MB).mb" size="246764" crc="9294546f" md5="23d8eec3cf489dc2fbe71e5b59b386e4" sha1="4f3f7aff0072e147c66b273db839aad0be96ad68"/>
+	</game>
+	<game name="DanTE Advance (V1.0) (PD) (MB)">
+		<description>DanTE Advance (V1.0) (PD) (MB)</description>
+		<rom name="DanTE Advance (V1.0) (PD) (MB).mb" size="336844" crc="68247fc4" md5="21b096cb14934516b9350633c7278593" sha1="d675fdf56fbf831bc1f87bf305f7b55a2bba7ed0"/>
+	</game>
+	<game name="Dhrystone Test (PD) (MB)">
+		<description>Dhrystone Test (PD) (MB)</description>
+		<rom name="Dhrystone Test (PD) (MB).mb" size="49060" crc="3523cebd" md5="3298e9649e9bd1da8d3da6f2e1f021c6" sha1="8c33432107602f6fdb27b05f11f4268c2f40381f"/>
+	</game>
+	<game name="Dhrystone Test (PD) (MB) [a1]">
+		<description>Dhrystone Test (PD) (MB) [a1]</description>
+		<rom name="Dhrystone Test (PD) (MB) [a1].mb" size="49060" crc="9ab326fc" md5="0b3aad409c74c1cbf906788c6b7670f2" sha1="0b45f659a1449819a12fcfc8e86aa7b500f71d2b"/>
+	</game>
+	<game name="Dhrystone Test (PD) (MB) [a2]">
+		<description>Dhrystone Test (PD) (MB) [a2]</description>
+		<rom name="Dhrystone Test (PD) (MB) [a2].mb" size="53564" crc="f1a4a3d2" md5="2ead6eef6ff26f6fd11e5536bee22943" sha1="103541e781b70a72fb40b4e332e385272adbdc66"/>
+	</game>
+	<game name="Dhrystone Test (PD) (MB) [a3]">
+		<description>Dhrystone Test (PD) (MB) [a3]</description>
+		<rom name="Dhrystone Test (PD) (MB) [a3].mb" size="53564" crc="d1b37ce2" md5="45eaa2ef588922a791d423f2bc3fd674" sha1="0a380cf22e80796ee2985c912aeb02959a4a2d18"/>
+	</game>
+	<game name="Dhrystone Test (PD) (MB) [a4]">
+		<description>Dhrystone Test (PD) (MB) [a4]</description>
+		<rom name="Dhrystone Test (PD) (MB) [a4].mb" size="44540" crc="3d5c0d79" md5="4eb10382d98e0733fdbb205e147aa104" sha1="12f286b1060fbbe8707261fe5f09e5e1baff364c"/>
+	</game>
+	<game name="Dhrystone Test (PD) (MB) [a5]">
+		<description>Dhrystone Test (PD) (MB) [a5]</description>
+		<rom name="Dhrystone Test (PD) (MB) [a5].mb" size="44540" crc="769ebd7c" md5="484beb8f1b2110b197765c6d90c7ff06" sha1="7ac644e7ef35411af03d7f090ae9516082b2b69c"/>
+	</game>
+	<game name="Dhrystone Test (PD) (MB) [a6]">
+		<description>Dhrystone Test (PD) (MB) [a6]</description>
+		<rom name="Dhrystone Test (PD) (MB) [a6].mb" size="49372" crc="5f0c5304" md5="c697a2d4d8260b8b00fd69f3f77c48eb" sha1="9ae618b7b18e337aa771a784eebb4293c07bc2e5"/>
+	</game>
+	<game name="Dhrystone Test (PD) (MB) [a7]">
+		<description>Dhrystone Test (PD) (MB) [a7]</description>
+		<rom name="Dhrystone Test (PD) (MB) [a7].mb" size="49372" crc="8b2b10ac" md5="02124ca9a4bfb7724b06406642b2113a" sha1="2d6d0be035528548fe9073bae74ed4ab47b53a2b"/>
+	</game>
+	<game name="Dhrystone Test (PD) (MB) [a8]">
+		<description>Dhrystone Test (PD) (MB) [a8]</description>
+		<rom name="Dhrystone Test (PD) (MB) [a8].mb" size="45332" crc="34690b92" md5="6668ede211b8ed0182a53d50c546a7b9" sha1="64040ac57034d024d995729fb9bfcac8c7b5cd1d"/>
+	</game>
+	<game name="Dhrystone Test (PD) (MB) [a9]">
+		<description>Dhrystone Test (PD) (MB) [a9]</description>
+		<rom name="Dhrystone Test (PD) (MB) [a9].mb" size="45332" crc="443b21c1" md5="ca245d61e61de018af42af816c867b16" sha1="3a5e94057b23b4db6bee5991767b2219152fb956"/>
+	</game>
+	<game name="Dhrystone Test (PD) (MB) [aa]">
+		<description>Dhrystone Test (PD) (MB) [aa]</description>
+		<rom name="Dhrystone Test (PD) (MB) [aa].mb" size="34024" crc="d4371c4b" md5="d60cec525a469b0d0129dfaf483b1795" sha1="c8fa7069c52d692fb587a176aa62a4c6ddae32c3"/>
+	</game>
+	<game name="Dhrystone Test (PD) (MB) [ab]">
+		<description>Dhrystone Test (PD) (MB) [ab]</description>
+		<rom name="Dhrystone Test (PD) (MB) [ab].mb" size="31352" crc="0c2d998b" md5="d40bddac81c5578298a83555b657e846" sha1="38ff5ec627e17d3e2e42639903d6a12681c622ff"/>
+	</game>
+	<game name="Dhrystone Test (PD) (MB) [ac]">
+		<description>Dhrystone Test (PD) (MB) [ac]</description>
+		<rom name="Dhrystone Test (PD) (MB) [ac].mb" size="31352" crc="2603a9de" md5="fef65fb36c107d3f2d9005345e8e7456" sha1="64006984ca0454186302dca3fe046a3033252af8"/>
+	</game>
+	<game name="Dhrystone Test (PD) (MB) [ad]">
+		<description>Dhrystone Test (PD) (MB) [ad]</description>
+		<rom name="Dhrystone Test (PD) (MB) [ad].mb" size="34024" crc="55ab75e9" md5="7efe0bedb7346a1a6d911efd1a80f1ad" sha1="35f12418117ab50a52ba965d9bd6637693d04449"/>
+	</game>
+	<game name="Dhrystone Test (PD) (MB) [af]">
+		<description>Dhrystone Test (PD) (MB) [af]</description>
+		<rom name="Dhrystone Test (PD) (MB) [af].mb" size="60216" crc="47821cea" md5="da08693c0384511791d9302d8fa92e7c" sha1="fc9af3111e65546f76347eb406610baea159999f"/>
+	</game>
+	<game name="Dr. Graga DrawPixel by Graga (PD) (MB)">
+		<description>Dr. Graga DrawPixel by Graga (PD) (MB)</description>
+		<rom name="Dr. Graga DrawPixel by Graga (PD) (MB).mb" size="1040" crc="de7eca15" md5="e469fefcd6908200d144de5cd592cd92" sha1="f0d00d7320617798ca76d710f1faecd21d328156"/>
+	</game>
+	<game name="Enter GBC Mode (PD) (MB)">
+		<description>Enter GBC Mode (PD) (MB)</description>
+		<rom name="Enter GBC Mode (PD) (MB).mb" size="3160" crc="0a6a97fe" md5="62ada04345e354e127e632c95d278508" sha1="330745f366be6006783bfc56e1ec64ddf271d02b"/>
+	</game>
+	<game name="Final Fantasy Crystal Chronicles - Loader (MB)">
+		<description>Final Fantasy Crystal Chronicles - Loader (MB)</description>
+		<rom name="Final Fantasy Crystal Chronicles - Loader (MB).mb" size="188508" crc="702a16b8" md5="ebb92b721574bc7f57448ab6a0155205" sha1="f9b6fa57c31a22a6a87ca77d884805b9ffc2faf8"/>
+	</game>
+	<game name="FreeTune Advance - Tonal Guitar Tuner by MadBob (PD) (MB)">
+		<description>FreeTune Advance - Tonal Guitar Tuner by MadBob (PD) (MB)</description>
+		<rom name="FreeTune Advance - Tonal Guitar Tuner by MadBob (PD) (MB).mb" size="72336" crc="81e15ec5" md5="c305c38352cb2d466ae2d84b488098fc" sha1="17e8b62a3e06641e7c5c04d335b8f4475e2fa34a"/>
+	</game>
+	<game name="Game Wallet - b@@t_gb@ (V2.0) (PD) (MB)">
+		<description>Game Wallet - b@@t_gb@ (V2.0) (PD) (MB)</description>
+		<rom name="Game Wallet - b@@t_gb@ (V2.0) (PD) (MB).mb" size="41696" crc="9cd5373e" md5="5cf02e8057ec5ce995ade387b6019fbc" sha1="b6d7c10d482a91505252fcf7ec81cd3389c37cde"/>
+	</game>
+	<game name="Gameboy Player - Controller (MB)">
+		<description>Gameboy Player - Controller (MB)</description>
+		<rom name="Gameboy Player - Controller (MB).mb" size="19468" crc="151f1ba5" md5="71dcc44a5f448abaa5931ea289b37949" sha1="593a9879166a4bd33ad2c28349fa48d30e46aae0"/>
+	</game>
+	<game name="GameCube MiniGame - Zelda (F) (MB)">
+		<description>GameCube MiniGame - Zelda (F) (MB)</description>
+		<rom name="GameCube MiniGame - Zelda (F) (MB).mb" size="121292" crc="5cd2b879" md5="457a4c9fe2d9637b785a517c3c8f03bb" sha1="edfd16d74822816ed04a8fd9631b755bf9c31629"/>
+	</game>
+	<game name="GameCube MiniGame - Zelda (G) (MB)">
+		<description>GameCube MiniGame - Zelda (G) (MB)</description>
+		<rom name="GameCube MiniGame - Zelda (G) (MB).mb" size="121292" crc="364d02d7" md5="25f7034c3e1ddd46770a0dc1ed5d56c0" sha1="9612eeb83a22652a7a38a0d1d13b93d54904a641"/>
+	</game>
+	<game name="GameCube MiniGame - Zelda (I) (MB)">
+		<description>GameCube MiniGame - Zelda (I) (MB)</description>
+		<rom name="GameCube MiniGame - Zelda (I) (MB).mb" size="121292" crc="764058ae" md5="9bf64039cda7c554f7c6941e9dfce306" sha1="e8079007e52f705ad761c07945ae1c7152a28b51"/>
+	</game>
+	<game name="GameCube MiniGame - Zelda (S) (MB)">
+		<description>GameCube MiniGame - Zelda (S) (MB)</description>
+		<rom name="GameCube MiniGame - Zelda (S) (MB).mb" size="121292" crc="770ceb20" md5="4d18b5e0db3ba506c1fc6e9630146916" sha1="a959d004ef670b20bf092595bc869a519cad9663"/>
+	</game>
+	<game name="GameCube MiniGame - Zelda (UK) (MB)">
+		<description>GameCube MiniGame - Zelda (UK) (MB)</description>
+		<rom name="GameCube MiniGame - Zelda (UK) (MB).mb" size="121292" crc="6dec54dd" md5="b915e6ea60c6e1dec4a5a8463f997464" sha1="2fff86fb910910b4bd4532223fa284015fb18279"/>
+	</game>
+	<game name="GameCube Multiboot Games (MB)">
+		<description>GameCube Multiboot Games (MB)</description>
+		<rom name="GameCube Multiboot Games (MB).mb" size="803288" crc="a5c3fc1a" md5="ba03bc6321b1edb8fa56ee1043b18e8f" sha1="cca3eda39ef6d1782bbed268c0430dd3703c23ec"/>
+	</game>
+	<game name="GameCube Preview Disc - Dr. Mario (MB)">
+		<description>GameCube Preview Disc - Dr. Mario (MB)</description>
+		<rom name="GameCube Preview Disc - Dr. Mario (MB).mb" size="49412" crc="03093c22" md5="e64b1f8859dbf55b8d51787946b1c721" sha1="426ce6bf3ad71eced2d1b5798d1184c4403bb673"/>
+	</game>
+	<game name="GBA PCM Library (PD) (MB)">
+		<description>GBA PCM Library (PD) (MB)</description>
+		<rom name="GBA PCM Library (PD) (MB).mb" size="39968" crc="04dd6fce" md5="3d811c4052c79bf8e0465921f8d8e585" sha1="7c38a2d82acd49dc632fbc88500fb089317b24d3"/>
+	</game>
+	<game name="GBA Serial Slave (V0.96) (PD) (MB)">
+		<description>GBA Serial Slave (V0.96) (PD) (MB)</description>
+		<rom name="GBA Serial Slave (V0.96) (PD) (MB).mb" size="20356" crc="e152911e" md5="17a3178092a524288429117caf066205" sha1="c9fc85a344a95baa0e7a6c3b83aa1b0d27675b29"/>
+	</game>
+	<game name="GBALuaCore (V0.9) (PD) (MB)">
+		<description>GBALuaCore (V0.9) (PD) (MB)</description>
+		<rom name="GBALuaCore (V0.9) (PD) (MB).mb" size="77844" crc="2a48e55d" md5="4a01cb2b5eb379202e2872f7f077e94a" sha1="9310af849a820175006511f41e1059a189191e29"/>
+	</game>
+	<game name="GBAMP - _BOOT_MP v1 by Michael Chisholm (PD) (MB)">
+		<description>GBAMP - _BOOT_MP v1 by Michael Chisholm (PD) (MB)</description>
+		<rom name="GBAMP - _BOOT_MP v1 by Michael Chisholm (PD) (MB).mb" size="908" crc="77ec083f" md5="11caceeeb8ecf31a6057feb01d2aea8f" sha1="38ebebec2079db88c444845ee4c7a1b42b937589"/>
+	</game>
+	<game name="GBAMP - flashmp_mb v1 by Michael Chisholm (PD) (MB)">
+		<description>GBAMP - flashmp_mb v1 by Michael Chisholm (PD) (MB)</description>
+		<rom name="GBAMP - flashmp_mb v1 by Michael Chisholm (PD) (MB).mb" size="89032" crc="3f34d2c1" md5="0bee6544a487d51366f835c8f96e8517" sha1="4bfb8ad301e654f9c42c2f28b9ffeb6833e813ce"/>
+	</game>
+	<game name="GBAMP - flashmp_mb vX by Michael Chisholm (PD) (MB)">
+		<description>GBAMP - flashmp_mb vX by Michael Chisholm (PD) (MB)</description>
+		<rom name="GBAMP - flashmp_mb vX by Michael Chisholm (PD) (MB).mb" size="104900" crc="5efc9d2c" md5="157d2a53ae5ae94376ff38d0c41cd735" sha1="95943d472bf620302c57b38284ec8f45514ea584"/>
+	</game>
+	<game name="GBAMP - flashmp_mb vX by Michael Chisholm (PD) (MB) [a1]">
+		<description>GBAMP - flashmp_mb vX by Michael Chisholm (PD) (MB) [a1]</description>
+		<rom name="GBAMP - flashmp_mb vX by Michael Chisholm (PD) (MB) [a1].mb" size="90660" crc="e8398a5c" md5="cba9bfe47a3764852079d911c7e7eb1c" sha1="8ae80b999eb6d8827926403121c22077aa732a91"/>
+	</game>
+	<game name="GBAMP - flashmp_mb vX by Michael Chisholm (PD) (MB) [a2]">
+		<description>GBAMP - flashmp_mb vX by Michael Chisholm (PD) (MB) [a2]</description>
+		<rom name="GBAMP - flashmp_mb vX by Michael Chisholm (PD) (MB) [a2].mb" size="89032" crc="f93c7b5a" md5="fd38edb70500f7c14f036ad5e7329851" sha1="d5c657929ae9550b364c5b9e8fc8dbece9d7d1da"/>
+	</game>
+	<game name="GBAMP - flashmp_mb vX by Michael Chisholm (PD) (MB) [a3]">
+		<description>GBAMP - flashmp_mb vX by Michael Chisholm (PD) (MB) [a3]</description>
+		<rom name="GBAMP - flashmp_mb vX by Michael Chisholm (PD) (MB) [a3].mb" size="72628" crc="5ab8dac7" md5="ef3a0ee3e3ee1c0c8c7b34bcd9c8d01c" sha1="ba21c01269a4c8b99b8212b056ba393d6c1728d6"/>
+	</game>
+	<game name="GBAMP - MP_DUMP by DarkFader (PD) (MB)">
+		<description>GBAMP - MP_DUMP by DarkFader (PD) (MB)</description>
+		<rom name="GBAMP - MP_DUMP by DarkFader (PD) (MB).mb" size="52332" crc="37021070" md5="e358727d0bb46ed05206fb8fa5416801" sha1="f55415b50d90c8dbdd5a1d5dde867aafea2ada2a"/>
+	</game>
+	<game name="GBAMP - MP_Save by Michael Chisholm (PD) (MB)">
+		<description>GBAMP - MP_Save by Michael Chisholm (PD) (MB)</description>
+		<rom name="GBAMP - MP_Save by Michael Chisholm (PD) (MB).mb" size="56572" crc="c2e4f712" md5="89ad475a20c66cda5bd0db6755062b0f" sha1="9444cd0f17dd7dc149e909f08b59da883389307d"/>
+	</game>
+	<game name="GBAMP - PocketNES by Dwedit (test version2) (PD) (MB)">
+		<description>GBAMP - PocketNES by Dwedit (test version2) (PD) (MB)</description>
+		<rom name="GBAMP - PocketNES by Dwedit (test version2) (PD) (MB).mb" size="47108" crc="40589126" md5="193d95348bafce1dc888969b68a200ab" sha1="89ed679a603b827e493b7f1f832310099c114b51"/>
+	</game>
+	<game name="GBAMP - PocketNES by Dwedit (test) (PD) (MB)">
+		<description>GBAMP - PocketNES by Dwedit (test) (PD) (MB)</description>
+		<rom name="GBAMP - PocketNES by Dwedit (test) (PD) (MB).mb" size="45028" crc="93d5bce0" md5="b09dc881ee20fe0e869de3a80c5ba428" sha1="756a84a662ffac03ac20810e19e344683b17efcb"/>
+	</game>
+	<game name="GBAMP - PocketNES with SRAM Saving by Dwedit (test version2) (PD) (MB)">
+		<description>GBAMP - PocketNES with SRAM Saving by Dwedit (test version2) (PD) (MB)</description>
+		<rom name="GBAMP - PocketNES with SRAM Saving by Dwedit (test version2) (PD) (MB).mb" size="47168" crc="c4e9ef65" md5="8d3e78dcbb7f78de6ec0914b440332c9" sha1="b924e119f5efe4cdca8375bc4eb5db4cefed3355"/>
+	</game>
+	<game name="GBAMP - SendSave_mb by Michael Chisholm (PD) (MB)">
+		<description>GBAMP - SendSave_mb by Michael Chisholm (PD) (MB)</description>
+		<rom name="GBAMP - SendSave_mb by Michael Chisholm (PD) (MB).mb" size="40244" crc="b6ed31aa" md5="0f2c42134e3e6615c97d90509b28c96b" sha1="bf8ad0388b10eb594510a54198a4a3ab3386f93c"/>
+	</game>
+	<game name="Godsmaze MODplay Preview (PD) (MB)">
+		<description>Godsmaze MODplay Preview (PD) (MB)</description>
+		<rom name="Godsmaze MODplay Preview (PD) (MB).mb" size="227644" crc="1a96ce3c" md5="cde12bce2cddd6dcf57b870e1c75380e" sha1="f50552a6c9eac26c9f81dcbb75cd382497b824a0"/>
+	</game>
+	<game name="HAM Interference (V2.50) (PD) (MB)">
+		<description>HAM Interference (V2.50) (PD) (MB)</description>
+		<rom name="HAM Interference (V2.50) (PD) (MB).mb" size="115484" crc="ca215329" md5="bba537ab8171f1e6f0ca29726d2098d4" sha1="8d857ba85f7ac58f58fe8bf8213f116bf58a82ba"/>
+	</game>
+	<game name="HAM Tutorial 512x512 Map Example (V2.50) (PD) (MB)">
+		<description>HAM Tutorial 512x512 Map Example (V2.50) (PD) (MB)</description>
+		<rom name="HAM Tutorial 512x512 Map Example (V2.50) (PD) (MB).mb" size="106772" crc="4a12fd5f" md5="e9c795199c0c24beda6a449df55ebde6" sha1="7344ee63f0ef81013bb3f5a3478f5dc4d04b4b8e"/>
+	</game>
+	<game name="HAMlib Text Display Example (V2.50) (PD) (MB)">
+		<description>HAMlib Text Display Example (V2.50) (PD) (MB)</description>
+		<rom name="HAMlib Text Display Example (V2.50) (PD) (MB).mb" size="94208" crc="9854a209" md5="e8ff9096726c99c8d5b21963c208bbaf" sha1="4230d42d6311dc5fe91953cdc76bb2787f11da9e"/>
+	</game>
+	<game name="Harry Potter and The Chamber of Secrets - Client_pad (MB)">
+		<description>Harry Potter and The Chamber of Secrets - Client_pad (MB)</description>
+		<rom name="Harry Potter and The Chamber of Secrets - Client_pad (MB).mb" size="4216" crc="f69e2622" md5="4bbf14f55e88aaeae01d7fb2c9c84e29" sha1="a1ae80097695e9c92699b3727e90e91b508abd9e"/>
+	</game>
+	<game name="Harry Potter and The Chamber of Secrets - GBAFrench (MB)">
+		<description>Harry Potter and The Chamber of Secrets - GBAFrench (MB)</description>
+		<rom name="Harry Potter and The Chamber of Secrets - GBAFrench (MB).mb" size="256648" crc="c5425cee" md5="f93fe3a9b22b43dd959f166e6d582f21" sha1="568a535e277c5b0afd52acc1e3c3a50343d2b7e0"/>
+	</game>
+	<game name="Harry Potter and The Chamber of Secrets - GBASpanish (MB)">
+		<description>Harry Potter and The Chamber of Secrets - GBASpanish (MB)</description>
+		<rom name="Harry Potter and The Chamber of Secrets - GBASpanish (MB).mb" size="256548" crc="31ceb925" md5="e4437bd0e7d5e5d050c7931937144f73" sha1="bbc47a4791e74a0532cc0c0a959f469edece9667"/>
+	</game>
+	<game name="Harry Potter and The Chamber of Secrets - GBAUSA (MB)">
+		<description>Harry Potter and The Chamber of Secrets - GBAUSA (MB)</description>
+		<rom name="Harry Potter and The Chamber of Secrets - GBAUSA (MB).mb" size="259288" crc="d090dc33" md5="eda1c8cbaedc1b7106d3717c85770883" sha1="c848d2ff7c99b7c6f7f21fc3885aa64eb49d91f5"/>
+	</game>
+	<game name="Harry Potter and The Chamber of Secrets - Puzzle (MB)">
+		<description>Harry Potter and The Chamber of Secrets - Puzzle (MB)</description>
+		<rom name="Harry Potter and The Chamber of Secrets - Puzzle (MB).mb" size="259352" crc="b90a55db" md5="7d88150ef7e5190dbbcd860167125a6a" sha1="6033444e437838afb07d46ef764ccd4588f089c8"/>
+	</game>
+	<game name="Harry Potter and The Prisoner of Azkaban - Loader Dutch (MB)">
+		<description>Harry Potter and The Prisoner of Azkaban - Loader Dutch (MB)</description>
+		<rom name="Harry Potter and The Prisoner of Azkaban - Loader Dutch (MB).mb" size="9912" crc="40a37c2b" md5="a911f72ff1c01325fe1f99b766224fde" sha1="a822ada3d166086642671c5a96ad38b6ae066ebd"/>
+	</game>
+	<game name="Harry Potter and The Prisoner of Azkaban - Loader French (MB)">
+		<description>Harry Potter and The Prisoner of Azkaban - Loader French (MB)</description>
+		<rom name="Harry Potter and The Prisoner of Azkaban - Loader French (MB).mb" size="9868" crc="3930455f" md5="38bba0381960025f3877423fad7f307d" sha1="1a6d7b552a8e0ffbc23acce2f342b13de411c25c"/>
+	</game>
+	<game name="Harry Potter and The Prisoner of Azkaban - Loader German (MB)">
+		<description>Harry Potter and The Prisoner of Azkaban - Loader German (MB)</description>
+		<rom name="Harry Potter and The Prisoner of Azkaban - Loader German (MB).mb" size="9872" crc="9331f487" md5="c68e0a491b1e65ebd7b22a623fab847d" sha1="fab5a6b260bc58f0eb22e24e32633c2f065384b2"/>
+	</game>
+	<game name="Harry Potter and The Prisoner of Azkaban - Loader Italian (MB)">
+		<description>Harry Potter and The Prisoner of Azkaban - Loader Italian (MB)</description>
+		<rom name="Harry Potter and The Prisoner of Azkaban - Loader Italian (MB).mb" size="9812" crc="1a5641c8" md5="c6d5dae46a7b559669da1e46b00f8405" sha1="d29d52cd58fc7e61b792ad0f4eaf2a2a23b5a179"/>
+	</game>
+	<game name="Harry Potter and The Prisoner of Azkaban - Loader Japanese (MB)">
+		<description>Harry Potter and The Prisoner of Azkaban - Loader Japanese (MB)</description>
+		<rom name="Harry Potter and The Prisoner of Azkaban - Loader Japanese (MB).mb" size="10360" crc="69d8a318" md5="36293df9cb51f057c0089b10559bf579" sha1="e54ae90c3f13d492916ffe96d92983200c32cbdb"/>
+	</game>
+	<game name="Harry Potter and The Prisoner of Azkaban - Loader Spanish (MB)">
+		<description>Harry Potter and The Prisoner of Azkaban - Loader Spanish (MB)</description>
+		<rom name="Harry Potter and The Prisoner of Azkaban - Loader Spanish (MB).mb" size="9756" crc="bc850430" md5="b5a8d8e143ac2e24da25fb1cead6b5d6" sha1="ea745773a2072f2810898e32d7bcdaad36d08a1a"/>
+	</game>
+	<game name="Harry Potter and The Prisoner of Azkaban - Loader Swedish (MB)">
+		<description>Harry Potter and The Prisoner of Azkaban - Loader Swedish (MB)</description>
+		<rom name="Harry Potter and The Prisoner of Azkaban - Loader Swedish (MB).mb" size="9800" crc="827db2b5" md5="a7f5b4486a3e82c16c329e3c47a46688" sha1="398c95f8ec3aad2cecbdd7b3da3ab5e836f1a32e"/>
+	</game>
+	<game name="Harry Potter and The Prisoner of Azkaban - Loader UK (MB)">
+		<description>Harry Potter and The Prisoner of Azkaban - Loader UK (MB)</description>
+		<rom name="Harry Potter and The Prisoner of Azkaban - Loader UK (MB).mb" size="9812" crc="40a2a696" md5="5d6a725f4d1a2e831a4dfc8cb4a8dc61" sha1="68b02c4be6dd8d552c044f508f1b5c85ab16b6a9"/>
+	</game>
+	<game name="Harry Potter and The Prisoner of Azkaban - Loader USA (MB)">
+		<description>Harry Potter and The Prisoner of Azkaban - Loader USA (MB)</description>
+		<rom name="Harry Potter and The Prisoner of Azkaban - Loader USA (MB).mb" size="9816" crc="bd51f8d5" md5="0eb558c623ec9cca94a365e1ea44e858" sha1="9be3b32e29320e620f6a810d48f5f97083c33d7c"/>
+	</game>
+	<game name="Harry Potter and The Prisoner of Azkaban - Minigame 1 (MB)">
+		<description>Harry Potter and The Prisoner of Azkaban - Minigame 1 (MB)</description>
+		<rom name="Harry Potter and The Prisoner of Azkaban - Minigame 1 (MB).mb" size="185960" crc="ec25c9e9" md5="860a05b5f9928bd74832e5d17cc9d7e0" sha1="bdc90e293315d927dc3ee61a521ea06770028cd2"/>
+	</game>
+	<game name="Harry Potter and The Prisoner of Azkaban - Minigame 2 (MB)">
+		<description>Harry Potter and The Prisoner of Azkaban - Minigame 2 (MB)</description>
+		<rom name="Harry Potter and The Prisoner of Azkaban - Minigame 2 (MB).mb" size="200796" crc="56ff0ac4" md5="16f35d764cdf0a47a84fdf69284ccca9" sha1="05fbead501b8e95ccb1363380884128a04504969"/>
+	</game>
+	<game name="InfoNES Advance (V0) (PD) (MB)">
+		<description>InfoNES Advance (V0) (PD) (MB)</description>
+		<rom name="InfoNES Advance (V0) (PD) (MB).mb" size="142636" crc="8bf5ceab" md5="90374d04e10c5706f660c050cb6dfb86" sha1="561651e95dcd486a37c45edd6c369f21fdd07e20"/>
+	</game>
+	<game name="InfoNES Advance (V0_Hazuki) (PD) (MB)">
+		<description>InfoNES Advance (V0_Hazuki) (PD) (MB)</description>
+		<rom name="InfoNES Advance (V0_Hazuki) (PD) (MB).mb" size="244268" crc="fe2afdf8" md5="02f6bdfbab957ba559d1a6b537802ab6" sha1="5c0db909814bd4a4655d1e0f181e72cccb73a451"/>
+	</game>
+	<game name="Leaflet0 (PD) (MB)">
+		<description>Leaflet0 (PD) (MB)</description>
+		<rom name="Leaflet0 (PD) (MB).mb" size="312012" crc="7b3a55f7" md5="ad1f7353f15b46bef8c31e0ff4c0fc4c" sha1="8c6d33257cd0c385bb941000ce895360310a3e62"/>
+	</game>
+	<game name="Legend of Zelda, The - Four Swords Controller (MB)">
+		<description>Legend of Zelda, The - Four Swords Controller (MB)</description>
+		<rom name="Legend of Zelda, The - Four Swords Controller (MB).mb" size="32768" crc="489dceab" md5="10f990dabbf14025ceecb163f7052d75" sha1="36070cc6c34e9125f9fc4ff719bf87705b070547"/>
+	</game>
+	<game name="Legend of Zelda, The - The Wind Waker - Tingle Tuner (U) (MB)">
+		<description>Legend of Zelda, The - The Wind Waker - Tingle Tuner (U) (MB)</description>
+		<rom name="Legend of Zelda, The - The Wind Waker - Tingle Tuner (U) (MB).mb" size="120436" crc="14bb133e" md5="36c66ec089566262eab26beb18e85b74" sha1="eb6746f48465cd9677ae4f040ce99199fedfdebe"/>
+	</game>
+	<game name="Legend of Zelda, The - The Wind Waker - Tingle Tuner (U) (MB) [a1]">
+		<description>Legend of Zelda, The - The Wind Waker - Tingle Tuner (U) (MB) [a1]</description>
+		<rom name="Legend of Zelda, The - The Wind Waker - Tingle Tuner (U) (MB) [a1].mb" size="120836" crc="0578e78f" md5="c912ecedc72cd4a0c524bacd0229a0e5" sha1="be851f25bad0dbc559ab3b8c1b7bc1512b4a25b7"/>
+	</game>
+	<game name="Light Cycles Games from Tron (PD) (MB)">
+		<description>Light Cycles Games from Tron (PD) (MB)</description>
+		<rom name="Light Cycles Games from Tron (PD) (MB).mb" size="844" crc="3e5fc80c" md5="63ac8aa67a231194a839c3e1ab891ee4" sha1="f3f1fda9127b20cf49be0d21cfac366410fb0f63"/>
+	</game>
+	<game name="Luminesweeper by Tepples (CustomSkins) (V20051009) (PD) (MB)">
+		<description>Luminesweeper by Tepples (CustomSkins) (V20051009) (PD) (MB)</description>
+		<rom name="Luminesweeper by Tepples (CustomSkins) (V20051009) (PD) (MB).mb" size="185824" crc="cf210982" md5="2359613f3a343cacf22006b3c5c850a9" sha1="0f309febc08bacb96be21d5c99db893b3d826224"/>
+	</game>
+	<game name="Mario Kart Double Dash - Fire Emblem Bonus Items (MB)">
+		<description>Mario Kart Double Dash - Fire Emblem Bonus Items (MB)</description>
+		<rom name="Mario Kart Double Dash - Fire Emblem Bonus Items (MB).mb" size="58372" crc="4060f97b" md5="d1547f798b82076cc5c7e5efa957d155" sha1="3426de060e0a46d7b101ced0089d3810d1cda76b"/>
+	</game>
+	<game name="Metroid Fusion - Completion Bonus (MB)">
+		<description>Metroid Fusion - Completion Bonus (MB)</description>
+		<rom name="Metroid Fusion - Completion Bonus (MB).mb" size="50732" crc="86547acb" md5="1f42bb17db1b21fd712e3b248b12d288" sha1="0259f82e55bc9726e2484e231423e2ea043ae6d0"/>
+	</game>
+	<game name="ModPlay by Stephen Stair (PD) (MB)">
+		<description>ModPlay by Stephen Stair (PD) (MB)</description>
+		<rom name="ModPlay by Stephen Stair (PD) (MB).mb" size="21312" crc="b2dae167" md5="aa6f87f296349942fd01b5aa36f0bcfb" sha1="680e91ce9c72f613552b39d04d86baa19b442504"/>
+	</game>
+	<game name="Mr. Driller - Drill Land Controller (MB)">
+		<description>Mr. Driller - Drill Land Controller (MB)</description>
+		<rom name="Mr. Driller - Drill Land Controller (MB).mb" size="9608" crc="ec0d6552" md5="1bcd572305c52cda918a3f79cd2c5b12" sha1="171a40ea5bac7083c6b8b03c5bb2e21e77253a94"/>
+	</game>
+	<game name="Nintendo Puzzle Collection Controller GC (MB)">
+		<description>Nintendo Puzzle Collection Controller GC (MB)</description>
+		<rom name="Nintendo Puzzle Collection Controller GC (MB).mb" size="68936" crc="67dc4b4a" md5="7fd2592d28ff675ea42e7cf8b3ce5f4a" sha1="2f09656ba4ef32ab57b73568c542a09b19b9cfaf"/>
+	</game>
+	<game name="Pac-Man Vs - Controller (MB)">
+		<description>Pac-Man Vs - Controller (MB)</description>
+		<rom name="Pac-Man Vs - Controller (MB).mb" size="164604" crc="37eff416" md5="c5fdf6480e7d8c350783448356154166" sha1="a995cc2269636ed60786d2430e87d462392e2ab8"/>
+	</game>
+	<game name="Paper Rock Sissors 4 GBA (PD) (MB)">
+		<description>Paper Rock Sissors 4 GBA (PD) (MB)</description>
+		<rom name="Paper Rock Sissors 4 GBA (PD) (MB).mb" size="226448" crc="c3378206" md5="4767e8439be57914c0119da44327e19a" sha1="c5fcbdaed9cd83f7104198b466ceba71e027d932"/>
+	</game>
+	<game name="Platform by Lord Graga (V0.02) (PD) (MB)">
+		<description>Platform by Lord Graga (V0.02) (PD) (MB)</description>
+		<rom name="Platform by Lord Graga (V0.02) (PD) (MB).mb" size="43464" crc="f6412566" md5="fb3340f24a6962044fff9248382ea413" sha1="fcc85ab3b00b1708697e64ddbc906ced28d81ab8"/>
+	</game>
+	<game name="PocketNES by Loopy (V2) (PD) (MB)">
+		<description>PocketNES by Loopy (V2) (PD) (MB)</description>
+		<rom name="PocketNES by Loopy (V2) (PD) (MB).mb" size="13496" crc="e3776fb6" md5="2294d9079d3f037d4dbe2be339847cbf" sha1="b9d8a7cefb6f6937d91a8912b6088e3626f0e6ae"/>
+	</game>
+	<game name="PocketNES by Loopy (V3) (PD) (MB)">
+		<description>PocketNES by Loopy (V3) (PD) (MB)</description>
+		<rom name="PocketNES by Loopy (V3) (PD) (MB).mb" size="17904" crc="cf7e643b" md5="e57ada4b3a11cce6b6b0b75e5889e24b" sha1="286fdebc6c9c09c34b16caea521d998aa2b8fe86"/>
+	</game>
+	<game name="PocketNES by Loopy (V4) (PD) (MB)">
+		<description>PocketNES by Loopy (V4) (PD) (MB)</description>
+		<rom name="PocketNES by Loopy (V4) (PD) (MB).mb" size="37724" crc="1700a35d" md5="7a266c75800a791452cdcaca0df42718" sha1="9ff8dbc6fcba7529f7d95f0387279ebe9c557e45"/>
+	</game>
+	<game name="PogoShell - BMP (Vx.x) (PD) (MB)">
+		<description>PogoShell - BMP (Vx.x) (PD) (MB)</description>
+		<rom name="PogoShell - BMP (Vx.x) (PD) (MB).mb" size="12584" crc="6283ffb3" md5="9c70f41b33b030b2503c056c0ea8ab71" sha1="c91aa7637713dd2f36b0be8e1ae3926e62eba510"/>
+	</game>
+	<game name="PogoShell 2004112 2.0b5WIP - reader (PD) (MB)">
+		<description>PogoShell 2004112 2.0b5WIP - reader (PD) (MB)</description>
+		<rom name="PogoShell 2004112 2.0b5WIP - reader (PD) (MB).mb" size="41936" crc="c9f556b5" md5="45b46745d2637a583a953f23aa88a16d" sha1="81b9fa60d32a7d3f3bdcc0c33ce398cc73156714"/>
+	</game>
+	<game name="PogoShell V0.2 - l9 (PD) (MB)">
+		<description>PogoShell V0.2 - l9 (PD) (MB)</description>
+		<rom name="PogoShell V0.2 - l9 (PD) (MB).mb" size="70540" crc="7e0b74ed" md5="c2b83d390ad191f831d3f109098ade75" sha1="c45944f868c9e5809e00384ff0bb0ace46e9c47a"/>
+	</game>
+	<game name="PogoShell V0.2 - Shell by Sasq (PD) (MB)">
+		<description>PogoShell V0.2 - Shell by Sasq (PD) (MB)</description>
+		<rom name="PogoShell V0.2 - Shell by Sasq (PD) (MB).mb" size="25636" crc="2a1efcdd" md5="3ac4367b6625b3d70bb137f25099d6e1" sha1="d97a3cd486dbe40009ffdfab5745ae2278298d4a"/>
+	</game>
+	<game name="PogoShell V0.2 - zcode (PD) (MB)">
+		<description>PogoShell V0.2 - zcode (PD) (MB)</description>
+		<rom name="PogoShell V0.2 - zcode (PD) (MB).mb" size="112760" crc="0a769b0b" md5="8d10f53c2de5166911c42d06e6578678" sha1="d668c1fb143f2e75577092137be878df2ac3fa14"/>
+	</game>
+	<game name="PogoShell V0.5 - MODPlay (PD) (MB)">
+		<description>PogoShell V0.5 - MODPlay (PD) (MB)</description>
+		<rom name="PogoShell V0.5 - MODPlay (PD) (MB).mb" size="7464" crc="2042afc4" md5="3cd47de68705579afabd8f367af04c66" sha1="bca718d4bd27e6ccfecbc1e6671e2b9f6bbe1dc2"/>
+	</game>
+	<game name="PogoShell V0.5 - Shell by Sasq (PD) (MB)">
+		<description>PogoShell V0.5 - Shell by Sasq (PD) (MB)</description>
+		<rom name="PogoShell V0.5 - Shell by Sasq (PD) (MB).mb" size="65536" crc="4f91989d" md5="292be5d933092a6295e64461c64aaa3f" sha1="8109e9089c0d22a017eb0a9eba42eeed06628cf6"/>
+	</game>
+	<game name="PogoShell V0.7 - BMP (PD) (MB)">
+		<description>PogoShell V0.7 - BMP (PD) (MB)</description>
+		<rom name="PogoShell V0.7 - BMP (PD) (MB).mb" size="12576" crc="6fc09ae7" md5="1711b7af811d773029944ff3657697da" sha1="a11e16659a7e583f1ee929784279b796dcf256ee"/>
+	</game>
+	<game name="PogoShell V0.7 - Shell by Sasq (PD) (MB)">
+		<description>PogoShell V0.7 - Shell by Sasq (PD) (MB)</description>
+		<rom name="PogoShell V0.7 - Shell by Sasq (PD) (MB).mb" size="40264" crc="f00fc5ca" md5="5065cf947662797b532f4c98dfdf1353" sha1="39d88402871cbca0afe65e3bc8e30865d7ce7e35"/>
+	</game>
+	<game name="PogoShell V0.7 - zcode (PD) (MB)">
+		<description>PogoShell V0.7 - zcode (PD) (MB)</description>
+		<rom name="PogoShell V0.7 - zcode (PD) (MB).mb" size="114056" crc="bff42ddd" md5="d87f4bfc51351614f15759615c10a44e" sha1="365eefb06bebaeaa64d57a7401824514742dc47a"/>
+	</game>
+	<game name="PogoShell V0.71 - Shell by Sasq (PD) (MB)">
+		<description>PogoShell V0.71 - Shell by Sasq (PD) (MB)</description>
+		<rom name="PogoShell V0.71 - Shell by Sasq (PD) (MB).mb" size="36748" crc="68f074d0" md5="80bb884b57d64c0d7b857ed763594a57" sha1="603960fbb15d038999c94eb847a40c32c05d70e9"/>
+	</game>
+	<game name="PogoShell V0.71 - Small Shell by Sasq (PD) (MB)">
+		<description>PogoShell V0.71 - Small Shell by Sasq (PD) (MB)</description>
+		<rom name="PogoShell V0.71 - Small Shell by Sasq (PD) (MB).mb" size="31416" crc="6492c6fa" md5="d8e67b9a6e6b2d00ccbf6b9be66a276d" sha1="d583bbb9bbe9b93af511934b4b190a2e10943b1b"/>
+	</game>
+	<game name="PogoShell V0.8 - MODplay (PD) (MB)">
+		<description>PogoShell V0.8 - MODplay (PD) (MB)</description>
+		<rom name="PogoShell V0.8 - MODplay (PD) (MB).mb" size="21216" crc="2bcab60c" md5="948391738496e4b50dc7cfc373c93ffc" sha1="e57892ddccf99f9e5b75e02cc0d8cf6f6fe37459"/>
+	</game>
+	<game name="PogoShell V0.9 - Shell by Sasq (PD) (MB)">
+		<description>PogoShell V0.9 - Shell by Sasq (PD) (MB)</description>
+		<rom name="PogoShell V0.9 - Shell by Sasq (PD) (MB).mb" size="32152" crc="a44838bf" md5="d7301f8e3b8b38f8a79a8bfc6454b7f8" sha1="4d2054fae13dd95dfb754ac2bc17ba0cd8ea5ce8"/>
+	</game>
+	<game name="PogoShell V0.95 - Shell by Sasq (PD) (MB)">
+		<description>PogoShell V0.95 - Shell by Sasq (PD) (MB)</description>
+		<rom name="PogoShell V0.95 - Shell by Sasq (PD) (MB).mb" size="32600" crc="f499af62" md5="6fe48668e8ddf90981409d07632c793c" sha1="feacb346233c9459be724231cc412cbdaa5872a6"/>
+	</game>
+	<game name="PogoShell V0.97 - Shell by Sasq (PD) (MB)">
+		<description>PogoShell V0.97 - Shell by Sasq (PD) (MB)</description>
+		<rom name="PogoShell V0.97 - Shell by Sasq (PD) (MB).mb" size="32648" crc="729cfc33" md5="d0fd539e5ef70b50d3c5f1cebabd1263" sha1="987240dcb416761786f8f7ad813c8170d39fec4c"/>
+	</game>
+	<game name="PogoShell V0.97 - zcode (PD) (MB)">
+		<description>PogoShell V0.97 - zcode (PD) (MB)</description>
+		<rom name="PogoShell V0.97 - zcode (PD) (MB).mb" size="80308" crc="f1e511a2" md5="180e3cceac167c360250a4338392bdfa" sha1="babf5fbb0e35d3530f7f2873409d204a2ee4e816"/>
+	</game>
+	<game name="PogoShell V1.0 - Shell (PD) (MB)">
+		<description>PogoShell V1.0 - Shell (PD) (MB)</description>
+		<rom name="PogoShell V1.0 - Shell (PD) (MB).mb" size="32576" crc="31644f25" md5="1ccee1f121c31196233b6752c97e32d1" sha1="afff77c3a4075601f21e17626ee76df3396d9a42"/>
+	</game>
+	<game name="Puyo Pop - Endless Version (U) (MB)">
+		<description>Puyo Pop - Endless Version (U) (MB)</description>
+		<rom name="Puyo Pop - Endless Version (U) (MB).mb" size="226589" crc="ddbdfe61" md5="793850c9c75a35676fd9d754c36b1b47" sha1="bdb579944ed7f3cd744cc94815c94e28d6bd1254"/>
+	</game>
+	<game name="Reversi Advance by TeamKNOx (V1.0) (PD) (MB)">
+		<description>Reversi Advance by TeamKNOx (V1.0) (PD) (MB)</description>
+		<rom name="Reversi Advance by TeamKNOx (V1.0) (PD) (MB).mb" size="41620" crc="25fd143a" md5="da2ea90f652d90ddee14411237ab6829" sha1="231d7f52ed077a2dc504b105dfadde87785b3856"/>
+	</game>
+	<game name="Rotating + Scaling Demo by Stephen Stair (PD) (MB)">
+		<description>Rotating + Scaling Demo by Stephen Stair (PD) (MB)</description>
+		<rom name="Rotating + Scaling Demo by Stephen Stair (PD) (MB).mb" size="30708" crc="f97a6857" md5="caf2ac44f98698ddac0cbc6563cbc812" sha1="9b91c2bf91974bda059abf11d5e31d79f37ceb38"/>
+	</game>
+	<game name="SEMI-POGO (V0.08) (PD) (MB)">
+		<description>SEMI-POGO (V0.08) (PD) (MB)</description>
+		<rom name="SEMI-POGO (V0.08) (PD) (MB).mb" size="243852" crc="2944cf38" md5="457810bd54d561b1139bc059b0508ec0" sha1="4cc558261ee2bc8fc59d38711757d6ee73d917fc"/>
+	</game>
+	<game name="SidPlayer (MB)">
+		<description>SidPlayer (MB)</description>
+		<rom name="SidPlayer (MB).mb" size="158536" crc="727d34cd" md5="9906bfc041aab9ce73f1bf0cf37002cf" sha1="3135a2cfeca584dfc984e412258f01659d315979"/>
+	</game>
+	<game name="Sonic Adventure 2 - Tiny Chao Garden (Amy) (MB)">
+		<description>Sonic Adventure 2 - Tiny Chao Garden (Amy) (MB)</description>
+		<rom name="Sonic Adventure 2 - Tiny Chao Garden (Amy) (MB).mb" size="154716" crc="89f6c318" md5="76f7068df1b116644d970ec530cbda06" sha1="18dfa9ae5a43841644ad6cc8d10dee0ddf39e9eb"/>
+	</game>
+	<game name="Sonic Adventure 2 - Tiny Chao Garden (Chaos) (MB)">
+		<description>Sonic Adventure 2 - Tiny Chao Garden (Chaos) (MB)</description>
+		<rom name="Sonic Adventure 2 - Tiny Chao Garden (Chaos) (MB).mb" size="154716" crc="40022ee2" md5="c1f7f6dedc6c168ba649b2a25788c381" sha1="4b7f2e0e3c013fcc713d411aba42b3f0575eafd9"/>
+	</game>
+	<game name="Sonic Adventure 2 - Tiny Chao Garden (Knuckles) (MB)">
+		<description>Sonic Adventure 2 - Tiny Chao Garden (Knuckles) (MB)</description>
+		<rom name="Sonic Adventure 2 - Tiny Chao Garden (Knuckles) (MB).mb" size="154716" crc="13a931ee" md5="b0b65d29fb4fb25e672b8ed72c5778f0" sha1="a3e37df1d881694a0ee54ba60b0fa713f9383ad2"/>
+	</game>
+	<game name="Sonic Adventure 2 - Tiny Chao Garden (Omochao) (MB)">
+		<description>Sonic Adventure 2 - Tiny Chao Garden (Omochao) (MB)</description>
+		<rom name="Sonic Adventure 2 - Tiny Chao Garden (Omochao) (MB).mb" size="154716" crc="a3907b3d" md5="d43291131060b6b00516cd56c5cd6ab1" sha1="1689f36a9675db6d4001255e7d3695c574b1360e"/>
+	</game>
+	<game name="Sonic Adventure DX Directors Cut - ChaoGC (MB)">
+		<description>Sonic Adventure DX Directors Cut - ChaoGC (MB)</description>
+		<rom name="Sonic Adventure DX Directors Cut - ChaoGC (MB).mb" size="217032" crc="28a6baea" md5="2fd1658783cd1c6bf5e1b19a1462a42a" sha1="97ffbc9a4b0216af2983ce2e8d78b5693f47e673"/>
+	</game>
+	<game name="Sonic DX - Panel de Pon (GC) (MB)">
+		<description>Sonic DX - Panel de Pon (GC) (MB)</description>
+		<rom name="Sonic DX - Panel de Pon (GC) (MB).mb" size="210304" crc="53a701e8" md5="e4772f1ea518f621d67917d93eac694b" sha1="1d96a64481007389ce46314e8b30a101f81dbfb8"/>
+	</game>
+	<game name="Speed Tester for libfat 2005-2007 by Damian Yerrick CF (MB)">
+		<description>Speed Tester for libfat 2005-2007 by Damian Yerrick CF (MB)</description>
+		<rom name="Speed Tester for libfat 2005-2007 by Damian Yerrick CF (MB).mb" size="77056" crc="01de7f0c" md5="70b828afcae0371451f9efc50d197541" sha1="a783fb66abfdbc4354b85049157598e00c01b5b7"/>
+	</game>
+	<game name="Super Demo by Sasq (PD) (MB)">
+		<description>Super Demo by Sasq (PD) (MB)</description>
+		<rom name="Super Demo by Sasq (PD) (MB).mb" size="224064" crc="3183d846" md5="63a365f85f6a48adecea2d961a432273" sha1="49869d3540b2483f2aa66ecc0b010bbae762c984"/>
+	</game>
+	<game name="Tiny Chao Garden (U) (MB)">
+		<description>Tiny Chao Garden (U) (MB)</description>
+		<rom name="Tiny Chao Garden (U) (MB).mb" size="182848" crc="1d8f3b33" md5="c287c0f628dc0c1aa27f32a2b17f6256" sha1="8f402088623cbc6d6de0e0fe7faf5f27eda00bb4"/>
+	</game>
+	<game name="Tom Clancy's Splinter Cell - Pandora Tomorrow Map Loader (MB)">
+		<description>Tom Clancy's Splinter Cell - Pandora Tomorrow Map Loader (MB)</description>
+		<rom name="Tom Clancy's Splinter Cell - Pandora Tomorrow Map Loader (MB).mb" size="60972" crc="a7ef297e" md5="8123e9690158f071c0339b33784c716a" sha1="4c2f7bebb8e054c9ea937187f6fcca61dbb4f2f7"/>
+	</game>
+	<game name="TONC Tutorial - blend_demo (V1.0) (PD) (MB)">
+		<description>TONC Tutorial - blend_demo (V1.0) (PD) (MB)</description>
+		<rom name="TONC Tutorial - blend_demo (V1.0) (PD) (MB).mb" size="7128" crc="8f6f3b66" md5="78bfe2703efaabb845ca61163ac5ad5c" sha1="75530321aa81959481fba0f98f5128170ed44096"/>
+	</game>
+	<game name="TONC Tutorial - bm_demo (V1.0) (PD) (MB)">
+		<description>TONC Tutorial - bm_demo (V1.0) (PD) (MB)</description>
+		<rom name="TONC Tutorial - bm_demo (V1.0) (PD) (MB).mb" size="78376" crc="fa9ddf0c" md5="6441c2a96bcf915631957a1c64b69189" sha1="a3f8301ae88bf6dbc48b5898373359b2c618f168"/>
+	</game>
+	<game name="TONC Tutorial - cbb_demo (V1.0) (PD) (MB)">
+		<description>TONC Tutorial - cbb_demo (V1.0) (PD) (MB)</description>
+		<rom name="TONC Tutorial - cbb_demo (V1.0) (PD) (MB).mb" size="2576" crc="613b225e" md5="51d55a70982d05425909476dedc0dd18" sha1="d24333966054a0335555b30ed0f75ee2ac62711f"/>
+	</game>
+	<game name="TONC Tutorial - dma_demo (V1.0) (PD) (MB)">
+		<description>TONC Tutorial - dma_demo (V1.0) (PD) (MB)</description>
+		<rom name="TONC Tutorial - dma_demo (V1.0) (PD) (MB).mb" size="1124" crc="3e2eb098" md5="a3f5212cfacbbf32755afea71964cd0c" sha1="826ef85f7976359a231a22cd2bdb3455683de2b9"/>
+	</game>
+	<game name="TONC Tutorial - first (V1.0) (PD) (MB)">
+		<description>TONC Tutorial - first (V1.0) (PD) (MB)</description>
+		<rom name="TONC Tutorial - first (V1.0) (PD) (MB).mb" size="940" crc="9ec4d9ac" md5="9ca8496301200511dd145cfe9f6f1415" sha1="6e48c1f3e76ff3858aa7b8f34d4b99317e4cc968"/>
+	</game>
+	<game name="TONC Tutorial - int_demo (V1.0) (PD) (MB)">
+		<description>TONC Tutorial - int_demo (V1.0) (PD) (MB)</description>
+		<rom name="TONC Tutorial - int_demo (V1.0) (PD) (MB).mb" size="40692" crc="4c50b559" md5="447afec0a5f269730857de59d425d2d9" sha1="054ec98e9fbde948bff8cd16d5b6b4313cb30dc9"/>
+	</game>
+	<game name="TONC Tutorial - key_demo (V1.0) (PD) (MB)">
+		<description>TONC Tutorial - key_demo (V1.0) (PD) (MB)</description>
+		<rom name="TONC Tutorial - key_demo (V1.0) (PD) (MB).mb" size="40056" crc="0877b57c" md5="7458014a1c1b9e38ceb6c1be8ec1eec4" sha1="c5d285b7353f74231127fd41fb55ad472c8becf9"/>
+	</game>
+	<game name="TONC Tutorial - map_block1 (V1.0) (PD) (MB)">
+		<description>TONC Tutorial - map_block1 (V1.0) (PD) (MB)</description>
+		<rom name="TONC Tutorial - map_block1 (V1.0) (PD) (MB).mb" size="1772" crc="2cd20071" md5="d93c23918b109502028c06be6ad9c8f8" sha1="1e53627f109cd91f48c4b91c21e8c3a1065b80d8"/>
+	</game>
+	<game name="TONC Tutorial - map_block2 (V1.0) (PD) (MB)">
+		<description>TONC Tutorial - map_block2 (V1.0) (PD) (MB)</description>
+		<rom name="TONC Tutorial - map_block2 (V1.0) (PD) (MB).mb" size="6056" crc="e51a01fe" md5="ca3e14d416da4d1a916e0888bbabcd23" sha1="beefa38f07242de89f8f8123267be4137a5e9c58"/>
+	</game>
+	<game name="TONC Tutorial - mode7c (V1.0) (PD) (MB)">
+		<description>TONC Tutorial - mode7c (V1.0) (PD) (MB)</description>
+		<rom name="TONC Tutorial - mode7c (V1.0) (PD) (MB).mb" size="5788" crc="04fe4c9d" md5="edff27921ab789b8f063b5be6f07ac52" sha1="cfcedf96a07bffe59d53e8c74ac0590f4e31e68a"/>
+	</game>
+	<game name="TONC Tutorial - mode7d (V1.0) (PD) (MB)">
+		<description>TONC Tutorial - mode7d (V1.0) (PD) (MB)</description>
+		<rom name="TONC Tutorial - mode7d (V1.0) (PD) (MB).mb" size="10712" crc="c8c078cf" md5="552227b42070766aaacea7a6682e9d4b" sha1="8a65911d53eaaf0f98a9932e7715f53f4550d050"/>
+	</game>
+	<game name="TONC Tutorial - mos_demo (V1.0) (PD) (MB)">
+		<description>TONC Tutorial - mos_demo (V1.0) (PD) (MB)</description>
+		<rom name="TONC Tutorial - mos_demo (V1.0) (PD) (MB).mb" size="6328" crc="80ad7af4" md5="7d9ba4f39ba0434c021507d6b6c018eb" sha1="96196e7d201c25c28a88e63c667d09cdcf390359"/>
+	</game>
+	<game name="TONC Tutorial - obj_demo (V1.0) (PD) (MB)">
+		<description>TONC Tutorial - obj_demo (V1.0) (PD) (MB)</description>
+		<rom name="TONC Tutorial - obj_demo (V1.0) (PD) (MB).mb" size="6180" crc="f66f6106" md5="c9391b0366ddc5b4f6cdf8e7114d4bce" sha1="a6bc9d50068337deaa0482e4cf50268be4a630ed"/>
+	</game>
+	<game name="TONC Tutorial - objaff_demo (V1.0) (PD) (MB)">
+		<description>TONC Tutorial - objaff_demo (V1.0) (PD) (MB)</description>
+		<rom name="TONC Tutorial - objaff_demo (V1.0) (PD) (MB).mb" size="9156" crc="e510b313" md5="abf9215683fd49750d5a40f27f6642b3" sha1="a88d25542b03c66ef71e7b266269b7c6861cece9"/>
+	</game>
+	<game name="TONC Tutorial - page_demo (V1.0) (PD) (MB)">
+		<description>TONC Tutorial - page_demo (V1.0) (PD) (MB)</description>
+		<rom name="TONC Tutorial - page_demo (V1.0) (PD) (MB).mb" size="6852" crc="5dcb7e1a" md5="43cc7e491605c97fc7843411be6fe7d4" sha1="297cb3a3c00b4e1915e668896dedcfba1c908af2"/>
+	</game>
+	<game name="TONC Tutorial - swi_demo (V1.0) (PD) (MB)">
+		<description>TONC Tutorial - swi_demo (V1.0) (PD) (MB)</description>
+		<rom name="TONC Tutorial - swi_demo (V1.0) (PD) (MB).mb" size="1332" crc="ed9fe704" md5="88aab11932f4204c36b5cae590caa148" sha1="dbca9abe3b49c9d0dd3f7da41406380a22eaef32"/>
+	</game>
+	<game name="TONC Tutorial - swi_vsync (V1.0) (PD) (MB)">
+		<description>TONC Tutorial - swi_vsync (V1.0) (PD) (MB)</description>
+		<rom name="TONC Tutorial - swi_vsync (V1.0) (PD) (MB).mb" size="9172" crc="8f44f1ed" md5="910a3f14da91e36fb1505e34e2a7dd17" sha1="1714ecdb01d026a51baaf27481fd9f65e1a9011a"/>
+	</game>
+	<game name="TONC Tutorial - tmr_demo (V1.0) (PD) (MB)">
+		<description>TONC Tutorial - tmr_demo (V1.0) (PD) (MB)</description>
+		<rom name="TONC Tutorial - tmr_demo (V1.0) (PD) (MB).mb" size="1176" crc="1bc16f53" md5="8a07b1c938b46493d7a9131b081bf5b3" sha1="08de36951342b01ab336928087d5a0031b5e3a47"/>
+	</game>
+	<game name="TONC Tutorial - win_demo (V1.0) (PD) (MB)">
+		<description>TONC Tutorial - win_demo (V1.0) (PD) (MB)</description>
+		<rom name="TONC Tutorial - win_demo (V1.0) (PD) (MB).mb" size="5880" crc="8549ccad" md5="670e2a04b6b304d3e7f06f5cc01de3c5" sha1="5512df3f1040df3442eff4050f287685ccb4be41"/>
+	</game>
+	<game name="Tunnel Demo by Stephen Stair (PD) (MB)">
+		<description>Tunnel Demo by Stephen Stair (PD) (MB)</description>
+		<rom name="Tunnel Demo by Stephen Stair (PD) (MB).mb" size="82040" crc="5e96acc0" md5="5247e468c3925d805f408c1c37028ad6" sha1="51688f238e091baaa8118ec2a37d9819fca1056d"/>
+	</game>
+	<game name="WarioWare Inc. - Selected 1 (J) (MB)">
+		<description>WarioWare Inc. - Selected 1 (J) (MB)</description>
+		<rom name="WarioWare Inc. - Selected 1 (J) (MB).mb" size="200628" crc="154952ca" md5="5a2300d4f76619682b45a89cc82bda96" sha1="2756fa8c0f4fd9b42ddf4b23107dbc29359e7376"/>
+	</game>
+	<game name="WarioWare Inc. - Selected 2 (J) (MB)">
+		<description>WarioWare Inc. - Selected 2 (J) (MB)</description>
+		<rom name="WarioWare Inc. - Selected 2 (J) (MB).mb" size="198520" crc="44b04b63" md5="636b6dd788e2fdcb72c16414098e4135" sha1="6437c93ae721528569aed81a469e869ee7e3ba5b"/>
+	</game>
+	<game name="WarioWare Inc. - Selected 3 (J) (MB)">
+		<description>WarioWare Inc. - Selected 3 (J) (MB)</description>
+		<rom name="WarioWare Inc. - Selected 3 (J) (MB).mb" size="199380" crc="391b1efd" md5="41248e46d1546310fe6d75bc6c4d1025" sha1="5054d54a34bee808237621d18a5b4ab33276ddc1"/>
+	</game>
+	<game name="WarioWare Inc. - Selected 4 (J) (MB)">
+		<description>WarioWare Inc. - Selected 4 (J) (MB)</description>
+		<rom name="WarioWare Inc. - Selected 4 (J) (MB).mb" size="197316" crc="0538d8bd" md5="30fb9dc3444e3ad6f8e44bafa3fe4c1e" sha1="b901a0aa156b31309fb17f1d3f7794d75a83ee29"/>
+	</game>
+	<game name="WarioWare Inc. - Trial Version (J) (MB)">
+		<description>WarioWare Inc. - Trial Version (J) (MB)</description>
+		<rom name="WarioWare Inc. - Trial Version (J) (MB).mb" size="249848" crc="cc86e7c2" md5="39891f6dc6233821d27e3319095de733" sha1="ca4ae225f2f758ed84cef9a3c8490efd4b5a0a7c"/>
+	</game>
+	<game name="WarioWare Inc. - Trial Version 1 (J) (MB)">
+		<description>WarioWare Inc. - Trial Version 1 (J) (MB)</description>
+		<rom name="WarioWare Inc. - Trial Version 1 (J) (MB).mb" size="244928" crc="7508c0c0" md5="f3329db7dfc34e3bf4f8968b49e41842" sha1="8bfcf10a8f57b16580a228addae867a00e832151"/>
+	</game>
+	<game name="WarioWare Inc. - Trial Version 2 (J) (MB)">
+		<description>WarioWare Inc. - Trial Version 2 (J) (MB)</description>
+		<rom name="WarioWare Inc. - Trial Version 2 (J) (MB).mb" size="247224" crc="a8b43490" md5="048571b5f9386f00aea58576445cf5d8" sha1="999821b8016af120f4398f75610574f5f5a4b4a6"/>
+	</game>
+	<game name="WarioWare Inc. - Trial Version 3 (J) (MB)">
+		<description>WarioWare Inc. - Trial Version 3 (J) (MB)</description>
+		<rom name="WarioWare Inc. - Trial Version 3 (J) (MB).mb" size="231396" crc="b016b95a" md5="02544fa37e3c1ea4ae6874ec91ca501d" sha1="455046e88057c63c13db954cdc28163b904efde8"/>
+	</game>
+	<game name="WarioWare Inc. - Trial Version 4 (J) (MB)">
+		<description>WarioWare Inc. - Trial Version 4 (J) (MB)</description>
+		<rom name="WarioWare Inc. - Trial Version 4 (J) (MB).mb" size="234240" crc="00a15ebd" md5="d52f65a8fff17a86aaa749212a1ef80c" sha1="01af5f68897441f378ee417acd800c152ff5350f"/>
+	</game>
+	<game name="WAVPlay by Stephen Stair (PD) (MB)">
+		<description>WAVPlay by Stephen Stair (PD) (MB)</description>
+		<rom name="WAVPlay by Stephen Stair (PD) (MB).mb" size="178244" crc="1880933d" md5="a970dcd705f7056724ec02f4ccc4593a" sha1="8774f89ff0c7daff08905cecbc8c74aa8a1fac06"/>
+	</game>
+	<game name="WAVPlay Test by Stephen Stair (PD) (MB)">
+		<description>WAVPlay Test by Stephen Stair (PD) (MB)</description>
+		<rom name="WAVPlay Test by Stephen Stair (PD) (MB).mb" size="169896" crc="d102b466" md5="8d5b789c34f0dcac222c5f33ddd618c7" sha1="5df18b4cfa0bdf1d76e19a4d275521930bb5aa93"/>
+	</game>
+	<game name="YAGBAT - Yet Another GBA Tutorial - full (V0.0.4) (PD) (MB)">
+		<description>YAGBAT - Yet Another GBA Tutorial - full (V0.0.4) (PD) (MB)</description>
+		<rom name="YAGBAT - Yet Another GBA Tutorial - full (V0.0.4) (PD) (MB).mb" size="28452" crc="02d4152e" md5="f6fb71081ce41063ba9235a3095451c1" sha1="fbc9fb29c1e408f17dd96c03fb34040b34a7c3fa"/>
+	</game>
+	<game name="YAGBAT - Yet Another GBA Tutorial - full - game (V0.0.4) (PD) (MB)">
+		<description>YAGBAT - Yet Another GBA Tutorial - full - game (V0.0.4) (PD) (MB)</description>
+		<rom name="YAGBAT - Yet Another GBA Tutorial - full - game (V0.0.4) (PD) (MB).mb" size="30760" crc="6e2a932c" md5="ceafaca540d680153173cea4c17dccb9" sha1="1dff5604c8a5ea060257e646d10972cf14bd2f71"/>
+	</game>
+	<game name="YAGBAT - Yet Another GBA Tutorial - hello (V0.0.4) (PD) (MB)">
+		<description>YAGBAT - Yet Another GBA Tutorial - hello (V0.0.4) (PD) (MB)</description>
+		<rom name="YAGBAT - Yet Another GBA Tutorial - hello (V0.0.4) (PD) (MB).mb" size="55332" crc="5f954856" md5="68c54d9778b27d64e6fde86c3c792178" sha1="c135d9230c670c291a114ee591e18e6a6754e61d"/>
+	</game>
+	<game name="YAGBAT - Yet Another GBA Tutorial - hello - vba (V0.0.4) (PD) (MB)">
+		<description>YAGBAT - Yet Another GBA Tutorial - hello - vba (V0.0.4) (PD) (MB)</description>
+		<rom name="YAGBAT - Yet Another GBA Tutorial - hello - vba (V0.0.4) (PD) (MB).mb" size="55864" crc="940f4723" md5="262e8f805b6140da916cccb7502620b2" sha1="fc6e25d16b9b276f17b6a24244236dd746dff06a"/>
+	</game>
+	<game name="YAGBAT - Yet Another GBA Tutorial - keyint (V0.0.4) (PD) (MB)">
+		<description>YAGBAT - Yet Another GBA Tutorial - keyint (V0.0.4) (PD) (MB)</description>
+		<rom name="YAGBAT - Yet Another GBA Tutorial - keyint (V0.0.4) (PD) (MB).mb" size="30724" crc="09d32be7" md5="7eeaeb2727da59104a54346f02543b12" sha1="9728b3043cd9a0b2845aea631733636ac4510a33"/>
+	</game>
+	<game name="YAGBAT - Yet Another GBA Tutorial - keyint - vba (V0.0.4) (PD) (MB)">
+		<description>YAGBAT - Yet Another GBA Tutorial - keyint - vba (V0.0.4) (PD) (MB)</description>
+		<rom name="YAGBAT - Yet Another GBA Tutorial - keyint - vba (V0.0.4) (PD) (MB).mb" size="31256" crc="32e88104" md5="2590524bd5deeb714cbcf537ce30ad46" sha1="078ee7964de4569198a4c2e1d51777b8882ff679"/>
+	</game>
+	<game name="YAGBAT - Yet Another GBA Tutorial - ROM (V0.0.4) (PD) (MB)">
+		<description>YAGBAT - Yet Another GBA Tutorial - ROM (V0.0.4) (PD) (MB)</description>
+		<rom name="YAGBAT - Yet Another GBA Tutorial - ROM (V0.0.4) (PD) (MB).mb" size="392" crc="25a9db4c" md5="36cbbc7242bd643c7bef334a521a64af" sha1="44b3598e7f76642158f7569d6d30261273f57e3e"/>
+	</game>
+	<game name="YAGBAT - Yet Another GBA Tutorial - THUMB (V0.0.4) (PD) (MB)">
+		<description>YAGBAT - Yet Another GBA Tutorial - THUMB (V0.0.4) (PD) (MB)</description>
+		<rom name="YAGBAT - Yet Another GBA Tutorial - THUMB (V0.0.4) (PD) (MB).mb" size="30404" crc="4ed1b4b1" md5="96d6eff957b87fde19143663e8467ae5" sha1="033debec73fe81e4bd7b5d1d1d7a4092b94a23a4"/>
+	</game>
+	<game name="YAGBAT - Yet Another GBA Tutorial - THUMB - vba (V0.0.4) (PD) (MB)">
+		<description>YAGBAT - Yet Another GBA Tutorial - THUMB - vba (V0.0.4) (PD) (MB)</description>
+		<rom name="YAGBAT - Yet Another GBA Tutorial - THUMB - vba (V0.0.4) (PD) (MB).mb" size="30936" crc="2842bd90" md5="f4640a5bca430e835c408429a55e7318" sha1="c86075d47c1d6c4da164fe91a028a05f89595a34"/>
+	</game>
+	<game name="Yet Another SFcave (PD) (MB)">
+		<description>Yet Another SFcave (PD) (MB)</description>
+		<rom name="Yet Another SFcave (PD) (MB).mb" size="149724" crc="65d04176" md5="b7b2b95c496735f2169934b2f7e7c924" sha1="fe8863b4a462e1e50a0c540619f237d403297c3d"/>
+	</game>
+	<game name="ZeroMine Advance by TeamKNOx. &amp; K. Kubota (PD) (MB)">
+		<description>ZeroMine Advance by TeamKNOx. &amp; K. Kubota (PD) (MB)</description>
+		<rom name="ZeroMine Advance by TeamKNOx. &amp; K. Kubota (PD) (MB).mb" size="39160" crc="59887eed" md5="f511bf20e871ea6bbf0f521f39976e2d" sha1="d10b4714156d6a58246922b4de72288829b3bc91"/>
+	</game>
+</datafile>

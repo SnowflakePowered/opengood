@@ -1,0 +1,377 @@
+ You have 375 of 377 known Bandai WonderSwan/WS Color ROMS (V3.27)
+
+#Wonderwitch Promo Beta Demo by Dox (PD)
+#Wonderwitch Promo Demo by Dox (PD)
+#Wonderwitch Promo Demo by Dox (V1.2) (PD)
+#Wonderwitch Promo Demo by Dox (V1.3) (PD)
+#Wonderwitch Promo Demo by Dox (V1.4) (PD)
+#Wonderwitch Promo Demo by Dox (Vx.x) (PD)
+Alchemist Marie & Elie - Futari no Atelier (J) [!]
+Anaza Hebun - Memory of Those Days (J) [!]
+Anchor Field Z (J) [M][f1]
+Anchor Field Z (J) [M]
+Arc The Lad - Kijin Fukkatsu (J)
+Armored Unit (J) [M][f1]
+Armored Unit (J) [M][o1]
+Armored Unit (J) [M]
+Bakusou Dekatora Densetsu (J) [M][!]
+Bank Test by Sir Dragoon (PD)
+Battle Spirit - Digimon Frontier (J) [!]
+Beat Mania (J) [M][!]
+Blue Wing Blitz (J)
+Bokan Densetsu Buta Mo O Daterya Doronbou (J) [M]
+Buffers Evolution (J) [M][f1]
+Buffers Evolution (J) [M]
+Card Captor Sakura - Sakura to Fushigi na Clow Card (J) [M][!]
+Chaos Demo by Charles Doty (V1.0) (PD)
+Chaos Demo by Charles Doty (V1.1) (PD)
+Chaos Demo by Charles Doty (V2.0) (PD)
+Chaos Demo by Charles Doty (V2.1) (PD)
+Chaos Gear - Michibi Kareshi Mono (J) [M][!]
+Cho Denki Card Battle Yofu Makai Kikuchi Shugo (J) [M][!]
+Chocobo no Fushigi na Dungeon (J) [M]
+Chou Aniki - Otoko no Tamafuda (J) [M]
+Choujikuu Yousai Macross - True Love Song (J) [M][!]
+Clock Tower (J) [M][!]
+Clock Tower (J) [M][o1]
+Color Bars Demo by Sir Dragoon (PD)
+Color Scrolling Demo by Charles Doty (PD)
+Color Test Demo by Sir Dragoon (PD)
+Crazy Climber (J) [M][!]
+Crazy Climber (J) [M][o1]
+Crazy Climber (J) [M][T+Rus_Cool-Spot]
+D's Garage 21 Koubo Game - Tane wo Maku Tori (J) [M][!]
+D's Garage 21 Koubo Game - Tane wo Maku Tori (J) [M][f1]
+Dark Eyes - Battle Gate (J) [!]
+Densha de Go! (J) [M]
+Densha de Go! 2 (J) [M]
+DIASWAN by Orion_ (PD)
+Dicing Knight Period (J) [!]
+Dicing Knight Period (J) [o1][T+Eng1.0_AGTP]
+Dicing Knight Period (J) [o1]
+Dicing Knight Period (J) [T+Eng1.0_AGTP]
+Digimon Adventure - Anode Tamer (J) [M]
+Digimon Adventure - Cathode Tamer (J) [M]
+Digimon Adventure 02 - D1 Tamers (J) [!]
+Digimon Adventure 02 - D1 Tamers (J) [b1]
+Digimon Adventure 02 - D1 Tamers (J) [T+Eng0.05_PmHacks]
+Digimon Adventure 02 - D1 Tamers (J) [T+Eng0.1-20060425_DigitalZero Domain]
+Digimon Adventure 02 - Tag Tamers (J) [M][!]
+Digimon Adventure 02 - Tag Tamers (J) [M][T+Eng0.35_PmHacks]
+Digimon Adventure 02 - Tag Tamers (J) [M][T+Ger0.2_DigitalZeroDomain]
+Digimon Adventure 02 - Tag Tamers (J) [M][T-Eng0.25.2-20030924_PmHacks]
+Digimon Digital Monsters (As) [M]
+Digimon Digital Monsters (J) [M]
+Digimon Digital Monsters - Anode & Cathode Tamer - Veedramon Version (As) [!]
+Digimon Digital Monsters - D Project (J)
+Digimon Digital Monsters for WonderSwanColor (J) [!]
+Digimon Digital Monsters for WonderSwanColor (J) [f1]
+Digimon Tamers - Battle Spirit (J) [!]
+Digimon Tamers - Battle Spirit V1.5 (J) [!]
+Digimon Tamers - Brave Tamer (J) [!]
+Digimon Tamers - Brave Tamer (J) [b1]
+Digimon Tamers - Digimon Medley (J) [!]
+Digimon Tamers - Digimon Medley (J) [f1]
+Digital Partner (J) [M][!]
+Display a Picture Sample 2 by Tharo Herberg (PD)
+Display a Picture Sample 2006 by Tharo Herberg (PD)
+Display a Picture Sample by Tharo Herberg (PD) [a1]
+Display a Picture Sample by Tharo Herberg (PD)
+Dokodemo Hamster (J) [M][!]
+Dokodemo Hamster 3 - O Dekake Saffron (J)
+Dragonball (J)
+Engacho! (J) [M][!]
+Engacho! (J) [M][f1]
+Fantaisie Impromptu by Chopin - Arranged by Atsushi Watanabe (PD) [a1]
+Fantaisie Impromptu by Chopin - Arranged by Atsushi Watanabe (PD)
+Fever Sankyo - Koushiki Pachinko Simulation (J) [M][f1]
+Fever Sankyo - Koushiki Pachinko Simulation (J) [M]
+Final Fantasy (J) [!]
+Final Fantasy (J) [T+Eng0.91_Kalas]
+Final Fantasy II (J) [!]
+Final Fantasy II (J) [T+Eng010]
+Final Fantasy II (J) [T+Eng097_RPGOne]
+Final Fantasy II (J) [T-Eng095_RPGOne]
+Final Fantasy IV (J) [!]
+Final Fantasy IV (J) [T+Eng05]
+Final Fantasy IV (J) [T-Eng04]
+Final Lap 2000 (J) [M][!]
+Final Lap 2000 (J) [M][f1]
+Final Lap Special - GT & Formula Machine (J) [!]
+Final Lap Special - GT & Formula Machine (J) [f1]
+Finally by Titan (V_Emu) (PD)
+Finally by Titan (V_Hw) (PD)
+Fire Pro Wrestling (J) [M]
+Fishing Freaks - Bass Rise (J) [M]
+Flash - Koibito-kun (J) [!]
+Flash - Koibito-kun (J) [f1]
+From TV Animation - One Piece - Chopper no Daibouken (J) [!]
+From TV Animation - One Piece - Grand Battle Swan Colloseum (J)
+From TV Animation - One Piece - Mezase Kaizoku Ou (J) [M][f1]
+From TV Animation - One Piece - Mezase Kaizoku Ou (J) [M]
+From TV Animation - One Piece - Mezase Kaizoku Ou by QQture (Hack) [M]
+From TV Animation - One Piece - Niji no Shima Densetsu (J) [!]
+From TV Animation - One Piece - Treasure Wars (J) [!]
+From TV Animation - One Piece - Treasure Wars 2 - Buggy Land e Youkoso (J) [!]
+From TV Animation - One Piece - Treasure Wars 2 - Buggy Land e Youkoso by QQture (Hack)
+From TV Animation - One Piece - Treasure Wars by QQture (Hack)
+Front Mission (J)
+Ganso Jajamaru Kun (J) [M][!]
+Gekitou! Crash Gear Turbo - Gear Champion League (J) [!]
+Gensou Maden Saiyuuki Retribution - Hi no Ataru Basho de (J) [!]
+Gensou Maden Saiyuuki Retribution - Hi no Ataru Basho de (J) [f1]
+Girl Demo by Dox (PD)
+Glocal Hexcite (J) [M][!]
+Glocal Hexcite (J) [M][o1]
+Golden Axe (J) [!]
+Golden Axe (J) [t1]
+Gomoku Narabe & Reversi Touryuumon (J) [M]
+Gorakuoh TANGO! (J) [M][f1]
+Gorakuoh TANGO! (J) [M]
+Gransta Chronicle (J) [!]
+Guilty Gear Petit (J)
+Guilty Gear Petit 2 (J) [!]
+Guilty Gear Petit 2 (J) [t1]
+GunPey (J) [M][f1]
+GunPey (J) [M]
+GunPey Ex (J) [!]
+GunPey Ex (J) [f1]
+Hanafuda Shiyou Yo (J) [M][!]
+Hanafuda Shiyou Yo (J) [M][o1]
+Hanjyuku Hero - Aah Sekai yo Hanjuku Nare (J) [!]
+Harobots (J) [M][!]
+Hataraku Chocobo (J) [!]
+HBlank Interrupt Demo in NASM by Goldmomo (PD) [a1]
+HBlank Interrupt Demo in NASM by Goldmomo (PD)
+Hello World by Sir Dragoon (PD)
+Hunter X Hunter - Greed Island (J)
+Hunter X Hunter - Ichi O Tsugu Mono (J) [M][!]
+Hunter X Hunter - Ichi O Tsugu Mono (J) [M][f1]
+Hunter X Hunter - Michibi Kareshi Mono (J) [!]
+Hunter X Hunter - Michibi Kareshi Mono (J) [f1]
+Hunter X Hunter - Sorezore no Ketsui (J) [!]
+Hunter X Hunter - Sorezore no Ketsui (J) [f1]
+Inu Yasha (J) [!]
+Inu Yasha - Kagome's Warring States Period Diary by QQture (Hack)
+Inu Yasha Fuu'un Emaki (J)
+Inu Yasha Kagome no Yumenikki (J) [!]
+Inu Yasha Kagome no Yumenikki by QQture (Hack)
+Itou Jun Ni Uzumaki Noroi Simulation (J) [M][!]
+Itou Jun Ni Uzumaki Noroi Simulation (J) [M][f1]
+Judgement Silversword - Rebirth Edition (J) (REV.SC21) [!]
+Judgement Silversword - Rebirth Edition (J) (REV.SC21) [o1]
+Judgement Silversword - Rebirth Edition (J) [!]
+Judgement Silversword - Rebirth Edition (J) [o1]
+Kakuto Ryori Densetsu Bistro Recipe - Wonder Battle Hen (J) [M]
+Kaze no Klonoa - Moonlight Museum (J) [M][a1]
+Kaze no Klonoa - Moonlight Museum (J) [M][a2]
+Kaze no Klonoa - Moonlight Museum (J) [M][a3]
+Kaze no Klonoa - Moonlight Museum (J) [M][t1]
+Kaze no Klonoa - Moonlight Museum (J) [M]
+Kaze no Klonoa - Moonlight Museum by QQture (Hack) [M]
+Keiba Yosou Shien Shinkaron (J) [M][!]
+Keiba Yosou Shien Shinkaron (J) [M][o1]
+Kidou Senshi Gundam Giren no Yabou Tokubetsuhen Aoki no Hasha (J) [!]
+Kidou Senshi Gundam Seed (J) [T+Chi_amuro]
+Kidou Senshi Gundam Seed (J)
+Kidou Senshi Gundam Vol.1 -Side 7- (J) [!]
+Kidou Senshi Gundum Vol.3 -A BAOA QU- (J) [!]
+Kinniku Man Second Generations Dream Tag Match (J) [!]
+Kinnikuman Nisei Choujin Seisenshi (J) [b1]
+Kinnikuman Nisei Choujin Seisenshi (J)
+Kiss Yori... - Seaside Serenade (J) [M]
+Kosodate Quiz Doko de mo My Angel (J) [!]
+Kurupara! (J) [!]
+Kyoso Uma Ikusei Simulation Keiba (J) [M]
+Langrisser Millenium WS - The Last Century (J) [M][!]
+Last Alive (J) [f1]
+Last Alive (J)
+LastStand (J) [M]
+Little Fugue in G Minor by JS Bach - Arranged by Atsushi Watanabe (PD) [C]
+Lode Runner (J) [M][!]
+Lode Runner (J) [M][o1]
+Magical Drop (J) [M][!]
+Magical Drop (J) [M][b1]
+Mahjong Touryuumon (J) [M][!]
+Makai Toushi Sa-Ga (J) [!]
+Makai Toushi Sa-Ga (J) [T+Eng1.0_Tower Reversed]
+Makaimura (J) [M][b1]
+Makaimura (J) [M][b2]
+Makaimura (J) [M][b3]
+Makaimura (J) [M][t1]
+Makaimura (J) [M][t2]
+Makaimura (J) [M]
+Medarot - Perfect Edition Kabuto Version (J) [M][!]
+Medarot - Perfect Edition Kuwagata Version (J) [M][!]
+Meitantei Conan - Majutsushi no Chousenjou! (J) [M][!]
+Meitantei Conan - Nishi no Meitantei Saidai no Kiki! (J) [M]
+Meitantei Conan - Yugure no Koujo (J) [!]
+Memories of Festa (J) [!]
+Meta Communication Therapy nee Kiite! (J) [M][!]
+Mikeneko Holme's Ghost Panic (J) [!]
+Mikeneko Holme's Ghost Panic (J) [f1]
+Mingle Magnet (J) [M]
+Mobile Suit Gundam - Volume 2 - JABURO (J) [!]
+Mobile Suit Gundam MSVS (J) [M][!]
+Moero !! Pro Yakyu Rookies (J) [M]
+Morita Shougi (J) [M][!]
+Morita Shougi (J) [M][o1]
+Mr. Driller (J) [!]
+Mr. Driller (J) [T+Eng0.70_PmHacks]
+Namco Super Wars (J) [!]
+Naruto (J) [b1]
+Naruto (J)
+Nazo Ou Pocket (J) [M][f1]
+Nazo Ou Pocket (J) [M]
+Neon Genesis Evangelion Shito Ikusei (J) [M][!]
+Nice On (J) [M][!]
+Nice On (J) [M][f1]
+Nobunaga no Yabo (J) [M][!]
+Nobunaga no Yabo (J) [M][o1]
+Ouchan no Oekaki Logic (J) [M][f1]
+Ouchan no Oekaki Logic (J) [M]
+Pocket Fighter (J) [M]
+Pocket no Naka no Doraemon (J) [f1]
+Pocket no Naka no Doraemon (J)
+Pro Mahjong Kiwame (J) [M][!]
+Puyo Puyo Tsu (J) [M][!]
+Puzzle Bobble (J) [M][f1]
+Puzzle Bobble (J) [M]
+Rainbow Islands - Putty's Party (J) [M]
+Raku Jongg (J) [!]
+Raku Jongg (J) [f1]
+Rekishi Simulation Sangokushi II (J) [M]
+Rhyme Rider Kerorikan (J) [!]
+Ring Infinity (J) [M][!]
+Ring Infinity (J) [M][f1]
+Robot Works (As) [M]
+Robot Works (J) [M][!]
+Rockman & Forte - Mirai Kara no Chousen Sha (J) [M][!]
+Rockman & Forte - Mirai Kara no Chousen Sha (J) [M][t1] (Invincible)
+Rockman & Forte - Mirai Kara no Chousen Sha (J) [M][t2]
+Rockman EXE N1 Battle (J)
+Rockman EXE WS (J) [b1]
+Rockman EXE WS (J) [T+Eng]
+Rockman EXE WS (J) [t1] (Invincible)
+Rockman EXE WS (J)
+Rockman EXE-N1 Prequel by QQture (Hack)
+Romancing Saga (J) [!]
+RUN=DIM Return to Earth (J) [!]
+Saint Seiya - Ougon Densetsu Hen Perfect Edition (J)
+Sangokushi (J) [M]
+SD Gundam - Emotional Jam (J) [M][!]
+SD Gundam - Operation U.C. (J)
+SD Gundam Eiyuuden - Eiyuuden Kishi Densetsu (J) [!]
+SD Gundam Eiyuuden - Eiyuuden Musha Densetsu (J) [!]
+SD Gundam G Generation - Gather Beat (J) [M]
+SD Gundam G Generation - Gather Beat 2 (J) [!]
+SD Gundam G Generation - Mono-Eye Gundams (J)
+SD Gundam Gashapon Senki - Episode 1 (J) [M][!]
+Senkaiden - TV Animation Senkaiden Houshin Engi Yori (J) [M]
+Senkaiden Ni - TV Animation Senkaiden Houshin Engi Yori (J) [!]
+Sennou Millenium (J) [M][!]
+Sennou Millenium (J) [M][f1]
+Shaman King Mirai E no Ishi (J) (V1.0)
+Shaman King Mirai E no Ishi (J) (V1.1)
+Shanghai Pocket (J) [M]
+Shin Nihon Pro Wrestling Toukon Retsuden (J) [M][f1]
+Shin Nihon Pro Wrestling Toukon Retsuden (J) [M]
+Shogi Touryuumon (J) [M][!]
+Shogi Touryuumon (J) [M][o1]
+Side Pocket (J) [M][!]
+Slither Link (J) [M][!]
+Slither Link (J) [M][f1]
+Slither Link (J) [M][o1][f1]
+Slither Link (J) [M][o1]
+Soccer Yarou! - Challenge the World (J) [M][a1]
+Soccer Yarou! - Challenge the World (J) [M]
+Soroban Gu (J) [!]
+Sotsugyou (J) [M]
+Space Invaders (J) [M][!]
+Star Hearts (J) [!]
+Star Hearts Taikenban (J) [!]
+Starship Full (PD)
+Starship Full [M] (PD)
+Super Robot Taisen Compact (J) [!]
+Super Robot Taisen Compact (J) [M][!]
+Super Robot Taisen Compact 2 - Dai Ichibu - Chijou Gekidou Hen (J) [M]
+Super Robot Taisen Compact 2 - Dai Nibu - Uchuu Gekishin Hen (J) [M][!]
+Super Robot Taisen Compact 2 - Dai Sanbu - Ginga Kessen Hen (J) [M]
+Super Robot Taisen Compact 3 (J) (V1.5)
+Super Robot Taisen Compact 3 (J) (V1.6)
+Swandriving (PD)
+Taikyoku Igo - Heisei Kiin (J) [M][!]
+Taikyoku Igo - Heisei Kiin (J) [M][o1]
+Tanjou - Debut (J) [M][!]
+Tare Pan no Gunpei (J) [M][!]
+Tare Pan no Gunpei (J) [M][f1]
+Tare Pan no Gunpei (J) [M][f2]
+Tekken Card Challenge (J) [M][!]
+Terrors (J) [M]
+Terrors 2 (J) [!]
+Terrors 2 (J) [f1]
+Tetris (J) [!]
+Tetsujin 28 Gou (J) [M][f1]
+Tetsujin 28 Gou (J) [M]
+Tetsuman (J) [M][!]
+TextDemo by Goldmomo (PD)
+Tokyo Majin Gakuen Fuju Fuuroku (J) [M][!]
+Tonpusou (J) [!]
+Tonpusou (J) [f1]
+Trump Collection - Bottom Up Teki Trump Seikatsu (J) [M][!]
+Trump Collection - Bottom Up Teki Trump Seikatsu (J) [M][o1]
+Trump Collection 2 - Bottom-Up Teki Sekaiisshuu no Tabi (J) [M][!]
+Trump Collection 2 - Bottom-Up Teki Sekaiisshuu no Tabi (J) [M][o1]
+Turntablist - DJ Battle (J) [M][!]
+Turntablist - DJ Battle (J) [M][f1]
+Uchuu Senkan Yamato (J) [!]
+Uchuu Senkan Yamato (J) [b1]
+Ultraman - Hikari no Kuni no Shisha (J)
+Umizuri Ni Ikou (J) [M][!]
+Uzumaki - Denshi Kaiki Hen (J) [M][!]
+Uzumaki - Denshi Kaiki Hen (J) [M][f1]
+Vaitz Blade (J) [M][!]
+Walking Dudes Demo by Zalas (V1) (PD)
+Wasabi Produce - Street Dancer (J) [M][!]
+Wild Card (J) [!]
+With You Mitsumete Itai (J) [!]
+With You Mitsumete Itai (J) [f1]
+Wizardry - Scenario 1 - Kyounou no Shiren Jou (J) [!]
+Wonder Classic (J) [!]
+Wonder Stadium '99 (J) [M]
+Wonder Stadium (J) [M]
+Wondergate (J) [!]
+WonderPong by LiraNuna (PD)
+WonderProject First Demo by Orion_ (PD) [b1]
+WonderProject First Demo by Orion_ (PD)
+Wondersnake 2 by Dox (PD)
+Wondersnake Beta by Dox (PD)
+Wondersnake Final Sep 11 2001 by Dox & Kojote (PD)
+Wonderswan Color Clean Example 2008 by orion (PD)
+WonderSwan Handy Sonar (J) [M]
+WonderSwan Register Diagnostic by Zalas (PD)
+WWWLib - BG1 & BG2 & Sprite Test by Orion_ (PD)
+WWWLib - Full Maptest by Orion_ (PD)
+WWWLib - TestJB by Orion_ (PD)
+WWWLib - TestJB16 by Orion_ (PD)
+WWWLib - TestJB4 by Orion_ (PD)
+X - Card of Fate (J) [!]
+XI Little (J)
+Yakusoku no Chi Riviera (J)
+Ys 1 - Boss Out - Arranged by Atsushi Watanabe (PD) [C]
+Ys 1 - Devil's Step - Arranged by Atsushi Watanabe (PD) [C]
+Ys 1 - Final Battle - Arranged by Atsushi Watanabe (PD) [C]
+Ys 1 - First Step Towards Wars - Arranged by Atsushi Watanabe (PD) [C]
+Ys 1 - Fly with Me - Arranged by Atsushi Watanabe (PD) [C]
+Ys 1 - Fountain of Love - Arranged by Atsushi Watanabe (PD) [C]
+Ys 1 - Holders of Power - Arranged by Atsushi Watanabe (PD) [C]
+Ys 1 - In the Memory - Arranged by Atsushi Watanabe (PD) [C]
+Ys 1 - Lucky - Arranged by Atsushi Watanabe (PD) [C]
+Ys 1 - Open Your Heart - Arranged by Atsushi Watanabe (PD) [C]
+Ys 1 - Palace - Arranged by Atsushi Watanabe (PD) [C]
+Ys 1 - Palace of Destruction - Arranged by Atsushi Watanabe (PD) [C]
+Ys 1 - Rest in Peace - Arranged by Atsushi Watanabe (PD) [C]
+Ys 1 - Tears of Sylph - Arranged by Atsushi Watanabe (PD) [C]
+Ys 1 - Tension - Arranged by Atsushi Watanabe (PD) [C]
+Ys 1 - The Last Moment of the Dark - Arranged by Atsushi Watanabe (PD) [C]
+Ys 1 - The Syonin - Arranged by Atsushi Watanabe (PD) [C]

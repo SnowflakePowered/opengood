@@ -1,0 +1,240 @@
+ You have 238 of 238 known Mattel Intellivision ROMS (V2.03)
+
+4-TRIS (2000) (Joseph Zbiciak)
+4-TRIS (2001) (Joseph Zbiciak)
+ABPA Backgammon (1978) (Mattel)
+Advanced D&D - Treasure of Tarmin (1982) (Mattel)
+Advanced Dungeons and Dragons (1982) (Mattel)
+Adventure (AD&D - Cloudy Mountain) (1982) (Mattel)
+Air Strike (1982) (Mattel)
+All-Star Major League Baseball (1983) (Mattel)
+Armor Battle (1978) (Mattel)
+Astrosmash (1981) (Mattel)
+Astrosmash - Meteor (1981) (Mattel)
+Atlantis (1981) (Imagic) [!]
+Auto Racing (1979) (Mattel)
+B-17 Bomber (1981) (Mattel) [!]
+Baseball (1978) (Mattel)
+BeamRider (1983) (Activision) [!]
+Beauty and the Beast (1982) (Imagic) [!]
+Blockade Runner (1983) (Interphase)
+Body Slam - Super Pro Wrestling (1988) (Intv Corp)
+Bomb Squad (1982) (Mattel) [!]
+Bouncing Pixels (1999) (JRMZ Electronics)
+Boxing (1980) (Mattel)
+Brickout! (1981) (Mattel)
+Bump 'N' Jump (1982-83) (Mattel)
+BurgerTime! (1982) (Mattel)
+BurgerTime! - New Levels Hack (2002) (David Harley)
+Buzz Bombers (1982) (Mattel)
+Carnival (1982) (Coleco-CBS)
+Castle Trailer (2003) (Arnauld Chevallier)
+Centipede (1983) (Atarisoft)
+Championship Tennis (1985) (Mattel)
+Checkers (1979) (Mattel)
+Chip Shot - Super Pro Golf (1987) (Intv Corp)
+Commando (1987) (Mattel)
+Congo Bongo (1983) (Sega)
+Crazy Clones (1981) (PD)
+Deep Pockets-Super Pro Pool and Billiards (1990) (Realtime) [!]
+Defender (1983) (Atarisoft)
+Demon Attack (1982) (Imagic) [!]
+Dig Dug (1987) (Intv Corp)
+Diner (1987) (Intv Corp)
+Donkey Kong (1982) (Coleco)
+Donkey Kong Jr (1982) (Coleco)
+Doom (2002) (Joseph Zbiciak)
+Dracula (1982) (Imagic) [!]
+Dragonfire (1982) (Imagic) [!]
+Dreadnaught Factor, The (1983) (Activision) [!]
+Dreadnaught Factor, The (1983) (Activision) [a1]
+Dreadnaught Factor, The (Prototype) (1983) (Activision)
+Duncan's Thin Ice (1983) (Mattel)
+Easter Eggs (1981) (Mattel)
+Eggs 'n' Eyes by Scott Nudds (1996) (PD)
+Electric Company - Math Fun (1978) (CTW)
+Electric Company - Word Fun (1980) (CTW)
+Entertainment Computer System EXEC-BASIC (1978) (Mattel) [!]
+Executive ROM, The (1978) (Mattel)
+Fathom (1983) (Imagic) [!]
+Frog Bog (1982) (Mattel)
+Frogger (1983) (Parker Bros)
+Game Factory (Prototype) (1983) (Mattel) [!]
+Go For the Gold (1981) (Mattel)
+Grid Shock (1982) (Mattel)
+GROM, The (1978) (General Instruments) [!]
+Groovy! (1999) (JRMZ Electronics)
+Happy Trails (1983) (Activision) [o1]
+Happy Trails (1983) (Activision)
+Hard Hat (1979) (Mattel)
+Horse Racing (1980) (Mattel)
+Hover Force (1986) (Intv Corp)
+Hypnotic Lights (1981) (Mattel)
+Ice Trek (1983) (Imagic) [!]
+IMI Test Cart (1978) (Mattel) [!]
+IntelliVoice BIOS (1981) (Mattel)
+INTV - Intelligent TV Demo #1682 (Prototype) (1978) (Mattel)
+INTV - Intelligent TV Demo #5853 (1983) (Mattel) [o1]
+INTV - Intelligent TV Demo #5853 (1983) (Mattel)
+INTV - Intelligent TV Demo #5932 Revised (1978) (Mattel) [o1]
+INTV - Intelligent TV Demo #5932 Revised (1978) (Mattel)
+INTV - Intelligent TV Demo (1978) (Mattel)
+INTV - Intelligent TV Demo Intl. #5859 (1982) (Mattel) [o1]
+INTV - Intelligent TV Demo Intl. #5859 (1982) (Mattel)
+IntyOS - V0.2 Alpha (2003) (Arnauld Chevallier)
+Jetsons, The - Ways With Words (1983) (Mattel)
+King of the Mountain (1982) (Mattel)
+Kool-Aid Man (1983) (Mattel)
+Lady Bug (1983) (Coleco)
+Land Battle (1982) (Mattel)
+Las Vegas Blackjack and Poker (1979) (Mattel)
+Las Vegas Roulette (1979) (Mattel)
+League of Light (Prototype) (1983) (Activision) [!]
+League of Light (Prototype) (1983) (Activision) [a1][!]
+League of Light (Prototype) (1983) (Activision) [a2]
+Learning Fun I - Math Master Factor Fun (1987) (Intv Corp)
+Learning Fun II - Word Wizard Memory Fun (1987) (Intv Corp)
+Lock 'N' Chase (1982) (Mattel)
+Loco-Motion (1982) (Mattel)
+Magic Carousel (Prototype) (1983) (Intv Corp) [!]
+Masters of the Universe-The Power of He-Man! (1983) (Mattel)
+Maze Demo #1 (2000) (JRMZ Electronics)
+Maze Demo #2 (2000) (JRMZ Electronics)
+Melody Blaster (1983) (Mattel) [!]
+Mickey's Hello World (1999) (PD)
+Microsurgeon (1982) (Imagic) [!]
+Mind Strike! (1982) (Mattel) [!]
+Minehunter Beta3 (2003) (Ryan Kinnen) [a1]
+Minehunter Beta3 (2003) (Ryan Kinnen)
+Minotaur (1981) (Mattel)
+Minotaur (Treasure of Tarmin Hack) (1982) (Mattel)
+Minotaur V1.1 (1981) (Mattel) [!]
+Minotaur V2 (1981) (Mattel) [!]
+Mission X (1982) (Mattel)
+MOB Collision Test (2002) (Arnauld Chevallier)
+Motocross (1982) (Mattel)
+Mountain Madness - Super Pro Skiing (1987) (Intv Corp)
+Mouse Trap (1982) (Coleco)
+Mr. Basic Meets Bits 'N Bytes (1983) (Mattel) [!]
+Mr. Basic Meets Bits 'N Bytes (1983) (Mattel) [b1]
+MTE201 Intellivision Test Cartridge (1978) (Mattel)
+NASL Soccer (1979) (Mattel)
+NBA Basketball (1978) (Mattel)
+NFL Football (1978) (Mattel)
+NHL Hockey (1979) (Mattel)
+Night Stalker (1982) (Mattel)
+Nova Blast (1983) (Imagic) [!]
+Number Jumble (1983) (Mattel) [!]
+Pac-Man (1983) (Atarisoft)
+Pac-Man (1983) (Intv Corp)
+PBA Bowling (1980) (Mattel)
+PGA Golf (1979) (Mattel)
+Pinball (1981) (Mattel)
+Pitfall! (1982) (Activision) [!]
+Pole Position (1986) (Intv Corp)
+Pong (1999) (Joseph Zbiciak)
+Popeye (1983) (Parker Bros)
+PSG Tinkerer (2002) (Ryan Kinnen)
+Q-bert (1983) (Parker Bros)
+Reversi (1984) (Mattel)
+River Raid (1982-83) (Activision) [!]
+River Raid V1 (Prototype) (1982-83) (Activision)
+Robot Rubble V1 (Prototype) (1983) (Activision) [o1]
+Robot Rubble V1 (Prototype) (1983) (Activision)
+Robot Rubble V2 (Prototype) (1983) (Activision)
+Robot Rubble V3 (Prototype) (1983) (Activision) [!]
+Royal Dealer (1981) (Mattel)
+RPN Calculator V1.0 (2003) (Arnauld Chevallier)
+Safecracker (1983) (Imagic) [!]
+Santa's Helper (1983) (Mattel)
+Scooby Doo's Maze Chase (1983) (Mattel)
+SDK-1600 Bouncing Pixels (2002) (Joseph Zbiciak)
+SDK-1600 GRAM-Based Scrolling Demo#1 (2002) (Joseph Zbiciak)
+SDK-1600 GRAM-Based Scrolling Demo#2 (2002) (Joseph Zbiciak)
+SDK-1600 Hand Controller Scanning Demo (2002) (Joseph Zbiciak)
+SDK-1600 Hello World (2002) (Joseph Zbiciak)
+SDK-1600 Intellicart Bankswitched Memory Test (2002) (Joseph Zbiciak)
+SDK-1600 Intellicart Bankswitched Spinning World (2002) (Joseph Zbiciak) [a1]
+SDK-1600 Intellicart Bankswitched Spinning World (2002) (Joseph Zbiciak)
+SDK-1600 Intellicart Bankswitching Demo (2002) (Joseph Zbiciak) [a1]
+SDK-1600 Intellicart Bankswitching Demo (2002) (Joseph Zbiciak)
+SDK-1600 Intellicart Memory Test (2002) (Joseph Zbiciak)
+SDK-1600 John Conway's Life (2002) (Joseph Zbiciak)
+SDK-1600 Maze Demo (2002) (Joseph Zbiciak)
+SDK-1600 Movable Object Demo (2002) (Joseph Zbiciak)
+SDK-1600 Psycho Balls #1 (2002) (Joseph Zbiciak)
+SDK-1600 Psycho Balls #2 (2002) (Joseph Zbiciak)
+SDK-1600 ROM Checksummer (2002) (Joseph Zbiciak)
+SDK-1600 Spinning World (2002) (Joseph Zbiciak)
+SDK-1600 Tag-Along Todd #1 (2002) (Joseph Zbiciak)
+SDK-1600 Tag-Along Todd #2a (2002) (Joseph Zbiciak)
+SDK-1600 Tag-Along Todd #2b (2002) (Joseph Zbiciak)
+Sea Battle (1980) (Mattel)
+Sears Super Video Arcade BIOS (1978) (Sears) [!]
+Sewer Sam (1983) (Interphase)
+Shark! Shark! (1982) (Mattel) [!]
+Shark! Shark! (1982) (Mattel) [a1]
+Sharp Shot (1982) (Mattel)
+Slam Dunk - Super Pro Basketball (1987) (Intv Corp)
+Slap Shot - Super Pro Hockey (1987) (Intv Corp)
+Snafu (1981) (Mattel)
+Song Player - Back in the USSR (1999) (Joseph Zbiciak)
+Song Player - Closing Time (2001) (Joseph Zbiciak)
+Song Player - Copacabana (1999) (Joseph Zbiciak)
+Song Player - Creep (1999) (Joseph Zbiciak)
+Song Player - Nut March (1999) (Joseph Zbiciak)
+Song Player - Nut Reed (1999) (Joseph Zbiciak)
+Song Player - Nut Trep (1999) (Joseph Zbiciak)
+Song Player - Nut Waltz (1999) (Joseph Zbiciak)
+Song Player - Secret Agent Man (1999) (Joseph Zbiciak)
+Song Player - Take on Me 3 (1999) (Joseph Zbiciak)
+Song Player - Take on Me 6 (1999) (Joseph Zbiciak)
+Song Player - Too Sexy (1999) (Joseph Zbiciak)
+Space Armada (1981) (Mattel)
+Space Battle (1979) (Mattel)
+Space Cadet (1982) (Mattel)
+Space Hawk (1981) (Mattel)
+Space Spartans (1981) (Mattel) [!]
+Spiker! - Super Pro Volleyball (1988) (Intv Corp)
+Spirit V1.0 (2003) (Arnauld Chevallier)
+Stadium Mud Buggies (1988) (Intv Corp)
+Stampede (1982) (Activision) [!]
+Star Strike (1981) (Mattel)
+Star Wars - The Empire Strikes Back (1983) (Parker Bros)
+Stonix Beta1.1 (2003) (Arnauld Chevallier)
+Stonix Beta1.2 (2003) (Arnauld Chevallier)
+Street (1981) (Mattel)
+Sub Hunt (1981) (Mattel)
+Super Cobra (1983) (Konami)
+Super Masters! (1982) (Mattel)
+Super Pro Decathlon (1988) (Intv Corp)
+Super Pro Football (1986) (Intv Corp)
+Super Soccer (1983) (Mattel)
+Swords and Serpents (1982) (Imagic) [!]
+Takeover (1982) (Mattel)
+Tennis (1980) (Mattel)
+Tetris (2000) (Joseph Zbiciak)
+Thin Ice (Prototype) (1983) (Intv Corp) [!]
+Thunder Castle (1982) (Mattel)
+Tower of Doom (1986) (Intv Corp)
+Triple Action (1981) (Mattel)
+Triple Challenge (1986) (Intv Corp)
+TRON - Deadly Discs (1981) (Mattel)
+TRON - Deadly Discs - Deadly Dogs (1987) (Intv Corp)
+TRON - Maze-A-Tron (1981) (Mattel)
+TRON - Solar Sailer (1982) (Mattel)
+Tropical Trouble (1982) (Imagic) [!]
+Truckin' (1983) (Imagic) [!]
+Turbo (1983) (Coleco)
+Tutankham (1983) (Parker Bros)
+U.S. Ski Team Skiing (1980) (Mattel)
+USCF Chess (1981) (Mattel)
+Utopia (1981) (Mattel)
+Vectron (1982) (Mattel)
+Venture (1982) (Coleco)
+White Water! (1983) (Imagic) [!]
+World Cup Football (1985) (Nice Ideas)
+World Series Major League Baseball (1983) (Mattel) [!]
+World Series Major League Baseball (1983) (Mattel) [b1]
+Worm Whomper (1983) (Activision) [!]
+Zaxxon (1982) (Coleco)
