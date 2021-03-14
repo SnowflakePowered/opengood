@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>OpenN64.64DD</name>
+		<description>OpenGood - Nintendo 64DD</description>
+		<category>Standard DatFile</category>
+		<version>3.27</version>
+		<date>2021-03-12</date>
+		<author>OpenGood</author>
+		<email>-insert email-</email>
+		<homepage>OpenGood</homepage>
+		<url>https://github.com/SnowflakePowered/opengood</url>
+		<comment>16 of 16</comment>
+		<clrmamepro/>
+	</header>
+	<machine name="64DD IPLROM BIOS (for UltraHLE)">
+		<description>64DD IPLROM BIOS (for UltraHLE)</description>
+		<rom name="64DD IPLROM BIOS (for UltraHLE).bin" size="1111438" crc="e31b0d1f" md5="c0052a41af736ded29894182afed0dc8" sha1="319da011dab770f05d5da74ca4c93397d26cf7f3"/>
+	</machine>
+	<machine name="Dezaemon 3D Expansion (N64DD) (Feb 1998 Build) [b1]">
+		<description>Dezaemon 3D Expansion (N64DD) (Feb 1998 Build) [b1]</description>
+		<rom name="Dezaemon 3D Expansion (N64DD) (Feb 1998 Build) [b1].ndd" size="64458560" crc="ccb84a39" md5="99a67674130f271f150db75c02d14f0a" sha1="d5cc4ab1fc79e27e54a9ad08c4dee47256352006"/>
+	</machine>
+	<machine name="F-ZERO X - Expansion Kit (J) (N64DD)">
+		<description>F-ZERO X - Expansion Kit (J) (N64DD)</description>
+		<rom name="F-ZERO X - Expansion Kit (J) (N64DD).ndd" size="64931840" crc="ae31f57f" md5="96ba30d9dce9cdd5bf9107bd59c0fd8b" sha1="0777e359ff415b565c4859f312ea30d3a1f2091c"/>
+	</machine>
+	<machine name="Japan Pro Golf Tour 64 (J) (N64DD)">
+		<description>Japan Pro Golf Tour 64 (J) (N64DD)</description>
+		<rom name="Japan Pro Golf Tour 64 (J) (N64DD).ndd" size="64931840" crc="9b8fff6d" md5="9f797a9c704b5ebd04d6a2b036309af2" sha1="053140bd97c525804747251dea3211fe55357b77"/>
+	</machine>
+	<machine name="Kyojin no Doshin (J) (Demo) (N64DD)">
+		<description>Kyojin no Doshin (J) (Demo) (N64DD)</description>
+		<rom name="Kyojin no Doshin (J) (Demo) (N64DD).ndd" size="64931840" crc="b530daab" md5="afe059ae1210751b6c849cfb482c99dd" sha1="2a73aced8fded7a6422fa322d8ff76f6045c687f"/>
+	</machine>
+	<machine name="Kyojin no Doshin (J) (N64DD)">
+		<description>Kyojin no Doshin (J) (N64DD)</description>
+		<rom name="Kyojin no Doshin (J) (N64DD).ndd" size="64931840" crc="b30f6e64" md5="1424518e956a23d189b12574f6f67247" sha1="92f714b52a27b280a47c346bae4c753f3b65701f"/>
+	</machine>
+	<machine name="Kyojin no Doshin - Kaihou Sensen Chibikko Chikko Daishuugou (J) (N64DD)">
+		<description>Kyojin no Doshin - Kaihou Sensen Chibikko Chikko Daishuugou (J) (N64DD)</description>
+		<rom name="Kyojin no Doshin - Kaihou Sensen Chibikko Chikko Daishuugou (J) (N64DD).ndd" size="64931840" crc="02208d7e" md5="456c68195e18d2f56a5c8b259dc88e60" sha1="a286af91c5cb4cd35998df3a15fc56e5a5e2852a"/>
+	</machine>
+	<machine name="Kyojin no Doshin - Kaihou Sensen Chibikko Chikko Daishuugou (J) (N64DD) [b1]">
+		<description>Kyojin no Doshin - Kaihou Sensen Chibikko Chikko Daishuugou (J) (N64DD) [b1]</description>
+		<rom name="Kyojin no Doshin - Kaihou Sensen Chibikko Chikko Daishuugou (J) (N64DD) [b1].ndd" size="64931840" crc="b25d3877" md5="f043eda2cea337cda7eb00e809b084f6" sha1="5f6b3ee41f035e945388dffbd86d15e7093c09a0"/>
+	</machine>
+	<machine name="Mario Artist - Communication Kit (J) (N64DD)">
+		<description>Mario Artist - Communication Kit (J) (N64DD)</description>
+		<rom name="Mario Artist - Communication Kit (J) (N64DD).ndd" size="64931840" crc="28aca423" md5="93e224278066af796a14d18dac5a5582" sha1="8b572e0ad7a17502b68467dfec45680b59b25415"/>
+	</machine>
+	<machine name="Mario Artist - Paint Studio (J) (N64DD)">
+		<description>Mario Artist - Paint Studio (J) (N64DD)</description>
+		<rom name="Mario Artist - Paint Studio (J) (N64DD).ndd" size="64931840" crc="22c8222b" md5="58dc4c50b079f237ce6dcf804987f238" sha1="f5ac33ae4165464de520855f4f519d3f2312f3e9"/>
+	</machine>
+	<machine name="Mario Artist - Polygon Studio (J) (N64DD)">
+		<description>Mario Artist - Polygon Studio (J) (N64DD)</description>
+		<rom name="Mario Artist - Polygon Studio (J) (N64DD).ndd" size="64931840" crc="82f9b4bf" md5="64bb2fac6e8d375872dfbe64428b573a" sha1="006e2c297d47761da4e975c7f5731d63d076e3ca"/>
+	</machine>
+	<machine name="Mario Artist - Talent Studio (J) (N64DD)">
+		<description>Mario Artist - Talent Studio (J) (N64DD)</description>
+		<rom name="Mario Artist - Talent Studio (J) (N64DD).ndd" size="64931840" crc="056dc89e" md5="29c956ba6b5f2bc5ca949a6a4e618f39" sha1="ec7662839e0cdc069a5899b28454ead8e0f4a4a8"/>
+	</machine>
+	<machine name="Randnet Browser (J) (N64DD)">
+		<description>Randnet Browser (J) (N64DD)</description>
+		<rom name="Randnet Browser (J) (N64DD).ndd" size="64931840" crc="c3ef79f0" md5="26087e0750fc6da0f3de2a431e34bddf" sha1="9ade854221962f5f4c68ea0615951dd948896c1b"/>
+	</machine>
+	<machine name="Sim City 64 (J) (N64DD)">
+		<description>Sim City 64 (J) (N64DD)</description>
+		<rom name="Sim City 64 (J) (N64DD).ndd" size="64931840" crc="4d95f651" md5="fa0a57d08faae35144b7aaa7aa7c8616" sha1="9528a48b8683e32389efb1cf70052450dbb80895"/>
+	</machine>
+	<machine name="Sim City 64 (J) (N64DD) [T+Eng20150527_PeterLemon]">
+		<description>Sim City 64 (J) (N64DD) [T+Eng20150527_PeterLemon]</description>
+		<rom name="Sim City 64 (J) (N64DD) [T+Eng20150527_PeterLemon].ndd" size="64931840" crc="1aa43946" md5="f44c372e231be630a682881e64adccd1" sha1="4b12c360e031cb7661bb8ee94ff5999b2bcde77f"/>
+	</machine>
+	<machine name="Super Mario 64 - Disk Version (J) (N64DD)">
+		<description>Super Mario 64 - Disk Version (J) (N64DD)</description>
+		<rom name="Super Mario 64 - Disk Version (J) (N64DD).ndd" size="64931840" crc="11589525" md5="d9ea905727b44f2774926cb03c2300a7" sha1="e8f5c3f0e151cbc3b02184a2437e39fa9d1e2686"/>
+	</machine>
+</datafile>

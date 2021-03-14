@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>OpenNGPx.NGP</name>
+		<description>OpenGood - SNK Neo Geo Pocket</description>
+		<category>Standard DatFile</category>
+		<version>3.27</version>
+		<date>2021-03-12</date>
+		<author>OpenGood</author>
+		<email>-insert email-</email>
+		<homepage>OpenGood</homepage>
+		<url>https://github.com/SnowflakePowered/opengood</url>
+		<comment>29 of 29</comment>
+		<clrmamepro/>
+	</header>
+	<machine name="Baseball Stars (W) [M]">
+		<description>Baseball Stars (W) [M]</description>
+		<rom name="Baseball Stars (W) [M].ngp" size="1048576" crc="4781ae84" md5="9150a58f7094a48b980c1ac71b9cfab9" sha1="8ece00f21ae49ed4777a9c990b2782465ef95380"/>
+	</machine>
+	<machine name="Densetsu no Ogre Battle (J) [T+ChS0.5_Wong]">
+		<description>Densetsu no Ogre Battle (J) [T+ChS0.5_Wong]</description>
+		<rom name="Densetsu no Ogre Battle (J) [T+ChS0.5_Wong].ngp" size="2097152" crc="4c9a92bd" md5="688f274628acb301f5c882138d0293be" sha1="d70da67a8bdc5fe78ae2ee807107461c56408366"/>
+	</machine>
+	<machine name="King of Fighters R-1 (W) [M][!]">
+		<description>King of Fighters R-1 (W) [M][!]</description>
+		<rom name="King of Fighters R-1 (W) [M][!].ngp" size="2097152" crc="dceb7e11" md5="347d0ef33c889cc826d214caf8475ae0" sha1="4a7adbcccb05b6047a38bb861523cbae7d956bfa"/>
+	</machine>
+	<machine name="King of Fighters R-1 (W) [M][a1][!]">
+		<description>King of Fighters R-1 (W) [M][a1][!]</description>
+		<rom name="King of Fighters R-1 (W) [M][a1][!].ngp" size="2097152" crc="4453e97d" md5="6fb354c220c8097bbd8b21980c580a3c" sha1="81a6131976a190482dd446dfc4d8c7d41031e1be"/>
+	</machine>
+	<machine name="King of Fighters R-1 (W) [M][a2][!]">
+		<description>King of Fighters R-1 (W) [M][a2][!]</description>
+		<rom name="King of Fighters R-1 (W) [M][a2][!].ngp" size="2097152" crc="d00ec8e1" md5="15d900184ae2c20d10a068d174e69673" sha1="d375612129c79a5c3a00d97e44a48a90f9cd8979"/>
+	</machine>
+	<machine name="King of Fighters R-1 (W) [M][h1]">
+		<description>King of Fighters R-1 (W) [M][h1]</description>
+		<rom name="King of Fighters R-1 (W) [M][h1].ngp" size="2097152" crc="a2bea42d" md5="cb711e7b8b8f6de45197bb90e322790f" sha1="28437e64585ada423b71cb4b6fd39a6fda5e9d69"/>
+	</machine>
+	<machine name="King of Fighters R-1 by Tintin Machine (Hack)">
+		<description>King of Fighters R-1 by Tintin Machine (Hack)</description>
+		<rom name="King of Fighters R-1 by Tintin Machine (Hack).ngp" size="2097152" crc="9db398d3" md5="acb335685ee2ec6f0ebeaa2de0e0a8ab" sha1="94b6192ec74a39748a8565d52865c6e530927263"/>
+	</machine>
+	<machine name="King of Fighters, The - Battle De Paradise - Monopoly (Hack)">
+		<description>King of Fighters, The - Battle De Paradise - Monopoly (Hack)</description>
+		<rom name="King of Fighters, The - Battle De Paradise - Monopoly (Hack).ngp" size="2097152" crc="efc87640" md5="b29a436adb987f19b074a74e3d02f163" sha1="ad05557f5256566532eab7d72e9577a1a135743f"/>
+	</machine>
+	<machine name="Master of Syougi (J) [M][!]">
+		<description>Master of Syougi (J) [M][!]</description>
+		<rom name="Master of Syougi (J) [M][!].ngp" size="524288" crc="f34d0c9b" md5="9250b3328d64d3a1e7f9d50a04ceb64f" sha1="ab0c33236f72d2b317d91d034756b56cfca1b0b4"/>
+	</machine>
+	<machine name="Master of Syougi (J) [M][b1]">
+		<description>Master of Syougi (J) [M][b1]</description>
+		<rom name="Master of Syougi (J) [M][b1].ngp" size="524287" crc="17903fcd" md5="c2f6df7694efe3166d0071c99d929212" sha1="bb9f6ecf8c411af510541f110de6f417be02390d"/>
+	</machine>
+	<machine name="Master of Syougi (J) [M][b2]">
+		<description>Master of Syougi (J) [M][b2]</description>
+		<rom name="Master of Syougi (J) [M][b2].ngp" size="524288" crc="1ac22e32" md5="e12f9f1ee83cfd7c6dc0d1dcd30dad4d" sha1="503fbfd8095388ad5d0f9aec2534369efae6265c"/>
+	</machine>
+	<machine name="Melon-chan no Seichou Nikki (J) [M]">
+		<description>Melon-chan no Seichou Nikki (J) [M]</description>
+		<rom name="Melon-chan no Seichou Nikki (J) [M].ngp" size="1048576" crc="4939f933" md5="b06c5f361d2312c3eaf2b605fea42b6f" sha1="1dab3cafc49d4a11617bd09089f037f07950f771"/>
+	</machine>
+	<machine name="Melon-chan no Seichou Nikki (J) [M][a1]">
+		<description>Melon-chan no Seichou Nikki (J) [M][a1]</description>
+		<rom name="Melon-chan no Seichou Nikki (J) [M][a1].ngp" size="1048576" crc="cb42cfa4" md5="104101b61276fff91574a50b6d5f38bc" sha1="2dbf9c40ab0167ff172f10354d4674e5e6c901d5"/>
+	</machine>
+	<machine name="Neo Geo Pocket BIOS (J)">
+		<description>Neo Geo Pocket BIOS (J)</description>
+		<rom name="Neo Geo Pocket BIOS (J).bin" size="65536" crc="6232df8d" md5="d87d876c4391935c9d48ef352a3ff02d" sha1="2f6429b68446536d8b03f35d02f1e98beb6460a0"/>
+	</machine>
+	<machine name="NeoGeo Cup '98 (W) [M][!]">
+		<description>NeoGeo Cup '98 (W) [M][!]</description>
+		<rom name="NeoGeo Cup '98 (W) [M][!].ngp" size="1048576" crc="33add5bd" md5="30efe4f72d4678ffb97b885b1b7c3da1" sha1="445743119c65a6765a0bdc849a12e9038192840c"/>
+	</machine>
+	<machine name="NeoGeo Cup '98 (W) [M][a1]">
+		<description>NeoGeo Cup '98 (W) [M][a1]</description>
+		<rom name="NeoGeo Cup '98 (W) [M][a1].ngp" size="1048576" crc="8ae2e7e4" md5="68fea8dc46923d0e37131d92d9b27065" sha1="420a8e80e84b0ce2edea08aea258f2445e2158b0"/>
+	</machine>
+	<machine name="Pocket Tennis - Pocket Sports Series (W) [M][!]">
+		<description>Pocket Tennis - Pocket Sports Series (W) [M][!]</description>
+		<rom name="Pocket Tennis - Pocket Sports Series (W) [M][!].ngp" size="524288" crc="89410850" md5="6523c679a90573b09b4f70532cdff09c" sha1="59602e44c631a00b2db53196204a4bc22ccd7025"/>
+	</machine>
+	<machine name="Pocket Tennis - Pocket Sports Series (W) [M][a1]">
+		<description>Pocket Tennis - Pocket Sports Series (W) [M][a1]</description>
+		<rom name="Pocket Tennis - Pocket Sports Series (W) [M][a1].ngp" size="524288" crc="4b1eed05" md5="58308b9bdf0b90b632ac4d3655a81f6d" sha1="67826f4c8e488938f7e1b26e331f79ebf0aa2565"/>
+	</machine>
+	<machine name="Puzzle Tsunagete Pon! (J) [M]">
+		<description>Puzzle Tsunagete Pon! (J) [M]</description>
+		<rom name="Puzzle Tsunagete Pon! (J) [M].ngp" size="524288" crc="37e79afc" md5="61cec52b03dbc1f1e31d8e363f76e0d1" sha1="7a75e3b6874a18b29ba636ff22308d944a7901e6"/>
+	</machine>
+	<machine name="Puzzle Tsunagete Pon! (J) [M][a1]">
+		<description>Puzzle Tsunagete Pon! (J) [M][a1]</description>
+		<rom name="Puzzle Tsunagete Pon! (J) [M][a1].ngp" size="524288" crc="ce09f534" md5="9330c9a7bbd6a7dc5b5963a5b7623443" sha1="cbe53b08d03ef684c08fc6ee28fca168a3d091a7"/>
+	</machine>
+	<machine name="Real Casino Series - Neo Cherry Master (W) [M][!]">
+		<description>Real Casino Series - Neo Cherry Master (W) [M][!]</description>
+		<rom name="Real Casino Series - Neo Cherry Master (W) [M][!].ngp" size="1048576" crc="5c067579" md5="006afe2dec77d73a2c592aeb1b3f694c" sha1="c171d8d22d667d713bfc73c2b1c04bc77aacbb5c"/>
+	</machine>
+	<machine name="Samurai Shodown! - Pocket Fighting Series (W) [M][!]">
+		<description>Samurai Shodown! - Pocket Fighting Series (W) [M][!]</description>
+		<rom name="Samurai Shodown! - Pocket Fighting Series (W) [M][!].ngp" size="2097152" crc="32e4696a" md5="d13f954b2f1c703bdf857837c24e332e" sha1="2c6adfa69e7aeada7d4198b373436eee35b70d01"/>
+	</machine>
+	<machine name="Samurai Shodown! - Pocket Fighting Series (W) [M][t1] (Button to Increase Blood)">
+		<description>Samurai Shodown! - Pocket Fighting Series (W) [M][t1] (Button to Increase Blood)</description>
+		<rom name="Samurai Shodown! - Pocket Fighting Series (W) [M][t1] (Button to Increase Blood).ngp" size="2097152" crc="7ac81e19" md5="787ae44e1d54cac01a232efb838fb4d7" sha1="3c601996bec27624aa69e34ba3a1e9cf45f05f01"/>
+	</machine>
+	<machine name="SNK Vs. Capcom - Card Fighters Clash - Capcom Version (UE) [T+Bra1.00_Maggot]">
+		<description>SNK Vs. Capcom - Card Fighters Clash - Capcom Version (UE) [T+Bra1.00_Maggot]</description>
+		<rom name="SNK Vs. Capcom - Card Fighters Clash - Capcom Version (UE) [T+Bra1.00_Maggot].ngp" size="2097152" crc="e42d33ad" md5="b3003ae931a1122553ba507c85db59ff" sha1="a4090b49fcef12152793e80dbc4478f9920ed3e4"/>
+	</machine>
+	<machine name="SNK Vs. Capcom - Card Fighters Clash - SNK Version (UE) [T+Bra1.00_Maggot]">
+		<description>SNK Vs. Capcom - Card Fighters Clash - SNK Version (UE) [T+Bra1.00_Maggot]</description>
+		<rom name="SNK Vs. Capcom - Card Fighters Clash - SNK Version (UE) [T+Bra1.00_Maggot].ngp" size="2097152" crc="beb77ccb" md5="baa74775b2e8cf30fadd05646cbbe49f" sha1="30574fef4a0d43b6abaa51da261a4a312171996c"/>
+	</machine>
+	<machine name="SNK Vs. Capcom - Card Fighters Clash - SNK Version - Single Full Card no Shop Content V3 (Hack) [T+Chi1.39]">
+		<description>SNK Vs. Capcom - Card Fighters Clash - SNK Version - Single Full Card no Shop Content V3 (Hack) [T+Chi1.39]</description>
+		<rom name="SNK Vs. Capcom - Card Fighters Clash - SNK Version - Single Full Card no Shop Content V3 (Hack) [T+Chi1.39].ngp" size="2097152" crc="687c6865" md5="05faac02b960bbb75f8ab7c80b538bba" sha1="d9c314859a2ab0875b80a8a87da5e078a5ca7dbe"/>
+	</machine>
+	<machine name="SNK Vs. Capcom - Card Fighters Clash - SNK Version - Single Full Card V2 (Hack) [T+Chi1.37]">
+		<description>SNK Vs. Capcom - Card Fighters Clash - SNK Version - Single Full Card V2 (Hack) [T+Chi1.37]</description>
+		<rom name="SNK Vs. Capcom - Card Fighters Clash - SNK Version - Single Full Card V2 (Hack) [T+Chi1.37].ngp" size="2097152" crc="3515b893" md5="2eb93bd0df7345cc805651c78c0c00c3" sha1="1c8d821d0c2bdf8bd61ad5e88a9959211dc83a06"/>
+	</machine>
+	<machine name="SNK Vs. Capcom - Card Fighters Clash - SNK Version - Single Full Card V3 (Hack) [T+Chi1.39]">
+		<description>SNK Vs. Capcom - Card Fighters Clash - SNK Version - Single Full Card V3 (Hack) [T+Chi1.39]</description>
+		<rom name="SNK Vs. Capcom - Card Fighters Clash - SNK Version - Single Full Card V3 (Hack) [T+Chi1.39].ngp" size="2097152" crc="9d53b46b" md5="69091d37e296a0bece5d7e90ef5ec4fd" sha1="01017b433ad405a9773aa6f2ded3e01aad00d121"/>
+	</machine>
+	<machine name="SNK Vs. Capcom - The Match of The Millennium (W) [T+Chi1.02]">
+		<description>SNK Vs. Capcom - The Match of The Millennium (W) [T+Chi1.02]</description>
+		<rom name="SNK Vs. Capcom - The Match of The Millennium (W) [T+Chi1.02].ngp" size="4194304" crc="15956c87" md5="185c73547f00152aef46e2982525f786" sha1="5745be3cbfdaa19004f9c4238acfc5bcf6283a96"/>
+	</machine>
+</datafile>
