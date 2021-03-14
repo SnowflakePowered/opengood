@@ -4,7 +4,7 @@ OpenGood is a freely-available distribution of XML DAT files for ROMs that are l
 
 It is made available here for historical preservation purposes. These DATs are sourced from highly outdated collections of ROMs.
 
-To remain openly distributing, OpenGood was compiled using publicly available data, and was not reverse engineered from the GoodTools suite. As a result, some DAT files may be incomplete. The corresponding have and miss lists are available under the [havelists](/havelists) directory. This also means that OpenGood DATs include MD5 hash information, in addition to the CRC32 and SHA1 hashes that GoodTools provides.
+To remain openly distributable, OpenGood was compiled using publicly available data, and was not reverse engineered from the GoodTools suite. As a result, some DAT files may be incomplete. The corresponding have and miss lists are available under the [havelists](/havelists) directory. This also means that OpenGood DATs include MD5 hash information, in addition to the CRC32 and SHA1 hashes that GoodTools provides.
 
 DAT files are available under the [dats](/dats) directory and are in Standard Logqix DAT format. They are versioned with the version number of GoodTools used to verify the completeness of the ROM set. Because OpenGood is a historical preservation project, updates will be very rare; in the case new information is available, the corresponding DAT file will be updated accordingly without a version update.
 
@@ -96,7 +96,7 @@ OpenGood is primarily available for historical preservation purposes because of 
 
 ### Can I add entries to the DATs?
 
-OpenGood's specific goal is to archive as close as possible without running afoul of the GoodTools usage license, the filenames and hashes of files that verify with the April 3rd, 2016 release of the GoodTools suite. Therefore, we will not be accepting manual contributions. If somehow you are able to improve on the missing list for an incomplete system, please get in touch by [filing an issue](https://github.com/SnowflakePowered/opengood/issues)
+OpenGood's specific goal is to archive as close as possible without running afoul of the GoodTools usage license, the filenames and hashes of files that verify with the April 3rd, 2016 release of the GoodTools suite. Therefore, we will not be accepting manual contributions. If somehow you are able to improve on the missing list for an incomplete system, please get in touch by [filing an issue](https://github.com/SnowflakePowered/opengood/issues).
 
 
 ### Why should anyone still use GoodTools?
