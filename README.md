@@ -68,16 +68,19 @@ GoodTools sometimes grouped together different but similar systems into one DAT 
 * OpenGen
   * OpenGen.Gen (Sega Mega Drive/Genesis)
   * OpenGen.32X (Sega 32X)
-* OpenWSx
-  * OpenWSx.WS (Bandai WonderSwan)
-  * OpenWSx.WSC (Bandai WonderSwan Color)
 * OpenN64
   * OpenN64.N64 (Nintendo 64)
   * OpenN64.64DD (Nintendo 64 DD)
 * OpenNGPx
   * OpenNGPx.NGP (SNK Neo Geo Pocket)
   * OpenNGPx.NGC (SNK Neo Geo Pocket Color)
-
+* OpenSNES
+  * OpenSNES.SNES (Super Nintendo Entertainment System)
+  * OpenSNES.BS (BS Satellaview)
+  * OpenSNES.ST (SuFami Turbo)
+* OpenWSx
+  * OpenWSx.WS (Bandai WonderSwan)
+  * OpenWSx.WSC (Bandai WonderSwan Color)
 ## Legal
 
 OpenGood is made freely available under the [Creative Commons CC0 License](LICENSE.md). 
