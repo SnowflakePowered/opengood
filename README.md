@@ -51,7 +51,7 @@ These DATs are reported by their corresponding GoodTool to have some missing ROM
 * OpenN64 (Nintendo 64/Nintendo 64DD) &mdash; 5265 of 5282
 * OpenNES (Nintendo Entertainment System) &mdash; 22094 of 22096
 * OpenPico (Sega Pico) &mdash;- 173 of 178
-* OpenSNES (Super Nintendo Entertainment System) &mdash; 24485 of 24508
+* OpenSNES (Super Nintendo Entertainment System) &mdash; 24486 of 24508
 * OpenWSx (Bandai WonderSwan/Bandai WonderSwan Color) &mdash; 375 of 377
 
 ## Split DATs

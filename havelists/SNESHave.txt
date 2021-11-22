@@ -1,4 +1,4 @@
- You have 24485 of 24508 known Nintendo Super NES/Famicom ROMS (V3.27)
+ You have 24486 of 24508 known Nintendo Super NES/Famicom ROMS (V3.27)
 
 '96 Zenkoku Koukou Soccer Senshuken (J) [h1C]
 '96 Zenkoku Koukou Soccer Senshuken (J)
@@ -15305,6 +15305,7 @@ Secret of the Stars (U) [h1C]
 Secret of the Stars (U) [h2C]
 Secret of the Stars (U) [h3C]
 Secret of the Stars (U) [T+Bra1.21_Bocafig]
+Secret of the Stars (U) [T+Bra]
 Secret of the Stars (U) [T+Ger0.98_AlemanicTrans]
 Secret of the Stars (U) [T+Ita060_Sertara]
 Secret of the Stars (U) [T+Spa_Chilensis]
