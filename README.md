@@ -110,7 +110,9 @@ OpenGood does not encourage the continued use of GoodTools. No-Intro, Redump, an
 
 ### What is the OpenNES.Headered DAT?
 
-The regular OpenNES.dat file does not hash the iNES header. OpenNES.Headered.dat was generated using the `fixnes` header feature of GoodNES, witht he exception of the following headerless ROMs. For most purposes, use the regular OpenNES DAT file.
+The regular OpenNES.dat file does not hash the iNES header. OpenNES.Headered.dat was generated using the `fixnes` header feature of GoodNES. For most purposes, use the regular OpenNES DAT file. The intent behind this DAT is for traceability as well as having a set with headers GoodNES deems 'best'; however because of some small differences between ROMs even ran against `fixnes` this may not necessarily result in a matching ROM set. The script used to strip iNES headers can be found [here](https://gist.github.com/chyyran/404082bba27782fa8cdb094f8969dabc).
+
+The following ROMS are not `fixnes` and are left bare. UNIF format ROMs were also not changed.
 
 ```
 2011 Super HiK 105-in-1 Turbo Edition [b1].nes
