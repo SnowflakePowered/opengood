@@ -81,6 +81,8 @@ GoodTools sometimes grouped together different but similar systems into one DAT 
 * OpenWSx
   * OpenWSx.WS (Bandai WonderSwan)
   * OpenWSx.WSC (Bandai WonderSwan Color)
+* OpenNES
+  * OpenNES.Headered (iNES headers generated with `GoodNES fixnes`)
 ## Legal
 
 OpenGood is made freely available under the [Creative Commons CC0 License](LICENSE.md). 
@@ -106,9 +108,9 @@ OpenGood's specific goal is to archive as close as possible without running afou
 
 OpenGood does not encourage the continued use of GoodTools. No-Intro, Redump, and TOSEC have done a much better job in terms of preservation and have essentially obsoleted GoodTools. However, GoodTools left a lasting legacy on the ROM preservation scene, and even 5 years since the last available release, the database information within GoodTools remains opaque and not easily distributable. OpenGood aims to preserve this database in a freely distributable and standard format, regardless of the practicalities of its use.
 
-### Why is my NES GoodSet not matching?
+### What is the OpenNES.Headered DAT?
 
-GoodTools ignores iNES headers when hashing NES ROMs to determine duplicates, and your NES set may not necessarily match up. Instead, use `fixnes` to normalize headers before trying to scan with ClrMamePro. There are a few exceptions that are explicitly not normalized; running `fixnes` on these ROMs will render them unrecognizable by GoodNES, therefore these are hashed as is.
+The regular OpenNES.dat file does not hash the iNES header. OpenNES.Headered.dat was generated using the `fixnes` header feature of GoodNES, witht he exception of the following headerless ROMs. For most purposes, use the regular OpenNES DAT file.
 
 ```
 2011 Super HiK 105-in-1 Turbo Edition [b1].nes
