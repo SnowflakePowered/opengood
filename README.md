@@ -82,7 +82,6 @@ GoodTools sometimes grouped together different but similar systems into one DAT 
   * OpenWSx.WS (Bandai WonderSwan)
   * OpenWSx.WSC (Bandai WonderSwan Color)
 * OpenNES
-  * OpenNES.Headered (iNES headers generated with `GoodNES fixnes`)
 ## Legal
 
 OpenGood is made freely available under the [Creative Commons CC0 License](LICENSE.md). 
@@ -107,28 +106,3 @@ OpenGood's specific goal is to archive as close as possible without running afou
 ### Why should anyone still use GoodTools?
 
 OpenGood does not encourage the continued use of GoodTools. No-Intro, Redump, and TOSEC have done a much better job in terms of preservation and have essentially obsoleted GoodTools. However, GoodTools left a lasting legacy on the ROM preservation scene, and even 5 years since the last available release, the database information within GoodTools remains opaque and not easily distributable. OpenGood aims to preserve this database in a freely distributable and standard format, regardless of the practicalities of its use.
-
-### What is the OpenNES.Headered DAT?
-
-The regular OpenNES.dat file does not hash the iNES header. OpenNES.Headered.dat was generated using the `fixnes` header feature of GoodNES. For most purposes, use the regular OpenNES DAT file. The intent behind this DAT is for traceability as well as having a set with headers GoodNES deems 'best'; however because of some small differences between ROMs even ran against `fixnes` this may not necessarily result in a matching ROM set. The script used to strip iNES headers can be found [here](https://gist.github.com/chyyran/404082bba27782fa8cdb094f8969dabc).
-
-The following ROMS are not `fixnes` and are left bare. UNIF format ROMs were also not changed.
-
-```
-2011 Super HiK 105-in-1 Turbo Edition [b1].nes
-Battlefield (Unl) (VT03).nes
-Burrow (Unl) (VT03).nes
-Discus Put (Unl) (VT03).nes
-Dune War (Unl) (VT03).nes
-Enchanter (Unl) (VT03).nes
-Ghost Palace (Unl) (VT03).nes
-Labyrinth (v2007SR01492) (Unl) (VT03).nes
-Lucky Time (Unl) (VT03).nes
-Memory Test (Unl) (VT03).nes
-Shot Put (Unl) (VT03).nes
-Silent Hunter (Unl) (VT03).nes
-Sniper (Unl) (VT03).nes
-Star (Unl) (VT03).nes
-Star Attack (Unl) (VT03).nes
-Sur LC (Unl) (VT03).nes
-```
